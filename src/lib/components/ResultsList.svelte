@@ -1,0 +1,90 @@
+<script>
+import { onMount } from 'svelte';
+import {Icons} from '@pkmn/img';
+
+export let protocol = '';
+export let hostname = '';
+export let port = '';
+export let players = {};
+export let query = {};
+
+const domain = port ? `${hostname}:${port}` : hostname;
+let isExpanded = false;
+
+$: isExpandable = !isExpanded && players.length > 16;
+$: species = getPresentItems(query.species)[0] ?? undefined;
+$: teammates = getPresentItems(query.teammates).reverse();
+
+function expandResults(e) {
+  isExpanded = true;
+}
+
+function getPresentItems(queryMap) {
+  if (!queryMap) {
+    return [];
+  }
+  const results = [];
+  for(let [item, present] of queryMap.entries()) {
+    if (present) {
+      results.push(item);
+    }
+  }
+  return results.sort();
+}
+
+function getListingName(player) {
+  return `${player.name}`;
+}
+
+function getTeamDisplay(team, query) {
+  const display = [{}, {}, {}, {}, {}, {}];
+  (team ?? []).forEach((el, i) => {
+    display[i] = el;
+  });
+  display.sort((a,b) => {
+    if (!a.species) {
+      return 1;
+    }
+    if (!b.species) {
+      return -1;
+    }
+
+    if (a.species === species) {
+      return -1;
+    }
+    if (b.species === species) {
+      return 1;
+    }
+
+    return teammates.indexOf(b.species) - teammates.indexOf(a.species);
+  });
+  return display;
+}
+</script>
+
+<h2>Teams</h2>
+
+<div class="teamlist">
+  {#each (isExpanded ? players : players.slice(0, 16)) as player (player.swiss.place)}
+    <p>
+      {#if player.paste}
+        <a href={player.paste}>{getListingName(player)}</a>
+      {:else}
+        <b>{getListingName(player)}</b>
+      {/if}
+    </p>
+    <p>
+      {#each getTeamDisplay(player.team, query) as set}
+        <span
+          title={set.species ?? 'No Data'}
+          style={Icons.getPokemon(set.species ?? 'No Data', {protocol: protocol, domain: domain}).style}
+        >
+        </span>
+      {/each}
+    </p>
+  {/each}
+</div>
+
+{#if isExpandable}
+  <button on:click={expandResults} class="secondary show-all">Show all teams</button>
+{/if}
