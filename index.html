@@ -1,61 +1,898 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    
-		<link href="./_app/immutable/assets/_layout.68da5101.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.1a5d33f1.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.627eab2f.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.cfa9368a.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.9d51684e.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/0.665a34ee.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/_layout.0e6b41be.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/3.970281ca.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/_page.0945e292.js"><title>Top Cut Explorer</title><!-- HEAD_svelte-d27yne_START --><meta property="og:title" content="Top Cut Explorer"><meta property="og:url" content="https://cut-explorer.stalruth.dev/"><meta property="og:description" content="Fine grained analytical tool for VGC Top Cut teams."><meta name="description" content="Fine grained analytical tool for VGC Top Cut teams."><!-- HEAD_svelte-d27yne_END -->
-  </head>
-  <body data-sveltekit-preload-data="hover">
-    <div style="display: contents">
+﻿<!doctype HTML>
+<html>
+<head>
+    <link rel="icon" type="image/png" href="image_res/Favicon-32px.ico">
+    <link rel="image_src" href="image_res/Logo Nimbasa City Post PNG.png" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="script_res/select2.css" />
+    <link rel="stylesheet" href="script_res/w3.css">
+    <link rel="stylesheet" href="script_res/mobileFriendly.css">
+    <title>Pokemon VGC Damage Calculator</title>
 
+</head>
 
-<main>
+<body>
 
-<h1>VGC Top Cut Explorer</h1>
-<details open><summary>Regulation D (1-Jul to 30-Sep-2023)</summary>
-  <ul><li><a href="reg-d">Regulation D</a></li></ul></details></main>
-<footer><details><summary>Credits</summary>
-    <dl><dt>Programming and Design</dt><dd><a href="https://stalruth.dev">Stuart Rutherford</a> (<a href="https://github.com/Stalruth/cut-explorer/">GitHub</a>)</dd><dt>Team exports</dt><dd><a href="https://twitter.com/VGCPastes">VGC Pastes</a></dd><dt>Standings</dt><dd><a href="https://pokedata.ovh/">PokeData</a></dd><dt>Pokémon Set Parsing and Sprites</dt><dd><a href="https://github.com/pkmn/ps">pkmn/ps</a></dd><dd><a href="https://play.pokemonshowdown.com">Pokémon Showdown</a></dd><dt>Teamlist Hosting</dt><dd><a href="https://pokepast.es/">PokePaste</a></dd><dt>Favicon</dt><dd><a href="https://github.com/twitter/twemoji">Twemoji by Twitter</a></dd></dl></details></footer>
+    <!--side bar-->
+    <div class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="display:none" id="navDemo">
+        <a onclick="myFunction()" class="w3-bar-item w3-large">Close &times;</a>
 
+        <a href="http://play.pokemonshowdown.com/vgc" class="w3-bar-item w3-button" onclick="myFunction()" target="_blank" rel="noopener noreferrer">Showdown</a>
+        <a href="https://pikalytics.com/pokedex" class="w3-bar-item w3-button" onclick="myFunction()" target="_blank" rel="noopener noreferrer">Showdown Usage Stats</a>
+        <a href="https://docs.google.com/spreadsheets/d/1axlwmzPA49rYkqXh7zHvAtSP-TKbM0ijGYBPRflLSWw" class="w3-bar-item w3-button" onclick="myFunction()" target="_blank" rel="noopener noreferrer">VGCPastes Repository</a>
+        <a href="https://github.com/nerd-of-now/VGC-Damage-Calculator" class="w3-bar-item w3-button" onclick="myFunction()" target="_blank" rel="noopener noreferrer">GitHub Page</a>
+        <a href="https://www.nimbasacitypost.com/2019/12/vgc-resources.html" class="w3-bar-item w3-button" onclick="myFunction()" target="_blank" rel="noopener noreferrer">Other VGC Resources</a>
+    </div>
 
-			
-			<script>
-				{
-					__sveltekit_17peg4f = {
-						base: new URL(".", location).pathname.slice(0, -1),
-						env: {}
-					};
+    <!--Top navbar-->
+    <div class="w3-top">
+        <div class="w3-bar w3-black w3-card">
+            <a href="http://nimbasacitypost.com" class="w3-bar-item w3-button" target="_blank" rel="noopener noreferrer">Home</a>
+            <button class="w3-button w3-bar-item w3-large w3-w3-right w3-hide-medium w3-hide-large" onclick="myFunction()">☰</button>
+            <a href="http://play.pokemonshowdown.com/vgc" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Showdown</a>
+            <a href="https://pikalytics.com/pokedex" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Showdown Usage Stats</a>
+            <a href="https://docs.google.com/spreadsheets/d/1axlwmzPA49rYkqXh7zHvAtSP-TKbM0ijGYBPRflLSWw" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">VGCPastes Repository</a>
+            <a href="https://github.com/nerd-of-now/VGC-Damage-Calculator" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">GitHub Page</a>
+            <a href="https://www.nimbasacitypost.com/2019/12/vgc-resources.html" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Other VGC Resources</a>
+            <input class="btn-input w3-hide" type="checkbox" id="switchDex" /><label class="btn dex-change gen-specific g8 g9 w3-hide" for="switchDex" title="Include Pokémon that aren't in this gen?">National Dex</label>
+            <button class="btn w3-hide" id="switchTheme">Dark theme</button>
+        </div>
+    </div>
 
-					const element = document.currentScript.parentElement;
+    <!--Body content, div is set up so that top bar doesn't overlap content'-->
+    <div class="w3-content" style="max-width: 1280px;margin-top:46px">
+        <!--Fluff text, maybe some updates happened or want some coffee money-->
+        <div class="w3-container w3-content">
+            <h2 class="w3-content w3-left w3-row">VGC Damage Calculator</h2>
+            <div class="w3-row">
+                <p>Could you imagine using a damage calculator on your phone?</p>
+                <p>
+                    Updates
+                    <ul>
+                        <li>07/10/2023 - Vuanotto - Finished the skeleton, time to differentiate mobile from web</li>
+                        <li>03/10/2023 - Vuanotto - Project started</li>
+                    </ul>
+                </p>
+                <p>
+                    To-do
+                    <ul>
+                        <li>Hide elements in mobile version</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        <hr />
+        <!--Ew generation bar-->
+        <div class="w3-container w3-hide-small">
+            <div class="w3-bar">
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="1" id="gen1" /><label class="" for="gen1">RBY</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="2" id="gen2" /><label class="" for="gen2">GSC</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="3" id="gen3" /><label class="" for="gen3">ADV</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="4" id="gen4" /><label class="" for="gen4">DPP</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="5" id="gen5" /><label class="" for="gen5">B/W</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="6" id="gen6" /><label class="" for="gen6">ORAS</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="7" id="gen7" /><label class="" for="gen7">USUM</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="8" id="gen8" /><label class="" for="gen8">SWSH</label>
+                </div>
+                <div class="w3-button w3-bar-item">
+                    <input class="gen w3-radio" type="radio" name="gen" value="9" id="gen9" checked="checked" /><label class="" for="gen9">S/V</label>
+                </div>
+            </div>
+        </div>
 
-					const data = [null,null];
+        <!--Pokemon moves and damage calc; this is where the real spaghetti is-->
+        <div class="w3-container">
+            <div class="w3-container w3-col m6 damage-calculations">
+                <!--Do not remove result-move from class-->
+                <div class="w3-row resultHeaderL" id="resultHeaderL">Pokémon 1's Moves (select one to show detailed results)</div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveL1" checked="checked" /><label class="" for="resultMoveL1">Hi Jump Kick</label> <span id="resultDamageL1">??? - ???%</span></div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveL2" /><label class="" for="resultMoveL2">Falcon Punch</label> <span id="resultDamageL2">??? - ???%</span></div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveL3" /><label class="" for="resultMoveL3">Suspicious Odor</label> <span id="resultDamageL3">??? - ???%</span></div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveL4" /><label class="" for="resultMoveL4">Tombstoner</label> <span id="resultDamageL4">??? - ???%</span></div>
+            </div>
+            <div class="w3-container w3-col m6 damage-calculations">
+                <!--Do not remove result-move from class-->
+                <div class="w3-row resultHeaderR" id="resultHeaderR">Pokémon 2's Moves (select one to show detailed results)</div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveR1" checked="checked" /><label class="" for="resultMoveR1">Hi Jump Kick</label> <span id="resultDamageR1">??? - ???%</span></div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveR2" /><label class="" for="resultMoveR2">Falcon Punch</label> <span id="resultDamageR2">??? - ???%</span></div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveR3" /><label class="" for="resultMoveR3">Suspicious Odor</label> <span id="resultDamageR3">??? - ???%</span></div>
+                <div><input class="result-move w3-row" type="radio" name="resultMove" id="resultMoveR4" /><label class="" for="resultMoveR4">Tombstoner</label> <span id="resultDamageR4">??? - ???%</span></div>
+            </div>
+        </div>
 
-					Promise.all([
-						import("./_app/immutable/entry/start.1a5d33f1.js"),
-						import("./_app/immutable/entry/app.9d51684e.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 3],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-  </body>
+        <!--Damage calc text here-->
+        <div class="w3-container damage-calculations">
+            <div class="w3-row">Click to copy calc</div>
+            <div class="w3-row w3-button" id="mainResult" style="white-space: normal" onclick="Clipboard_CopyTo(this.textContent)" title="Click to copy the result">512+ SpA Chi Yu Overheat vs. 0 HP / 0 SpD Your Mom: 100000000 DAMAGE</div>
+            <div class="w3-row" id="damageValues">(many numbers that should resemble a damage calculation if javascript has loaded)</div>
+        </div>
+
+        <!--Pokemon sets and field conditions-->
+        <!--Exporting and importing sets, make it a pop up thing under the pokemon sets-->
+        <div class="w3-container w3-row">
+            <!--Pokemon 1-->
+            <div class="w3-card w3-col m4 w3-mobile poke-info" id="p1">
+                <!--Pokemon name box-->
+                <div class="w3-padding-small panel-heading">
+                    <h4 class="panel-title">Pokemon 1</h4>
+                </div>
+
+                <!--Pokemon search and typings-->
+                <div class="w3-padding-small">
+                    <input type="text" class="set-selector calc-trigger w3-input w3-padding-small" value="Garfield" />
+                    <div class="w3-padding-small">
+                        <label class="">Type</label>
+                        <select class="type1 terrain-trigger calc-trigger w3-select"></select>
+                        <select class="type2 terrain-trigger calc-trigger w3-select"></select>
+                    </div>
+                    <div class="gen-specific g9 w3-padding-small">
+                        <label>Tera Type</label>
+                        <select class="tera-type calc-trigger gen-specific g9 w3-select"></select>
+                        <input class="tera move-tera calc-trigger btn-input w3-check" type="checkbox" id="teraL" /><label class="btn btn-wide gen-specific g9" for="teraL" title="Terastalize this Pokémon?">Terastal</label>
+                    </div>
+                    <div class="hide w3-padding-small">
+                        <label>Forme</label>
+                        <select class="forme calc-trigger w3-select"></select>
+                    </div>
+                    <div class="w3-padding-small">
+                        <label>Level</label>
+                        <input class="level calc-trigger w3-input" value="50" />
+                    </div>
+                    <div class="w3-hide w3-padding-small">
+                        <label>Weight (kg)</label>
+                        <input class="weight calc-trigger w3-input" value="10.0" />
+                    </div>
+                </div>
+
+                <!--Pokemon stats-->
+                <div class="info-group w3-padding-small">
+                    <table class="w3-table">
+                        <tr>
+                            <!--Header row-->
+                            <th></th><!--Stat name-->
+                            <th></th>
+                            <th class="gen-specific g3 g4 g5 g6 g7 g8 g9">IVs</th>
+                            <th class="gen-specific g3 g4 g5 g6 g7 g8 g9">EVs</th>
+                            <th class="gen-specific g1 g2 hide">DVs</th>
+                            <th></th><!--Stat change-->
+                            <th></th><!--Modified stat, only applicable for choice scarf-->
+                        </tr>
+                        <tr class="hp">
+                            <td><label>HP</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" disabled="disabled" /></td>
+                            <td><span class="total">341</span></td>
+                            <td></td>
+                        </tr>
+                        <tr class="at">
+                            <td><label>Atk</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="df">
+                            <td><label>Def</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sa gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                            <td><label>SpA</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sd gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                            <td><label>SpD</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sl gen-specific g1 hide">
+                            <td><label>Spc</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sp">
+                            <td><label>Spe</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td class='ev-total'>&nbsp;</td>
+                            <td class='ev-w3-left'>&nbsp;</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </div>
+
+                <!--Pokemon nature, ability, item and status-->
+                <div class="info-group info-selectors w3-padding-small">
+                    <div class="gen-specific g3 g4 g5 g6 g7 g8 g9">
+                        <label>Nature</label>
+                        <select class="nature calc-trigger w3-select"><option value="Adamant">Adamant (+Atk, -SpA)</option><option value="Bashful">Bashful</option><option value="Bold">Bold (+Def, -Atk)</option><option value="Brave">Brave (+Atk, -Spe)</option><option value="Calm">Calm (+SpD, -Atk)</option><option value="Careful">Careful (+SpD, -SpA)</option><option value="Docile">Docile</option><option value="Gentle">Gentle (+SpD, -Def)</option><option value="Hardy" selected="selected">Hardy</option><option value="Hasty">Hasty (+Spe, -Def)</option><option value="Impish">Impish (+Def, -SpA)</option><option value="Jolly">Jolly (+Spe, -SpA)</option><option value="Lax">Lax (+Def, -SpD)</option><option value="Lonely">Lonely (+Atk, -Def)</option><option value="Mild">Mild (+SpA, -Def)</option><option value="Modest">Modest (+SpA, -Atk)</option><option value="Naive">Naive (+Spe, -SpD)</option><option value="Naughty">Naughty (+Atk, -SpD)</option><option value="Quiet">Quiet (+SpA, -Spe)</option><option value="Quirky">Quirky</option><option value="Rash">Rash (+SpA, -SpD)</option><option value="Relaxed">Relaxed (+Def, -Spe)</option><option value="Sassy">Sassy (+SpD, -Spe)</option><option value="Serious">Serious</option><option value="Timid">Timid (+Spe, -Atk)</option></select>
+                    </div>
+                    <div class="gen-specific g3 g4 g5 g6 g7 g8 g9">
+                        <label>Ability</label>
+                        <select class="ability terrain-trigger calc-trigger small-select w3-select"></select>
+                        <input class="abilityToggle calc-trigger hide w3-check" type="checkbox" title="Is this Ability active?">
+                        <select class="ability-supreme calc-trigger hide w3-select"><option value="0">0 down</option><option value="1">1 down</option><option value="2">2 down</option><option value="3">3 down</option><option value="4">4 down</option><option value="5">5 down</option></select>
+                        <input class="ability-advanced calc-trigger hide w3-check" type="checkbox" title="Click here manually choose the boost. Will be done automatically otherwise.">
+                        <select class="ability-proto-quark calc-trigger hide w3-select"><option value="0">Attack</option><option value="1">Defense</option><option value="2">Sp. Atk</option><option value="3">Sp. Def</option><option value="4">Speed</option></select>
+                    </div>
+                    <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                        <label>Item</label>
+                        <select class="item terrain-trigger calc-trigger small-select w3-select"></select>
+                    </div>
+                    <div>
+                        <label>Status</label>
+                        <select class="status calc-trigger w3-select"><option value="Healthy">Healthy</option><option value="Poisoned">Poisoned</option><option value="Badly Poisoned">Badly Poisoned</option><option value="Burned">Burned</option><option value="Paralyzed">Paralyzed</option><option value="Asleep">Asleep</option><option value="Frozen">Frozen</option></select>
+                    </div>
+                </div>
+
+                <!--Pokemon Current HP-->
+                <div class="info-group w3-padding-small">
+                    <div>
+                        <label>Current HP</label>
+                        <input class="current-hp calc-trigger w3-input" value="341" />/<span class="max-hp">341</span> (<input class="percent-hp calc-trigger w3-input" value="100" />%)
+                    </div>
+                    <div>
+                        <input class="max move-max calc-trigger w3-check" type="checkbox" id="maxL" />
+                        <label class="gen-specific g8" for="maxL" title="Dynamax this Pokémon?">Dynamax</label>
+                    </div>
+                </div>
+
+                <!--Moves-->
+                <div class="move1">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="move2">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="move3">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="move4">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="hide glaive-rush">
+                    <label>Glaive Rush used? </label>
+                    <input class="calc-trigger w3-check" type="checkbox" id="glaiveL" title="Apply double damage from using Glaive Rush?" />
+                </div>
+
+                <!--Import and export sets-->
+                <div class="info-group w3-padding-small">
+                    <input type="text" class="setCalc w3-input" id="setName1" value="My Calc Set">
+                    <button type="button" class="sets w3-button" onclick="savecalc1()">Save Set</button>
+                    <button type="button" class="sets w3-button" onclick="importset1()">Import Set</button>
+                    <button type="button" class="sets w3-button" onclick="exportset1()">Export Set</button>
+                </div>
+            </div>
+            <!--Field-->
+            <div class="w3-card w3-col m4 w3-mobile">
+                <!--Header-->
+                <div class="w3-container">
+                    <h4 class="">
+                        Field
+                        <div id="autolevel">
+                            Auto-Level to:
+                            <div class="onoffswitch" style="margin-w3-left: 1em">
+                                <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="douswitch" checked>
+                                <label class="onoffswitch-label" for="douswitch">
+                                    <span class="onoffswitch-inner"></span>
+                                    <span class="onoffswitch-switch"></span>
+                                </label>
+                            </div>
+                        </div>
+                    </h4>
+                </div>
+
+                <!--Field Conditions-->
+                <div>
+                    <!--Single target or double-->
+                    <div class="gen-specific g3 g4 g5 g6 g7 g8 g9" style="width: 11em; margin: 0 auto 5px;" title="Select the battle format.">
+                        <input class="btn-input calc-trigger" type="radio" name="format" value="Singles" id="singles" checked="checked" /><label class="btn btn-w3-left" for="singles">Singles</label>
+                        <input class="btn-input calc-trigger" type="radio" name="format" value="Doubles" id="doubles" /><label class="btn btn-w3-right" for="doubles">Doubles</label>
+                    </div>
+                    <!--Terrain-->
+                    <div class="gen-specific g6 g7 g8 g9" style="width: 23.0em; margin: 5px auto;" title="Select the current terrain.">
+                        <input class="btn-input terrain-trigger calc-trigger" type="radio" name="terrain" value="" id="noterrain" checked="checked" /><label class="btn btn-small btn-w3-left" for="noterrain">None</label>
+                        <input class="btn-input terrain-trigger calc-trigger" type="radio" name="terrain" value="Electric" id="electric" /><label class="btn btn-small btn-mid" for="electric">Electric</label>
+                        <input class="btn-input terrain-trigger calc-trigger" type="radio" name="terrain" value="Grassy" id="grassy" /><label class="btn btn-small btn-mid" for="grassy">Grassy</label>
+                        <input class="btn-input terrain-trigger calc-trigger" type="radio" name="terrain" value="Misty" id="misty" /><label class="btn btn-small btn-mid" for="misty">Misty</label>
+                        <input class="btn-input terrain-trigger calc-trigger" type="radio" name="terrain" value="Psychic" id="psychic" /><label class="btn btn-small btn-w3-right" for="psychic">Psychic</label>
+                    </div>
+                    <!--Gen 3+ Weather-->
+                    <div class="gen-specific g3 g4 g5 g6 g7 g8 g9" style="width: 23em; margin: 5px auto;" title="Select the current weather condition.">
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="" id="clear" checked="checked" /><label class="btn btn-small btn-w3-left" for="clear">None</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Sun" id="sun" /><label class="btn btn-small btn-mid" for="sun">Sun</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Rain" id="rain" /><label class="btn btn-small btn-mid" for="rain">Rain</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Sand" id="sand" /><label class="btn btn-small btn-mid" for="sand">Sand</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Hail" id="hail" /><label class="btn btn-small btn-w3-right gen-specific g3 g4 g5 g6 g7 g8" for="hail">Hail</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Snow" id="snow" /><label class="btn btn-small btn-w3-right gen-specific g9" for="snow">Snow</label>
+                    </div>
+                    <!--Primal weather-->
+                    <div class="gen-specific g6 g7" style="width: 23em; margin: 5px auto;" title="Select the current weather condition.">
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Harsh Sun" id="harsh-sun" /><label class="btn btn-wide btn-w3-left" for="harsh-sun">Harsh Sun</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Heavy Rain" id="heavy-rain" /><label class="btn btn-wide btn-mid" for="heavy-rain">Heavy Rain</label>
+                        <input class="btn-input calc-trigger" type="radio" name="weather" value="Strong Winds" id="strong-winds" /><label class="btn btn-xwide btn-w3-right" for="strong-winds">Strong Winds</label>
+                    </div>
+                    <!--Gen 2 Weather-->
+                    <div class="gen-specific g2 hide" style="width: 23em; margin: 0 auto 5px;" title="Select the current weather condition.">
+                        <input class="btn-input calc-trigger" type="radio" name="gscWeather" value="" id="gscClear" checked="checked" /><label class="btn btn-small btn-w3-left" for="gscClear">None</label>
+                        <input class="btn-input calc-trigger" type="radio" name="gscWeather" value="Sun" id="gscSun" /><label class="btn btn-small btn-mid" for="gscSun">Sun</label>
+                        <input class="btn-input calc-trigger" type="radio" name="gscWeather" value="Rain" id="gscRain" /><label class="btn btn-small btn-mid" for="gscRain">Rain</label>
+                        <input class="btn-input calc-trigger" type="radio" name="gscWeather" value="Sand" id="gscSand" /><label class="btn btn-small btn-w3-right" for="gscSand">Sand</label>
+                    </div>
+                    <!--Auras-->
+                    <div class="gen-specific g6 g7 g8 g9" style="width: 22em; margin: 5px auto;" title="Select the current radiating aura.">
+                        <input class="btn-input calc-trigger" type="checkbox" name="aura" value="Aura Break" id="aura-break" /><label class="btn btn-wide btn-w3-left" for="aura-break">Aura Break</label>
+                        <input class="btn-input calc-trigger" type="checkbox" name="aura" value="Fairy Aura" id="fairy-aura" /><label class="btn btn-wide btn-mid" for="fairy-aura">Fairy Aura</label>
+                        <input class="btn-input calc-trigger" type="checkbox" name="aura" value="Dark Aura" id="dark-aura" /><label class="btn btn-wide btn-w3-right" for="dark-aura">Dark Aura</label>
+                    </div>
+                    <!--Treasures of Ruin-->
+                    <div class="gen-specific g9" style="width: 19em; margin: 5px auto;" title="Select the current active Ruin.">
+                        <input class="btn-input calc-trigger" type="checkbox" name="ruin" value="Tablets of Ruin" id="tablets-of-ruin" /><label class="btn btn-xxxwide btn-w3-left" for="tablets-of-ruin">Tablets of Ruin <u>(-Atk)</u></label>
+                        <input class="btn-input calc-trigger" type="checkbox" name="ruin" value="Vessel of Ruin" id="vessel-of-ruin" /><label class="btn btn-xxxwide btn-w3-right" for="vessel-of-ruin">Vessel of Ruin <u>(-SpA)</u></label>
+                        <br />
+                        <input class="btn-input calc-trigger" type="checkbox" name="ruin" value="Sword of Ruin" id="sword-of-ruin" /><label class="btn btn-xxxwide btn-w3-left" for="sword-of-ruin">Sword of Ruin <u>(-Def)</u></label>
+                        <input class="btn-input calc-trigger" type="checkbox" name="ruin" value="Beads of Ruin" id="beads-of-ruin" /><label class="btn btn-xxxwide btn-w3-right" for="beads-of-ruin">Beads of Ruin <u>(-SpD)</u></label>
+                    </div>
+                    <!--Other field effects like gravity and farts-->
+                    <div class="w3-row w3-center">
+                        <div class="gen-specific g4 g5 g6 g7 g8 g9">
+                            <input class="btn-input calc-trigger" type="checkbox" id="gravity" /><label class="btn" for="gravity" title="Is gravity in effect?">Gravity</label>
+                        </div>
+                        <div class="gen-specific g8 g9">
+                            <input class="btn-input calc-trigger" type="checkbox" id="neutralizingGas" /><label class="btn btn-xwide" for="neutralizingGas" title="Is neutralizing gas in effect?">Neutralizing Gas</label>
+                        </div>
+                    </div>
+
+                    <!--Active effects-->
+                    <hr class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9" />
+                    <!--Protect-->
+                    <div class="w3-row gen-specific g7 g8">
+                        <div class="w3-left" title="Is this Pokémon protecting?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="protectL" /><label class="btn btn-xwide" for="protectL">Protect</label>
+                        </div>
+                        <div class="w3-right" title="Is this Pokémon protecting?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="protectR" /><label class="btn btn-xwide" for="protectR">Protect</label>
+                        </div>
+                    </div>
+                    <!--Helping hand-->
+                    <div class="w3-row gen-specific g3 g4 g5 g6 g7 g8 g9">
+                        <div class="w3-left" title="Has this Pokémon's power been boosted by an ally's Helping Hand?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="helpingHandL" /><label class="btn btn-xwide" for="helpingHandL">Helping Hand</label>
+                        </div>
+                        <div class="w3-right" title="Has this Pokémon's power been boosted by an ally's Helping Hand?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="helpingHandR" /><label class="btn btn-xwide" for="helpingHandR">Helping Hand</label>
+                        </div>
+                    </div>
+                    <!--Aurora Veil-->
+                    <div class="w3-row gen-specific g7 g8 g9">
+                        <div class="w3-left" title="Is this Pokémon protected by Aurora Veil?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="auroraVeilL" /><label class="btn btn-xwide" for="auroraVeilL">Aurora Veil</label>
+                        </div>
+                        <div class="w3-right" title="Is this Pokémon protected by Aurora Veil?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="auroraVeilR" /><label class="btn btn-xwide" for="auroraVeilR">Aurora Veil</label>
+                        </div>
+                    </div>
+                    <!--Screens-->
+                    <div class="w3-row">
+                        <div class="w3-left" title="Is this Pokémon protected by Reflect and/or Light Screen?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="reflectL" /><label class="btn btn-w3-left" for="reflectL">Reflect</label>
+                            <input class="btn-input calc-trigger" type="checkbox" id="lightScreenL" /><label class="btn btn-wide btn-w3-right" for="lightScreenL">Light Screen</label>
+                        </div>
+                        <div class="w3-right" title="Is this Pokémon protected by Reflect and/or Light Screen?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="reflectR" /><label class="btn btn-w3-left" for="reflectR">Reflect</label>
+                            <input class="btn-input calc-trigger" type="checkbox" id="lightScreenR" /><label class="btn btn-wide btn-w3-right" for="lightScreenR">Light Screen</label>
+                        </div>
+                    </div>
+                    <!--Tailwind?-->
+                    <div class="w3-row gen-specific g4 g5 g6 g7 g8 g9">
+                        <div class="w3-left" title="Has Tailwind been set?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="tailwindL" /><label class="btn btn-xwide" for="tailwindL">Tailwind</label>
+                        </div>
+                        <div class="w3-right" title="Has Tailwind been set?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="tailwindR" /><label class="btn btn-xwide" for="tailwindR">Tailwind</label>
+                        </div>
+                    </div>
+                    <!--G-Max DoT-->
+                    <div class="w3-row gen-specific g8">
+                        <div class="w3-left" title="Is G-Max Wildfire, Volcalith, Vine Lash, or Cannonade in effect?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="gMaxFieldL" /><label class="btn btn-xwide" for="gMaxFieldL">G-Max Field</label>
+                        </div>
+                        <div class="w3-right" title="Is G-Max Wildfire, Volcalith, Vine Lash, or Cannonade in effect?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="gMaxFieldR" /><label class="btn btn-xwide" for="gMaxFieldR">G-Max Field</label>
+                        </div>
+                    </div>
+                    <!--Friend guard-->
+                    <div class="w3-row gen-specific g5 g6 g7 g8 g9">
+                        <div class="w3-left" title="Is this Pokémon protected by an ally's Friend Guard?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="friendGuardL" /><label class="btn btn-xwide" for="friendGuardL">Friend Guard</label>
+                        </div>
+                        <div class="w3-right" title="Is this Pokémon protected by an ally's Friend Guard?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="friendGuardR" /><label class="btn btn-xwide" for="friendGuardR">Friend Guard</label>
+                        </div>
+                    </div>
+                    <!--Stealth Rock-->
+                    <div class="w3-row gen-specific g4 g5 g6 g7 g8 g9">
+                        <div class="w3-left" title="Is Stealth Rock affecting this side of the field?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="srL" /><label class="btn btn-xwide" for="srL">Stealth Rock</label>
+                        </div>
+                        <div class="w3-right" title="Is Stealth Rock affecting this side of the field?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="srR" /><label class="btn btn-xwide" for="srR">Stealth Rock</label>
+                        </div>
+                    </div>
+                    <!--Spikes-->
+                    <div class="w3-row gen-specific g3 g4 g5 g6 g7 g8 g9">
+                        <div class="w3-left" title="Are there Spikes on this side of the field?">
+                            <input class="btn-input calc-trigger" type="radio" name="spikesL" value="0" id="spikesL0" checked="checked" /><label class="btn btn-xsmall btn-w3-left" for="spikesL0">0</label>
+                            <input class="btn-input calc-trigger" type="radio" name="spikesL" value="1" id="spikesL1" /><label class="btn btn-xsmall btn-mid" for="spikesL1">1</label>
+                            <input class="btn-input calc-trigger" type="radio" name="spikesL" value="2" id="spikesL2" /><label class="btn btn-xsmall btn-mid" for="spikesL2">2</label>
+                            <input class="btn-input calc-trigger" type="radio" name="spikesL" value="3" id="spikesL3" /><label class="btn btn-wide btn-w3-right" for="spikesL3">3 Spikes</label>
+                        </div>
+                        <div class="w3-right" title="Are there Spikes on this side of the field?">
+                            <input class="btn-input calc-trigger" type="radio" name="spikesR" value="0" id="spikesR0" checked="checked" /><label class="btn btn-xsmall btn-w3-left" for="spikesR0">0</label>
+                            <input class="btn-input calc-trigger" type="radio" name="spikesR" value="1" id="spikesR1" /><label class="btn btn-xsmall btn-mid" for="spikesR1">1</label>
+                            <input class="btn-input calc-trigger" type="radio" name="spikesR" value="2" id="spikesR2" /><label class="btn btn-xsmall btn-mid" for="spikesR2">2</label>
+                            <input class="btn-input calc-trigger" type="radio" name="spikesR" value="3" id="spikesR3" /><label class="btn btn-wide btn-w3-right" for="spikesR3">3 Spikes</label>
+                        </div>
+                    </div>
+                    <!--Flower Gift-->
+                    <div class="w3-row gen-specific g4 g5 g6 g7 g8">
+                        <div class="w3-left" title="Does this Pokémon's ally have Flower Gift?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="flowerGiftL" /><label class="btn btn-xxwide" for="flowerGiftL">Flower Gift</label>
+                        </div>
+                        <div class="w3-right" title="Does this Pokémon's ally have Flower Gift?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="flowerGiftR" /><label class="btn btn-xxwide" for="flowerGiftR">Flower Gift</label>
+                        </div>
+                    </div>
+                    <!--Steely Spirit-->
+                    <div class="w3-row gen-specific g8 g9">
+                        <div class="w3-left" title="Does this Pokémon's ally have Steely Spirit?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="steelySpiritL" /><label class="btn btn-xwide" for="steelySpiritL">Steely Spirit</label>
+                        </div>
+                        <div class="w3-right" title="Does this Pokémon's ally have Steely Spirit?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="steelySpiritR" /><label class="btn btn-xwide" for="steelySpiritR">Steely Spirit</label>
+                        </div>
+                    </div>
+                    <!--Power Spot-->
+                    <div class="w3-row gen-specific g8 g9">
+                        <div class="w3-left" title="Is this Pokémon boosted by an ally's Power Spot?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="powerSpotL" /><label class="btn btn-xwide" for="powerSpotL">Power Spot</label>
+                        </div>
+                        <div class="w3-right" title="Is this Pokémon boosted by an ally's Power Spot?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="powerSpotR" /><label class="btn btn-xwide" for="powerSpotR">Power Spot</label>
+                        </div>
+                    </div>
+                    <!--Battery-->
+                    <div class="w3-row gen-specific g7 g8 g9">
+                        <div class="w3-left" title="Has this Pokémon's power been boosted by an ally's Battery?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="batteryL" /><label class="btn btn-xwide" for="batteryL">Battery</label>
+                        </div>
+                        <div class="w3-right" title="Has this Pokémon's power been boosted by an ally's Battery?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="batteryR" /><label class="btn btn-xwide" for="batteryR">Battery</label>
+                        </div>
+                    </div>
+                    <!--Extreme Evoboost-->
+                    <div class="w3-row gen-specific g7">
+                        <div class="w3-left" title="Has this Pokémon used Extreme Evoboost?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="evoL" /><label class="btn btn-xwide" for="evoL"><img src="image_res/133.png"><br>Extreme Evoboost</label>
+                        </div>
+                        <div class="w3-right" title="Has this Pokémon used Extreme Evoboost?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="evoR" /><label class="btn btn-xwide" for="evoR"><img src="image_res/133.png"><br>Extreme Evoboost</label>
+                        </div>
+                    </div>
+                    <!--Tatsugiri-->
+                    <div class="w3-row gen-specific g9">
+                        <div class="w3-left" title="Has this Pokémon eaten a Tatsugiri?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="tatsuL" /><label class="btn btn-xwide" for="tatsuL"><img src="image_res/Tatsugiri.png" width="58" height="58"><br>Commander</label>
+                        </div>
+                        <div class="w3-right" title="Has this Pokémon eaten a Tatsugiri?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="tatsuR" /><label class="btn btn-xwide" for="tatsuR"><img src="image_res/Tatsugiri.png" width="58" height="58"><br>Commander</label>
+                        </div>
+                    </div>
+                    <!--Gen 2 spikes-->
+                    <div class="w3-row gen-specific g2">
+                        <div class="w3-left" title="Are there Spikes on this side of the field?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="gscSpikesL" /><label class="btn" for="gscSpikesL">Spikes</label>
+                        </div>
+                        <div class="w3-right" title="Are there Spikes on this side of the field?">
+                            <input class="btn-input calc-trigger" type="checkbox" id="gscSpikesR" /><label class="btn" for="gscSpikesR">Spikes</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Pokemon 2-->
+            <div class="w3-card w3-col m4 w3-mobile poke-info" id="p2">
+                <!--Pokemon name box-->
+                <div class="w3-padding-small panel-heading">
+                    <h4 class="panel-title">Pokemon 1</h4>
+                </div>
+
+                <!--Pokemon search and typings-->
+                <div class="w3-padding-small">
+                    <input type="text" class="set-selector calc-trigger w3-input w3-padding-small" value="Garfield" />
+                    <div class="w3-padding-small">
+                        <label class="">Type</label>
+                        <select class="type1 terrain-trigger calc-trigger w3-select"></select>
+                        <select class="type2 terrain-trigger calc-trigger w3-select"></select>
+                    </div>
+                    <div class="gen-specific g9 w3-padding-small">
+                        <label>Tera Type</label>
+                        <select class="tera-type calc-trigger gen-specific g9 w3-select"></select>
+                        <input class="tera move-tera calc-trigger btn-input w3-check" type="checkbox" id="teraL" /><label class="btn btn-wide gen-specific g9" for="teraL" title="Terastalize this Pokémon?">Terastal</label>
+                    </div>
+                    <div class="hide w3-padding-small">
+                        <label>Forme</label>
+                        <select class="forme calc-trigger w3-select"></select>
+                    </div>
+                    <div class="w3-padding-small">
+                        <label>Level</label>
+                        <input class="level calc-trigger w3-input" value="50" />
+                    </div>
+                    <div class="w3-hide w3-padding-small">
+                        <label>Weight (kg)</label>
+                        <input class="weight calc-trigger w3-input" value="10.0" />
+                    </div>
+                </div>
+
+                <!--Pokemon stats-->
+                <div class="info-group w3-padding-small">
+                    <table class="w3-table">
+                        <tr>
+                            <!--Header row-->
+                            <th></th><!--Stat name-->
+                            <th></th>
+                            <th class="gen-specific g3 g4 g5 g6 g7 g8 g9">IVs</th>
+                            <th class="gen-specific g3 g4 g5 g6 g7 g8 g9">EVs</th>
+                            <th class="gen-specific g1 g2 hide">DVs</th>
+                            <th></th><!--Stat change-->
+                            <th></th><!--Modified stat, only applicable for choice scarf-->
+                        </tr>
+                        <tr class="hp">
+                            <td><label>HP</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" disabled="disabled" /></td>
+                            <td><span class="total">341</span></td>
+                            <td></td>
+                        </tr>
+                        <tr class="at">
+                            <td><label>Atk</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="df">
+                            <td><label>Def</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sa gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                            <td><label>SpA</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sd gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                            <td><label>SpD</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sl gen-specific g1 hide">
+                            <td><label>Spc</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr class="sp">
+                            <td><label>Spe</label></td>
+                            <td><input class="base calc-trigger w3-input" value="100" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="ivs calc-trigger w3-input" value="31" /></td>
+                            <td class="gen-specific g3 g4 g5 g6 g7 g8 g9"><input class="evs calc-trigger w3-input" type="number" min="0" max="252" step="4" value="0" /></td>
+                            <td class="gen-specific g1 g2 hide"><input class="dvs calc-trigger w3-input" value="15" /></td>
+                            <td><span class="total">236</span></td>
+                            <td><select class="boost calc-trigger w3-select"><option value="6">+6</option><option value="5">+5</option><option value="4">+4</option><option value="3">+3</option><option value="2">+2</option><option value="1">+1</option><option value="0" selected="selected">--</option><option value="-1">-1</option><option value="-2">-2</option><option value="-3">-3</option><option value="-4">-4</option><option value="-5">-5</option><option value="-6">-6</option></select></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td class='ev-total'>&nbsp;</td>
+                            <td class='ev-w3-left'>&nbsp;</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </div>
+
+                <!--Pokemon nature, ability, item and status-->
+                <div class="info-group info-selectors w3-padding-small">
+                    <div class="gen-specific g3 g4 g5 g6 g7 g8 g9">
+                        <label>Nature</label>
+                        <select class="nature calc-trigger w3-select"><option value="Adamant">Adamant (+Atk, -SpA)</option><option value="Bashful">Bashful</option><option value="Bold">Bold (+Def, -Atk)</option><option value="Brave">Brave (+Atk, -Spe)</option><option value="Calm">Calm (+SpD, -Atk)</option><option value="Careful">Careful (+SpD, -SpA)</option><option value="Docile">Docile</option><option value="Gentle">Gentle (+SpD, -Def)</option><option value="Hardy" selected="selected">Hardy</option><option value="Hasty">Hasty (+Spe, -Def)</option><option value="Impish">Impish (+Def, -SpA)</option><option value="Jolly">Jolly (+Spe, -SpA)</option><option value="Lax">Lax (+Def, -SpD)</option><option value="Lonely">Lonely (+Atk, -Def)</option><option value="Mild">Mild (+SpA, -Def)</option><option value="Modest">Modest (+SpA, -Atk)</option><option value="Naive">Naive (+Spe, -SpD)</option><option value="Naughty">Naughty (+Atk, -SpD)</option><option value="Quiet">Quiet (+SpA, -Spe)</option><option value="Quirky">Quirky</option><option value="Rash">Rash (+SpA, -SpD)</option><option value="Relaxed">Relaxed (+Def, -Spe)</option><option value="Sassy">Sassy (+SpD, -Spe)</option><option value="Serious">Serious</option><option value="Timid">Timid (+Spe, -Atk)</option></select>
+                    </div>
+                    <div class="gen-specific g3 g4 g5 g6 g7 g8 g9">
+                        <label>Ability</label>
+                        <select class="ability terrain-trigger calc-trigger small-select w3-select"></select>
+                        <input class="abilityToggle calc-trigger hide w3-check" type="checkbox" title="Is this Ability active?">
+                        <select class="ability-supreme calc-trigger hide w3-select"><option value="0">0 down</option><option value="1">1 down</option><option value="2">2 down</option><option value="3">3 down</option><option value="4">4 down</option><option value="5">5 down</option></select>
+                        <input class="ability-advanced calc-trigger hide w3-check" type="checkbox" title="Click here manually choose the boost. Will be done automatically otherwise.">
+                        <select class="ability-proto-quark calc-trigger hide w3-select"><option value="0">Attack</option><option value="1">Defense</option><option value="2">Sp. Atk</option><option value="3">Sp. Def</option><option value="4">Speed</option></select>
+                    </div>
+                    <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                        <label>Item</label>
+                        <select class="item terrain-trigger calc-trigger small-select w3-select"></select>
+                    </div>
+                    <div>
+                        <label>Status</label>
+                        <select class="status calc-trigger w3-select"><option value="Healthy">Healthy</option><option value="Poisoned">Poisoned</option><option value="Badly Poisoned">Badly Poisoned</option><option value="Burned">Burned</option><option value="Paralyzed">Paralyzed</option><option value="Asleep">Asleep</option><option value="Frozen">Frozen</option></select>
+                    </div>
+                </div>
+
+                <!--Pokemon Current HP-->
+                <div class="info-group w3-padding-small">
+                    <div>
+                        <label>Current HP</label>
+                        <input class="current-hp calc-trigger w3-input" value="341" />/<span class="max-hp">341</span> (<input class="percent-hp calc-trigger w3-input" value="100" />%)
+                    </div>
+                    <div>
+                        <input class="max move-max calc-trigger w3-check" type="checkbox" id="maxL" />
+                        <label class="gen-specific g8" for="maxL" title="Dynamax this Pokémon?">Dynamax</label>
+                    </div>
+                </div>
+
+                <!--Moves-->
+                <div class="move1">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="move2">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="move3">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="move4">
+                    <select class="move-selector calc-trigger small-select w3-select"></select>
+                    <input class="move-bp calc-trigger w3-input" value="50" />
+                    <select class="move-type calc-trigger w3-select"></select>
+                    <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
+                    <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                    <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
+                    <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
+                    <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
+                    <select class="move-hits2 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option></select>
+                    <select class="move-hits3 calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option></select>
+                    <select class="move-pledge calc-trigger hide w3-select"><option value="Grass Pledge">Grass Pledge</option><option value="Fire Pledge">Fire Pledge</option><option value="Water Pledge">Water Pledge</option></select>
+                    <select class="move-10hits calc-trigger hide w3-select"><option value="1">1 hit</option><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option><option value="6">6 hits</option><option value="7">7 hits</option><option value="8">8 hits</option><option value="9">9 hits</option><option value="10">10 hits</option></select>
+                    <select class="move-lastRespRageFist calc-trigger hide w3-select"><option value="0">--</option><option value="1">+1</option><option value="2">+2</option><option value="3">+3</option><option value="4">+4</option><option value="5">+5</option><option value="6">+6</option></select> <!--this will bite me in the ass someday-->
+                </div>
+                <div class="hide glaive-rush">
+                    <label>Glaive Rush used? </label>
+                    <input class="calc-trigger w3-check" type="checkbox" id="glaiveL" title="Apply double damage from using Glaive Rush?" />
+                </div>
+
+                <!--Import and export sets-->
+                <div class="info-group w3-padding-small">
+                    <input type="text" class="setCalc w3-input" id="setName1" value="My Calc Set">
+                    <button type="button" class="sets w3-button" onclick="savecalc1()">Save Set</button>
+                    <button type="button" class="sets w3-button" onclick="importset1()">Import Set</button>
+                    <button type="button" class="sets w3-button" onclick="exportset1()">Export Set</button>
+                </div>
+            </div>
+
+        </div>
+
+        <!--Credits-->
+        <div class="w3-container">
+            thanks for checking this calculator
+        </div>
+    </div>
+</body>
+
+<script>
+    //copied from https://www.w3schools.com/w3css
+    function myFunction() {
+        var x = document.getElementById("navDemo");
+        if (x.className.indexOf("w3-show") == -1) {
+            x.className += " w3-show";
+        } else {
+            x.className = x.className.replace(" w3-show", "");
+        }
+    }
+</script>
+<script src="jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="script_res/select2.min.js"></script>
+<script type="text/javascript" src="script_res/pokedex.js"></script>
+<script type="text/javascript" src="script_res/setdex_showdown.js"></script>
+<script type="text/javascript" src="script_res/setdex_globalLink.js"></script>
+<script type="text/javascript" src="script_res/setdex_nuggetBridge.js"></script>
+<script type="text/javascript" src="script_res/setdex_tt2017.js" id="TTScript"></script>
+<script type="text/javascript" src="script_res/setdex_tt2018.js" id="TTScript"></script>
+<script type="text/javascript" src="script_res/setdex_tt2019.js" id="TTScript"></script>
+<script type="text/javascript" src="script_res/setdex_tt2020.js" id="TTScript"></script>
+<!--<script type="text/javascript" src="script_res/setdex_vgc2021.js" id="NCPScript"></script>-->
+<script type="text/javascript" src="script_res/setdex_vgcbfd.js" id="NCPScript"></script>
+<!--<script type="text/javascript" src="script_res/setdex_vgc2022.js" id="NCPScript"></script>-->
+<script type="text/javascript" src="script_res/setdex_ncp-g8.js" id="NCPScript"></script>
+<script type="text/javascript" src="script_res/setdex_ncp-g9.js" id="NCPScript"></script>
+<script type="text/javascript" src="script_res/setdex_smogon.js" id="SmogScript"></script>
+<script type="text/javascript" src="script_res/setdex_xy.js" id="XYScript"></script>
+<script type="text/javascript" src="script_res/setdex_sm.js" id="SMScript"></script>
+<script type="text/javascript" src="script_res/setdex_ss.js" id="SSScript"></script>
+<script type="text/javascript" src="script_res/setdex_sv.js" id="SVScript"></script>
+<script type="text/javascript" src="script_res/setdex_bdsp.js" id="BDSPScript"></script>
+<script type="text/javascript" src="script_res/setdex_bw.js"></script>
+<script type="text/javascript" src="script_res/setdex_dpp.js"></script>
+<script type="text/javascript" src="script_res/setdex_rse.js"></script>
+<script type="text/javascript" src="script_res/setdex_gsc.js"></script>
+<script type="text/javascript" src="script_res/setdex_rby.js"></script>
+<script type="text/javascript" src="script_res/setdex_custom.js"></script>
+<script type="text/javascript" src="script_res/stat_data.js"></script>
+<script type="text/javascript" src="script_res/type_data.js"></script>
+<script type="text/javascript" src="script_res/nature_data.js"></script>
+<script type="text/javascript" src="script_res/ability_data.js"></script>
+<script type="text/javascript" src="script_res/item_data.js"></script>
+<script type="text/javascript" src="script_res/move_data.js"></script>
+<script type="text/javascript" src="script_res/ap_calc.js"></script>
+<script type="text/javascript" src="script_res/damage_MASTER.js"></script>
+<script type="text/javascript" src="script_res/damage_SV.js"></script>
+<!--<script type="text/javascript" src="script_res/damage_SM-SS.js"></script>-->
+<!--<script type="text/javascript" src="script_res/damage.js"></script>-->
+<!--<script type="text/javascript" src="script_res/damage_sm.js"></script>-->
+<script type="text/javascript" src="script_res/damage_xy.js"></script>
+<script type="text/javascript" src="script_res/damage_bw.js"></script>
+<script type="text/javascript" src="script_res/damage_dpp.js"></script>
+<script type="text/javascript" src="script_res/damage_rse.js"></script>
+<script type="text/javascript" src="script_res/damage_gsc.js"></script>
+<script type="text/javascript" src="script_res/damage_rby.js"></script>
+<script type="text/javascript" src="script_res/ko_chance.js"></script>
 </html>
