@@ -790,8 +790,10 @@ function calculate() {
     temp_crit = bestResult.crit;
     bestResult.prop("checked", true);
     bestResult.change();
-    $("#resultHeaderL").text(p1.name + "'s Moves (select one to show detailed results)");
-    $("#resultHeaderR").text(p2.name + "'s Moves (select one to show detailed results)");
+    $("#resultHeaderL").text(p1.name + "'s Moves");
+    $("#resultHeaderR").text(p2.name + "'s Moves");
+	$("#p1-header").text(p1.name);
+	$("#p2-header").text(p2.name);
 }
 
 $(".result-move").change(function() {
