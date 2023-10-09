@@ -274,7 +274,7 @@ function eraseCookie(name) {
 }
 
 function RandomName() {
-    var randomName = randomWords[Math.floor(Math.random() * randomWords.length)];
+    var randomName = "My " + randomWords[Math.floor(Math.random() * randomWords.length)];
     randomName += " " + randomWords[Math.floor(Math.random() * randomWords.length)];
     randomName += " set"
     var arr = randomName.split(" ");
