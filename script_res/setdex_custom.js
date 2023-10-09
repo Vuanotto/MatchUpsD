@@ -63,6 +63,9 @@ var saveToCalcFormes = [
     ["Palafin-Hero", "Palafin"],
 ];
 
+//random name for calc sets
+var randomWords = ["fresh","dizzy","brash","short","stale","raspy","tense","right","happy","aware","irate","tangy","clean","tough","crazy","teeny","aloof","equal","shaky","harsh","cagey","silky","jolly","macho","furry","needy","utter","brief","plain","steep","young","husky","moldy","curvy","handy","nappy","lucky","pushy","alive","proud","tacit","plant","tired","ritzy","funny","large","super","itchy","tight","inner"];
+
 if (localStorage.custom_gen_5 != null) {
     SETDEX_CUSTOM_BW = JSON.parse(localStorage.custom_gen_5);
     reloadBWScript();
@@ -270,14 +273,26 @@ function eraseCookie(name) {
 	createCookie(name,"",-1);
 }
 
-var savecustom = function()
+function RandomName() {
+    var randomName = randomWords[Math.floor(Math.random() * randomWords.length)];
+    randomName += " " + randomWords[Math.floor(Math.random() * randomWords.length)];
+    randomName += " set"
+    var arr = randomName.split(" ");
+    for (var i = 0; i < arr.length; i++) {
+        arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1);
+    }
+    randomName = arr.join(" ");
+    return randomName;
+}
+
+var savecustom = function(customSetID, setNameID, textboxDisplayID)
 {
     gen = parseInt($('input[name="gen"]:checked').val());
 	//first, to parse it all from the PS format
-	var string = document.getElementById('customMon').value
-	var spreadName = document.getElementById('spreadName').value
-	if(spreadName == '')
-        spreadName = "My Custom Set";
+	var string = document.getElementById(customSetID).value
+	var spreadName = document.getElementById(setNameID).value
+	if(spreadName == '' || spreadName == 'My Calc Set')
+        spreadName = RandomName();
     //if ('https://pokepast.es/'.indexOf(string) !== -1) {
     //    $.ajax({ url: 'string', success: function (data) { alert(data); } });
     //}
@@ -486,10 +501,18 @@ var savecustom = function()
         default:
             console.log("THIS SHOULDN\'T HAPPEN LOL");
     }
-    document.getElementById("customMon").value = ""
 
+    if (textboxDisplayID === "sets-textbox1") ToggleSetsTextbox1();
+    else ToggleSetsTextbox2();
 }
 
+function SaveCustomSet1() {
+    savecustom("custom-set1", "set-name1", "sets-textbox1");
+}
+
+function SaveCustomSet2() {
+    savecustom("custom-set2", "set-name2", "sets-textbox2");
+}
 
 //Saves a custom set from within the calc
 var savecalc = function (set, spreadName, accessIVs) {
@@ -519,8 +542,8 @@ var savecalc = function (set, spreadName, accessIVs) {
     moves.push(set.moves[2].name);
     moves.push(set.moves[3].name);
 
-    if (spreadName == '')
-        spreadName = "My Calc Set";
+    if (spreadName == '' || spreadName == 'My Calc Set')
+        spreadName = RandomName();
     customFormat = {
         "level": set.level,
         "evs": {
@@ -592,7 +615,7 @@ function Clipboard_CopyTo(value) {
 }
 
 //Exports sets by copying them to clipboard. Might adjust later depending on how successful it is
-var exportset = function (set, accessIVs) {
+var exportset = function (set, accessIVs, textboxToPopulate) {
     /* Formatting Example:
      *Rillaboom-Gmax @ Assault Vest
      *Ability: Grassy Surge
@@ -739,16 +762,53 @@ var exportset = function (set, accessIVs) {
 
     exportText = exSpeciesAndItem + exAbility + exLevel + exTera + exEVs + exNature + exIVs + exMoveset;
     Clipboard_CopyTo(exportText);
+    textboxToPopulate.value = exportText;
     //tempCSV();
 }
 
-var exportset1 = function () {
+var exportset1 = function ()
+{
     var p1 = new Pokemon($("#p1"));
     accessIVs = $('#p1 input.ivs.calc-trigger').closest(".poke-info");
-    exportset(p1, accessIVs);
+    var textboxDisplay = document.getElementById("sets-textbox1");
+    if (textboxDisplay.style.display === "none") ToggleSetsTextbox1();
+    var textbox = document.getElementById("custom-set1");
+    exportset(p1, accessIVs, textbox);
 }
-var exportset2 = function () {
+var exportset2 = function ()
+{
     var p2 = new Pokemon($("#p2"));
     accessIVs = $('#p2 input.ivs.calc-trigger').closest(".poke-info");
-    exportset(p2, accessIVs);
+    var textboxDisplay = document.getElementById("sets-textbox2");
+    if (textboxDisplay.style.display === "none") ToggleSetsTextbox2();
+    var textbox = document.getElementById("custom-set2");
+    exportset(p2, accessIVs, textbox);
+}
+
+function OpenSetsTextbox(textboxDisplayID, buttonID, textboxID)
+{
+    var textboxDisplay = document.getElementById(textboxDisplayID)
+    var button = document.getElementById(buttonID)
+    var textbox = document.getElementById(textboxID)
+    if (textboxDisplay.style.display === "none")
+    {
+        textboxDisplay.style.display = "";
+        button.textContent = "Close Box";
+    }
+    else
+    {
+        textbox.value = ""; //may as well clear it if we're hiding it
+        textboxDisplay.style.display = "none";
+        button.textContent = "Import Set";
+    }
+}
+
+function ToggleSetsTextbox1()
+{
+    OpenSetsTextbox("sets-textbox1", "import-set1", "custom-set1");
+}
+
+function ToggleSetsTextbox2()
+{
+    OpenSetsTextbox("sets-textbox2", "import-set2", "custom-set2");
 }

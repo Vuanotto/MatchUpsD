@@ -1,5 +1,5 @@
 body{font-size:12px;}
-h1,h2,h3,h4,h5,h6{font-family:"PlayfairDisplay";letter-spacing:5px;}
+h1,h2,h3,h4,h5,h6{font-family:"PlayfairDisplay";}
 table{max-width:450px}
 .base{max-width:30px;}
 .ivs,.dvs{max-width:20px;}
@@ -60,3 +60,4 @@ table{max-width:450px}
 .field-conditions label{margin: -1px -3px 0;}
 .center-margin {margin-left:auto;margin-right:auto;}
 .single-or-double {width: 11em;}
+.p1-header, .field-header, .p2-header {letter-spacing:5px;}
