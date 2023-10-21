@@ -1,13 +1,13 @@
 ﻿<!doctype HTML>
 <html>
 <head>
+    <link rel="stylesheet" href="script_res/w3.css">
+    <link rel="stylesheet" href="script_res/mobileFriendlyDark.css">
     <link rel="icon" type="image/png" href="image_res/Favicon-32px.ico">
     <link rel="image_src" href="image_res/Logo Nimbasa City Post PNG.png" />
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <link type="text/css" rel="stylesheet" href="script_res/select2.css" />
-    <link rel="stylesheet" href="script_res/w3.css">
-    <link rel="stylesheet" href="script_res/mobileFriendly.css">
     <title>Pokemon VGC Damage Calculator</title>
 
 </head>
@@ -28,15 +28,14 @@
     <!--Top navbar-->
     <div class="w3-top">
         <div class="w3-bar w3-black w3-card">
-            <a href="http://nimbasacitypost.com" class="w3-bar-item w3-button" target="_blank" rel="noopener noreferrer">Home</a>
             <button class="w3-button w3-bar-item w3-large w3-w3-right w3-hide-medium w3-hide-large" onclick="myFunction()">☰</button>
             <a href="http://play.pokemonshowdown.com/vgc" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Showdown</a>
             <a href="https://pikalytics.com/pokedex" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Showdown Usage Stats</a>
-            <a href="https://docs.google.com/spreadsheets/d/1axlwmzPA49rYkqXh7zHvAtSP-TKbM0ijGYBPRflLSWw" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">VGCPastes Repository</a>
-            <a href="https://github.com/nerd-of-now/VGC-Damage-Calculator" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">GitHub Page</a>
-            <a href="https://www.nimbasacitypost.com/2019/12/vgc-resources.html" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Other VGC Resources</a>
+            <a href="https://www.falinks-teambuilder.com/pastes/vgc/" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">VGCPastes Repository</a>
+            <a href="https://github.com/Vuanotto/VGC-Damage-Calculator" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">GitHub Page</a>
+            <a href="https://cut-explorer.stalruth.dev/" class="w3-bar-item w3-button w3-hide-small" target="_blank" rel="noopener noreferrer">Top Cut Explorer</a>
             <input class="btn-input w3-hide" type="checkbox" id="switchDex" /><label class="btn dex-change gen-specific g8 g9 w3-hide" for="switchDex" title="Include Pokémon that aren't in this gen?">National Dex</label>
-            <button class="btn w3-hide" id="switchTheme">Dark theme</button>
+            <button class="btn w3-hide" id="switchTheme" onclick="SwitchCSSMode()">Dark theme</button>
         </div>
     </div>
 
@@ -50,11 +49,12 @@
                 <p>
                     Updates
                     <ul>
-                        <li>09/10/2023 - Vuanotto - Added the ability to import and export sets</li>
-                        <li>09/10/2023 - Vuanotto - Added the ability to open and minimise sections</li>
-                        <li>08/10/2023 - Vuanotto - Finished the visuals, now looking for feedback + bugs</li>
-                        <li>07/10/2023 - Vuanotto - Finished the skeleton, time to differentiate mobile from web</li>
-                        <li>03/10/2023 - Vuanotto - Project started</li>
+                        <li>21/10/2023 - Updated links to be more relevant, stopped the zoom for mobile users, and started work on dark mode</li>
+                        <li>09/10/2023 - Added the ability to import and export sets</li>
+                        <li>09/10/2023 - Added the ability to open and minimise sections</li>
+                        <li>08/10/2023 - Finished the visuals, now looking for feedback + bugs</li>
+                        <li>07/10/2023 - Finished the skeleton, time to differentiate mobile from web</li>
+                        <li>03/10/2023 - Project started</li>
                     </ul>
                 </p>
                 <p>
