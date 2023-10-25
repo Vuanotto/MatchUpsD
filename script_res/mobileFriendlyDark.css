@@ -63,4 +63,4 @@ table{max-width:450px}
 .single-or-double {width: 11em;}
 .p1-header, .field-header, .p2-header {letter-spacing:2px;}
 .select2-container .select2-choice { color: #f1f1f1 !important; background: #31313a !important}
-w3-card,.w3-card-2{box-shadow:0 2px 5px 0 rgba(255,255,255,0.16),0 2px 10px 0 rgba(255,255,255,0.12)}
+.w3-card,.w3-card-2{box-shadow:0 2px 5px 0 rgba(255,255,255,0.16),0 2px 10px 0 rgba(255,255,255,0.12)}
