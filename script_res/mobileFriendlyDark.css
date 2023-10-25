@@ -1,5 +1,5 @@
 body{font-size:12px; color: #F3F3F3; background-color: #242424}
-h1,h2,h3,h4,h5,h6{font-family:"PlayfairDisplay"; color: #F3F3F3}
+h1,h2,h3,h4,h5,h6{color: #F3F3F3; font-weight:bold;}
 table{max-width:450px}
 .base{max-width:30px;}
 .ivs,.dvs{max-width:20px;}
@@ -29,7 +29,7 @@ table{max-width:450px}
 .move-lastRespRageFist{max-width:36px}
 .setCalc{font-size:11px;max-width:100px}
 .sets{font-size:11px;max-width:80px}
-.w3-input{padding:2px;border:none;border-bottom:1px solid #ccc;width:100%}
+.w3-input{padding:2px;border:none;border-bottom:1px solid #ccc;width:100%;background:#3e3e3e;color:#fff}
 .onoffswitch{float:right;position:relative;width:70px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;display:inline-block;}
 .onoffswitch-checkbox{display:none;}
 .onoffswitch-label{display:block;overflow:hidden;cursor:pointer;border:2px solid #999999;border-radius:8px;}
@@ -43,7 +43,7 @@ table{max-width:450px}
 .damage-calculations{padding:8px 8px;}
 .resultHeaderL,.resultHeaderR{font-size:11px;font-weight:bold;}
 .btn{border: solid 1px #7b7b7b;padding: 2px 4px;position: relative;cursor: pointer;color: #fbfbfb;background: #484848;display: inline-block;border-radius: 4px;}
-.btn:hover{z-index: 10;border-color: #777777;background: #e3e3e3;}
+.btn:hover{z-index: 10;border-color: #777777;background: #848484;}
 .btn:active {background-color:#939191;border-color:#ffffff}
 .btn-input:checked + .btn {font-weight: bold;color: #111111;background: #f5f5f5;}
 .btn-input[type="radio"]:checked + .btn {cursor: default;}
@@ -61,5 +61,6 @@ table{max-width:450px}
 .field-conditions label{margin: -1px -3px 0;}
 .center-margin {margin-left:auto;margin-right:auto;}
 .single-or-double {width: 11em;}
-.p1-header, .field-header, .p2-header {letter-spacing:5px;}
-.select2-container .select2-choice { color: #f1f1f1; background: #31313a }
+.p1-header, .field-header, .p2-header {letter-spacing:2px;}
+.select2-container .select2-choice { color: #f1f1f1 !important; background: #31313a !important}
+w3-card,.w3-card-2{box-shadow:0 2px 5px 0 rgba(255,255,255,0.16),0 2px 10px 0 rgba(255,255,255,0.12)}
