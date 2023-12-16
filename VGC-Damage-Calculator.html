@@ -49,6 +49,7 @@
                 <p>
                     Updates
                     <ul>
+						<li>16/12/2023 - Added compatibly for DLC2 and fixed a few bugs. There'll probably be more changes coming depending as we learn the new mechanics</li>
                         <li>22/10/2023 - Completed dark mdoe and added a button to let you switch</li>
                         <li>21/10/2023 - Updated links to be more relevant, stopped the zoom for mobile users, and started work on dark mode</li>
                         <li>09/10/2023 - Added the ability to import and export sets</li>
@@ -65,6 +66,8 @@
                         <li><a href="https://ideaboardz.com/for/Suggestions%20for%20mobile%20browser/5082369">Collect feedback/suggestion</a></li>
                     </ul>
                 </p>
+				<p>All javascript used in the creation of mobile-friendly damage calculator originate from <a href="https://github.com/nerd-of-now/NCP-VGC-Damage-Calculator">nerd-of-now</a> and <a href="https://github.com/jake-white/VGC-Damage-Calculator">Jake White</a>
+				</p>
             </div>
         </div>
         <hr />
@@ -136,7 +139,7 @@
                         </div>
                         <div class="hide w3-padding-small">
                             <label>Forme</label>
-                            <select class="forme calc-trigger w3-select"></select>
+                            <select class="forme calc-trigger w3-select btn"></select>
                         </div>
                         <div class="w3-padding-small">
                             <label>Level</label>
@@ -294,7 +297,7 @@
                             <input class="move-bp calc-trigger w3-input" value="50" />
                             <select class="move-type calc-trigger w3-select btn"></select>
                             <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select btn"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
-                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL2" /><label class="btn crit-btn" for="critL3" title="Force this attack to be a critical hit?">Crit</label>
                             <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
                             <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
                             <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
@@ -309,7 +312,7 @@
                             <input class="move-bp calc-trigger w3-input" value="50" />
                             <select class="move-type calc-trigger w3-select btn"></select>
                             <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select btn"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
-                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL3" /><label class="btn crit-btn" for="critL3" title="Force this attack to be a critical hit?">Crit</label>
                             <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
                             <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
                             <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
@@ -324,7 +327,7 @@
                             <input class="move-bp calc-trigger w3-input" value="50" />
                             <select class="move-type calc-trigger w3-select btn"></select>
                             <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select btn"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
-                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL1" /><label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
+                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critL4" /><label class="btn crit-btn" for="critL4" title="Force this attack to be a critical hit?">Crit</label>
                             <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zL1" /><label class="btn x-btn gen-specific g7" for="zL1" title="Use the corresponding Z-Move?">Z-Move</label>
                             <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
                             <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
@@ -615,7 +618,7 @@
                         </div>
                         <div class="hide w3-padding-small">
                             <label>Forme</label>
-                            <select class="forme calc-trigger w3-select"></select>
+                            <select class="forme calc-trigger w3-select btn"></select>
                         </div>
                         <div class="w3-padding-small">
                             <label>Level</label>
@@ -773,7 +776,7 @@
                             <input class="move-bp calc-trigger w3-input" value="50" />
                             <select class="move-type calc-trigger w3-select btn"></select>
                             <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select btn"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
-                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critR1" /><label class="btn crit-btn" for="critR1" title="Force this attack to be a critical hit?">Crit</label>
+                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critR2" /><label class="btn crit-btn" for="critR2" title="Force this attack to be a critical hit?">Crit</label>
                             <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zR1" /><label class="btn x-btn gen-specific g7" for="zR1" title="Use the corresponding Z-Move?">Z-Move</label>
                             <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
                             <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
@@ -788,7 +791,7 @@
                             <input class="move-bp calc-trigger w3-input" value="50" />
                             <select class="move-type calc-trigger w3-select btn"></select>
                             <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select btn"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
-                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critR1" /><label class="btn crit-btn" for="critR1" title="Force this attack to be a critical hit?">Crit</label>
+                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critR3" /><label class="btn crit-btn" for="critR3" title="Force this attack to be a critical hit?">Crit</label>
                             <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zR1" /><label class="btn x-btn gen-specific g7" for="zR1" title="Use the corresponding Z-Move?">Z-Move</label>
                             <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
                             <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
@@ -803,7 +806,7 @@
                             <input class="move-bp calc-trigger w3-input" value="50" />
                             <select class="move-type calc-trigger w3-select btn"></select>
                             <select class="move-cat calc-trigger gen-specific g4 g5 g6 g7 g8 g9 w3-select btn"><option value="Physical">Physical</option><option value="Special">Special</option><option value="Status">Status</option></select>
-                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critR1" /><label class="btn crit-btn" for="critR1" title="Force this attack to be a critical hit?">Crit</label>
+                            <input class="move-crit calc-trigger btn-input w3-check" type="checkbox" id="critR4" /><label class="btn crit-btn" for="critR4" title="Force this attack to be a critical hit?">Crit</label>
                             <input class="move-z calc-trigger btn-input w3-check gen-specific g7" type="checkbox" id="zR1" /><label class="btn x-btn gen-specific g7" for="zR1" title="Use the corresponding Z-Move?">Z-Move</label>
                             <select class="move-hits calc-trigger hide w3-select"><option value="2">2 hits</option><option value="3">3 hits</option><option value="4">4 hits</option><option value="5">5 hits</option></select>
                             <select class="move-double calc-trigger hide w3-select"><option value="0">100% BP</option><option value="1">200% BP</option></select>
