@@ -10543,7 +10543,7 @@ var SETDEX_VGC2023 =
     },
 	"Serperior": {
 		"Boyt's Stellar Contrary": {
-            "item": "@ Wide Lens",
+            "item": "Wide Lens",
             "ability": "Contrary",
             "level": 50,
             "tera_type": "Stellar",
@@ -10563,7 +10563,7 @@ var SETDEX_VGC2023 =
             ]
         },
         "Boyt's Assault Vest": {
-            "item": "@ Assault Vest",
+            "item": "Assault Vest",
             "ability": "Contrary",
             "level": 50,
             "tera_type": "Rock",
@@ -10606,7 +10606,7 @@ var SETDEX_VGC2023 =
             ]
         },
         "Urshifu Destroyer": {
-            "item": "@ Rocky Helmet",
+            "item": "Rocky Helmet",
             "ability": "Prankster",
             "level": 50,
             "tera_type": "Fairy",
@@ -10629,7 +10629,7 @@ var SETDEX_VGC2023 =
 	},
 	"Archaludon": {
 		"Boyt's Assault Vest Attacker": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Stamina",
 			"level": 50,
 			"tera_type": "Flying",
@@ -10652,7 +10652,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Assault Vest Max SpAtk": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Stamina",
 			"level": 50,
 			"tera_type": "Steel",
@@ -10675,7 +10675,7 @@ var SETDEX_VGC2023 =
 	},
 	"Latias": {
 		"Bulky Support": {
-			"item": "@ Rocky Helmet",
+			"item": "Rocky Helmet",
 			"ability": "Levitate",
 			"level": 50,
 			"tera_type": "Poison",
@@ -10744,7 +10744,7 @@ var SETDEX_VGC2023 =
 	},
 	"Entei": {
 		"Bulky Assault Vest Attacker": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Inner Focus",
 			"level": 50,
 			"tera_type": "Normal",
@@ -10762,7 +10762,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Jolly Assault Vest Attacker": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Inner Focus",
 			"level": 50,
 			"tera_type": "Normal",
@@ -10780,7 +10780,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Adamant Choice Band": {
-			"item": "@ Choice Band",
+			"item": "Choice Band",
 			"ability": "Pressure",
 			"level": 50,
 			"tera_type": "Normal",
@@ -10800,7 +10800,7 @@ var SETDEX_VGC2023 =
 	},
 	"Metagross": {
 		"Bulky Assault Vest": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Clear Body",
 			"level": 50,
 			"tera_type": "Fairy",
@@ -10820,7 +10820,7 @@ var SETDEX_VGC2023 =
 	},
 	"Araquanid": {
 		"Trick Room Araquanid": {
-			"item": "@ Safety Goggles",
+			"item": "Safety Goggles",
 			"ability": "Water Bubble",
 			"level": 50,
 			"tera_type": "Water",
@@ -10843,7 +10843,7 @@ var SETDEX_VGC2023 =
 	},
 	"Suicune": {
 		"Bulky Bold": {
-			"item": "@ Sitrus Berry",
+			"item": "Sitrus Berry",
 			"ability": "Inner Focus",
 			"level": 50,
 			"tera_type": "Grass",
@@ -10864,7 +10864,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Bulky Max SpAtk": {
-			"item": "@ Sitrus Berry",
+			"item": "Sitrus Berry",
 			"ability": "Inner Focus",
 			"level": 50,
 			"tera_type": "Grass",
@@ -10887,7 +10887,7 @@ var SETDEX_VGC2023 =
 	},
 	"Registeel": {
 		"Bold Max SpDef": {
-			"item": "@ Leftovers",
+			"item": "Leftovers",
 			"ability": "Clear Body",
 			"level": 50,
 			"tera_type": "Steel",
@@ -10947,7 +10947,7 @@ var SETDEX_VGC2023 =
 	},
 	"Rhydon": {
 		"Eviolite Attacker": {
-			"item": "@ Eviolite",
+			"item": "Eviolite",
 			"ability": "Lightning Rod",
 			"level": 50,
 			"tera_type": "Ground",
@@ -10989,7 +10989,7 @@ var SETDEX_VGC2023 =
 	},
 	"Electivire": {
 		"Adamant Attacker": {
-			"item": "@ Life Orb",
+			"item": "Life Orb",
 			"ability": "Motor Drive",
 			"level": 50,
 			"tera_type": "Electric",
@@ -11008,7 +11008,7 @@ var SETDEX_VGC2023 =
 	},
 	"Iron Leaves": {
 		"Jolly Attacker": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Fairy",
@@ -11030,7 +11030,7 @@ var SETDEX_VGC2023 =
 	},
 	"Walking Wake": {
 		"Life Orb Attacker": {
-			"item": "@ Life Orb",
+			"item": "Life Orb",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Fire",
@@ -11051,7 +11051,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Assault Vest": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Fire",
@@ -11073,7 +11073,7 @@ var SETDEX_VGC2023 =
 	},
 	"Iron Boulder": {
 		"Jolly Life Orb": {
-			"item": "@ Life Orb",
+			"item": "Life Orb",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Water",
@@ -11093,7 +11093,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Adamant Booster": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Water",
@@ -11115,7 +11115,7 @@ var SETDEX_VGC2023 =
 	},
 	"Iron Crown": {
 		"Speed Booster": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Psychic",
@@ -11138,7 +11138,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Bulky SpAtk Booster": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Psychic",
@@ -11161,7 +11161,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Fast SpAtk Booster": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Steel",
@@ -11184,7 +11184,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Bulky Choice Specs": {
-			"item": "@ Choice Specs",
+			"item": "Choice Specs",
 			"ability": "Quark Drive",
 			"level": 50,
 			"tera_type": "Psychic",
@@ -11208,7 +11208,7 @@ var SETDEX_VGC2023 =
 	},
 	"Raging Bolt": {
 		"Assault Vest Attacker": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Electric",
@@ -11231,7 +11231,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Booster SpAtk": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Electric",
@@ -11254,7 +11254,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Boyt's Bulky Leftovers": {
-			"item": "@ Leftovers",
+			"item": "Leftovers",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Fairy",
@@ -11279,7 +11279,7 @@ var SETDEX_VGC2023 =
 	},
 	"Gouging Fire": {
 		"Boyt's Booster Attacker": {
-			"item": "@ Booster Energy",
+			"item": "Booster Energy",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Fairy",
@@ -11299,7 +11299,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Boyt's Bulked Attacker": {
-			"item": "@ Loaded Dice",
+			"item": "Loaded Dice",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Fire",
@@ -11319,7 +11319,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Boyt's Assault Vest Attacker": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Protosynthesis",
 			"level": 50,
 			"tera_type": "Fairy",
@@ -11341,7 +11341,7 @@ var SETDEX_VGC2023 =
 	},
 	"Primarina": {
 		"Boyt's Bulky Calm Mind": {
-			"item": "@ Leftovers",
+			"item": "Leftovers",
 			"ability": "Liquid Voice",
 			"level": 50,
 			"tera_type": "Grass",
@@ -11364,7 +11364,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Bulky Spec Max SpAtk": {
-			"item": "@ Choice Specs",
+			"item": "Choice Specs",
 			"ability": "Liquid Voice",
 			"level": 50,
 			"tera_type": "Grass",
@@ -11387,7 +11387,7 @@ var SETDEX_VGC2023 =
 	},
 	"Incineroar": {
 		"Bulky Attacker": {
-			"item": "@ Sitrus Berry",
+			"item": "Sitrus Berry",
 			"ability": "Intimidate",
 			"level": 50,
 			"tera_type": "Bug",
@@ -11405,7 +11405,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Assault Vest Attacker": {
-			"item": "@ Assault Vest",
+			"item": "Assault Vest",
 			"ability": "Intimidate",
 			"level": 50,
 			"tera_type": "Bug",
@@ -11423,7 +11423,7 @@ var SETDEX_VGC2023 =
 			]
 		},
 		"Bulky Incin": {
-			"item": "@ Sitrus Berry",
+			"item": "Sitrus Berry",
 			"ability": "Intimidate",
 			"level": 50,
 			"tera_type": "Bug",
