@@ -1,15 +1,16 @@
 
-var SETDEX_VGC2023 = {
+var SETDEX_VGC2023 = 
+{
     "Meowscarada": {
         "Sash Set": {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Overgrow",
@@ -25,11 +26,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Protean",
@@ -49,14 +50,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Unaware",
@@ -76,11 +77,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Moxie",
@@ -99,14 +100,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Lingering Aroma",
@@ -126,14 +127,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Lingering Aroma",
@@ -153,11 +154,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 252,
-    //            "at": 0,
-    //            "df": 252,
-    //            "sa": 0,
-    //            "sd": 4,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 252,
+    //            "spa": 0,
+    //            "spd": 4,
+    //            "spe": 0
     //        },
     //        "nature": "Impish",
     //        "ability": "Insomnia",
@@ -176,11 +177,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Tinted Lens",
@@ -200,14 +201,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 60,
-                "sa": 4,
-                "sd": 4,
-                "sp": 196
+                "atk": 0,
+                "def": 60,
+                "spa": 4,
+                "spd": 4,
+                "spe": 196
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Chlorophyll",
@@ -227,11 +228,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 36,
-                "df": 180,
-                "sa": 0,
-                "sd": 4,
-                "sp": 84
+                "atk": 36,
+                "def": 180,
+                "spa": 0,
+                "spd": 4,
+                "spe": 84
             },
             "nature": "Jolly",
             "ability": "Gale Wings",
@@ -248,11 +249,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Gale Wings",
@@ -272,11 +273,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Natural Cure",
@@ -295,15 +296,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -323,15 +324,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -351,15 +352,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -379,15 +380,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -407,15 +408,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -435,14 +436,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Friend Guard",
@@ -462,15 +463,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -490,11 +491,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 204,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 76
+                "atk": 204,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 76
             },
             "nature": "Adamant",
             "ability": "Mirror Armor",
@@ -511,11 +512,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 116,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 140
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 140
             },
             "nature": "Adamant",
             "ability": "Mirror Armor",
@@ -535,15 +536,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -563,15 +564,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -591,11 +592,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 12,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 12,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Huge Power",
@@ -611,11 +612,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 236,
-                "df": 4,
-                "sa": 0,
-                "sd": 12,
-                "sp": 20
+                "atk": 236,
+                "def": 4,
+                "spa": 0,
+                "spd": 12,
+                "spe": 20
             },
             "nature": "Adamant",
             "ability": "Huge Power",
@@ -634,15 +635,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -662,11 +663,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -685,14 +686,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 164,
-                "at": 28,
-                "df": 236,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 28,
+                "def": 236,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Water Absorb",
@@ -712,15 +713,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -740,11 +741,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -764,15 +765,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -792,14 +793,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Trace",
@@ -816,14 +817,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 180,
-                "at": 0,
-                "df": 212,
-                "sa": 44,
-                "sd": 4,
-                "sp": 68
+                "atk": 0,
+                "def": 212,
+                "spa": 44,
+                "spd": 4,
+                "spe": 68
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Trace",
@@ -843,11 +844,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sharpness",
@@ -867,15 +868,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -895,14 +896,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Cursed Body",
@@ -922,11 +923,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 156,
-                "sa": 0,
-                "sd": 100,
-                "sp": 0
+                "atk": 0,
+                "def": 156,
+                "spa": 0,
+                "spd": 100,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Friend Guard",
@@ -943,11 +944,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -966,11 +967,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 156,
-                "sa": 0,
-                "sd": 100,
-                "sp": 0
+                "atk": 0,
+                "def": 156,
+                "spa": 0,
+                "spd": 100,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Friend Guard",
@@ -987,11 +988,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -1010,11 +1011,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -1034,11 +1035,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 36,
-                "sa": 0,
-                "sd": 188,
-                "sp": 28
+                "atk": 4,
+                "def": 36,
+                "spa": 0,
+                "spd": 188,
+                "spe": 28
             },
             "nature": "Impish",
             "ability": "Well-Baked Body",
@@ -1058,11 +1059,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Truant",
@@ -1082,11 +1083,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 76,
-                "df": 116,
-                "sa": 0,
-                "sd": 4,
-                "sp": 76
+                "atk": 76,
+                "def": 116,
+                "spa": 0,
+                "spd": 4,
+                "spe": 76
             },
             "nature": "Adamant",
             "ability": "Queenly Majesty",
@@ -1106,15 +1107,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Seed Sower",
@@ -1134,15 +1135,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1161,11 +1162,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Rush",
@@ -1184,11 +1185,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Tough Claws",
@@ -1208,15 +1209,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1235,14 +1236,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Steam Engine",
@@ -1262,15 +1263,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1289,11 +1290,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 132,
-                "at": 108,
-                "df": 28,
-                "sa": 0,
-                "sd": 4,
-                "sp": 236
+                "atk": 108,
+                "def": 28,
+                "spa": 0,
+                "spd": 4,
+                "spe": 236
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -1312,14 +1313,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Dancer",
@@ -1339,14 +1340,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Dancer",
@@ -1366,15 +1367,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1393,14 +1394,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Chlorophyll",
@@ -1420,11 +1421,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -1443,15 +1444,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1470,15 +1471,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1497,15 +1498,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1524,15 +1525,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1551,15 +1552,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Levitate",
@@ -1579,14 +1580,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1605,14 +1606,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Guts",
@@ -1631,15 +1632,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1658,11 +1659,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Oblivious",
@@ -1681,15 +1682,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1708,15 +1709,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1735,11 +1736,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Rough Skin",
@@ -1756,11 +1757,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 36,
-                "at": 212,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 212,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Rough Skin",
@@ -1780,11 +1781,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Purifying Salt",
@@ -1801,11 +1802,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Purifying Salt",
@@ -1825,14 +1826,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -1849,14 +1850,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 76,
-                "sa": 4,
-                "sd": 140,
-                "sp": 36
+                "atk": 0,
+                "def": 76,
+                "spa": 4,
+                "spd": 140,
+                "spe": 36
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Drizzle",
@@ -1876,11 +1877,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 20,
-                "df": 76,
-                "sa": 0,
-                "sd": 156,
-                "sp": 4
+                "atk": 20,
+                "def": 76,
+                "spa": 0,
+                "spd": 156,
+                "spe": 4
             },
             "nature": "Careful",
             "ability": "Intimdate",
@@ -1897,11 +1898,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimdate",
@@ -1921,11 +1922,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -1944,15 +1945,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1971,15 +1972,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -1998,15 +1999,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2025,14 +2026,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 12,
-                "at": 0,
-                "df": 204,
-                "sa": 4,
-                "sd": 92,
-                "sp": 196
+                "atk": 0,
+                "def": 204,
+                "spa": 4,
+                "spd": 92,
+                "spe": 196
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Unburden",
@@ -2052,14 +2053,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 36,
-                "sa": 220,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 36,
+                "spa": 220,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Flower Veil",
@@ -2079,15 +2080,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2106,15 +2107,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Drought",
@@ -2133,15 +2134,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2160,14 +2161,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 156,
-                "sa": 0,
-                "sd": 108,
-                "sp": 0
+                "atk": 0,
+                "def": 156,
+                "spa": 0,
+                "spd": 108,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Levitate",
@@ -2187,11 +2188,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2210,11 +2211,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 4,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -2230,11 +2231,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 180,
-                "at": 36,
-                "df": 108,
-                "sa": 0,
-                "sd": 172,
-                "sp": 12
+                "atk": 36,
+                "def": 108,
+                "spa": 0,
+                "spd": 172,
+                "spe": 12
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -2254,15 +2255,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2281,11 +2282,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2304,14 +2305,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Flash Fire",
@@ -2331,11 +2332,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Flash Fire",
@@ -2355,15 +2356,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2382,15 +2383,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Electromorphosis",
@@ -2409,11 +2410,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 0,
-                "df": 36,
-                "sa": 236,
-                "sd": 28,
-                "sp": 4
+                "atk": 0,
+                "def": 36,
+                "spa": 236,
+                "spd": 28,
+                "spe": 4
             },
             "nature": "Modest",
             "ability": "Sap Sipper",
@@ -2433,15 +2434,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2460,14 +2461,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Wind Power",
@@ -2486,14 +2487,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 148,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 100,
-                "sp": 4
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 100,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Water Absorb",
@@ -2513,15 +2514,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2540,15 +2541,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2567,15 +2568,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2594,14 +2595,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2620,15 +2621,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2647,14 +2648,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2673,11 +2674,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pixilate",
@@ -2694,11 +2695,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pixilate",
@@ -2718,14 +2719,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 140,
-                "at": 0,
-                "df": 0,
-                "sa": 164,
-                "sd": 0,
-                "sp": 204
+                "atk": 0,
+                "def": 0,
+                "spa": 164,
+                "spd": 0,
+                "spe": 204
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Rattled",
@@ -2745,14 +2746,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 140,
-                "at": 0,
-                "df": 0,
-                "sa": 164,
-                "sd": 0,
-                "sp": 204
+                "atk": 0,
+                "def": 0,
+                "spa": 164,
+                "spd": 0,
+                "spe": 204
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Rattled",
@@ -2772,15 +2773,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2799,14 +2800,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Armor Tail",
@@ -2823,15 +2824,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Armor Tail",
@@ -2850,15 +2851,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2877,11 +2878,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2900,14 +2901,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 52,
-                "at": 0,
-                "df": 52,
-                "sa": 220,
-                "sd": 52,
-                "sp": 132
+                "atk": 0,
+                "def": 52,
+                "spa": 220,
+                "spd": 52,
+                "spe": 132
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Punk Rock",
@@ -2927,15 +2928,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2954,11 +2955,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -2977,11 +2978,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Prankster",
@@ -3001,14 +3002,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "sp": 0
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3027,14 +3028,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 156,
-                "sa": 0,
-                "sd": 116,
-                "sp": 0
+                "atk": 0,
+                "def": 156,
+                "spa": 0,
+                "spd": 116,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Regenerator",
@@ -3054,15 +3055,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3081,14 +3082,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Analytic",
@@ -3108,15 +3109,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3135,11 +3136,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 68,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 196
+                "atk": 68,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 196
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -3156,11 +3157,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 52,
-                "df": 100,
-                "sa": 0,
-                "sd": 76,
-                "sp": 36
+                "atk": 52,
+                "def": 100,
+                "spa": 0,
+                "spd": 76,
+                "spe": 36
             },
             "nature": "Careful",
             "ability": "Intimidate",
@@ -3177,11 +3178,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -3198,11 +3199,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 236,
-                "df": 4,
-                "sa": 0,
-                "sd": 12,
-                "sp": 4
+                "atk": 236,
+                "def": 4,
+                "spa": 0,
+                "spd": 12,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -3222,15 +3223,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3249,15 +3250,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3276,15 +3277,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3303,15 +3304,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3330,15 +3331,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3357,15 +3358,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3384,11 +3385,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 20,
-                "df": 44,
-                "sa": 0,
-                "sd": 108,
-                "sp": 116
+                "atk": 20,
+                "def": 44,
+                "spa": 0,
+                "spd": 108,
+                "spe": 116
             },
             "nature": "Impish",
             "ability": "Intimidate",
@@ -3408,11 +3409,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -3429,11 +3430,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Anger Point",
@@ -3450,11 +3451,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -3474,15 +3475,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3501,15 +3502,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3528,15 +3529,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3555,11 +3556,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Pressure",
@@ -3579,14 +3580,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 116,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 116,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Prankster",
@@ -3603,11 +3604,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Prankster",
@@ -3627,15 +3628,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3654,11 +3655,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 0,
-                "sd": 156,
-                "sp": 0
+                "atk": 0,
+                "def": 100,
+                "spa": 0,
+                "spd": 156,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Shadow Tag",
@@ -3678,15 +3679,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3705,11 +3706,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 164,
-                "df": 44,
-                "sa": 0,
-                "sd": 36,
-                "sp": 12
+                "atk": 164,
+                "def": 44,
+                "spa": 0,
+                "spd": 36,
+                "spe": 12
             },
             "nature": "Adamant",
             "ability": "Disguise",
@@ -3726,11 +3727,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Disguise",
@@ -3750,14 +3751,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 76,
-                "sa": 0,
-                "sd": 180,
-                "sp": 0
+                "atk": 0,
+                "def": 76,
+                "spa": 0,
+                "spd": 180,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Prankster",
@@ -3775,14 +3776,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -3802,14 +3803,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Psychic Surge",
@@ -3829,11 +3830,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Wind Rider",
@@ -3850,11 +3851,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Wind Rider",
@@ -3871,11 +3872,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Wind Rider",
@@ -3895,14 +3896,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Mycelium Might",
@@ -3922,15 +3923,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3949,14 +3950,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Contrary",
@@ -3975,11 +3976,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -3998,14 +3999,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Chlorophyll",
@@ -4024,15 +4025,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4051,15 +4052,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 164,
-                "sa": 0,
-                "sd": 92,
-                "sp": 0
+                "atk": 0,
+                "def": 164,
+                "spa": 0,
+                "spd": 92,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Telepathy",
@@ -4079,14 +4080,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4105,15 +4106,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4132,11 +4133,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -4153,11 +4154,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -4177,15 +4178,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4204,14 +4205,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Speed Boost",
@@ -4228,14 +4229,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Speed Boost",
@@ -4255,11 +4256,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4278,11 +4279,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4301,15 +4302,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4328,14 +4329,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 196,
-                "df": 0,
-                "sa": 0,
-                "sd": 60,
-                "sp": 0
+                "atk": 196,
+                "def": 0,
+                "spa": 0,
+                "spd": 60,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Stamina",
@@ -4354,14 +4355,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 4,
-                "sd": 4,
-                "sp": 164
+                "atk": 0,
+                "def": 84,
+                "spa": 4,
+                "spd": 4,
+                "spe": 164
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Flame Body",
@@ -4378,14 +4379,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 212,
-                "sa": 4,
-                "sd": 36,
-                "sp": 4
+                "atk": 0,
+                "def": 212,
+                "spa": 4,
+                "spd": 36,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Flame Body",
@@ -4405,14 +4406,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 172,
-                "sa": 4,
-                "sd": 12,
-                "sp": 84
+                "atk": 0,
+                "def": 172,
+                "spa": 4,
+                "spd": 12,
+                "spe": 84
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Intimidate",
@@ -4429,11 +4430,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -4450,14 +4451,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -4477,11 +4478,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Own Tempo",
@@ -4501,15 +4502,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Magic Bounce",
@@ -4529,11 +4530,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 124,
-                "sa": 0,
-                "sd": 116,
-                "sp": 12
+                "atk": 4,
+                "def": 124,
+                "spa": 0,
+                "spd": 116,
+                "spe": 12
             },
             "nature": "Careful",
             "ability": "Prankster",
@@ -4553,11 +4554,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4576,11 +4577,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 4
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Rocky Payload",
@@ -4600,11 +4601,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 4
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Zero to Hero",
@@ -4620,11 +4621,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Zero to Hero",
@@ -4643,14 +4644,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "sp": 0
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4669,11 +4670,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 116,
-                "at": 4,
-                "df": 68,
-                "sa": 0,
-                "sd": 140,
-                "sp": 180
+                "atk": 4,
+                "def": 68,
+                "spa": 0,
+                "spd": 140,
+                "spe": 180
             },
             "nature": "Jolly",
             "ability": "Regenerator",
@@ -4693,11 +4694,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 36,
-                "sa": 0,
-                "sd": 228,
-                "sp": 0
+                "atk": 0,
+                "def": 36,
+                "spa": 0,
+                "spd": 228,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Earth Eater",
@@ -4717,14 +4718,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 116,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 116,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Prankster",
@@ -4744,15 +4745,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4771,15 +4772,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4798,15 +4799,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4825,15 +4826,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -4852,11 +4853,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Sturdy",
@@ -4876,14 +4877,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Frisk",
@@ -4903,11 +4904,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Clear Body",
@@ -4924,14 +4925,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Clear Body",
@@ -4951,14 +4952,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 4,
-                "sa": 156,
-                "sd": 124,
-                "sp": 12
+                "atk": 0,
+                "def": 4,
+                "spa": 156,
+                "spd": 124,
+                "spe": 12
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Toxic Debris",
@@ -4975,14 +4976,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 20,
-                "at": 0,
-                "df": 0,
-                "sa": 236,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 236,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Toxic Debris",
@@ -5002,14 +5003,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 44,
-                "sd": 76,
-                "sp": 36
+                "atk": 0,
+                "def": 100,
+                "spa": 44,
+                "spd": 76,
+                "spe": 36
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Levitate",
@@ -5028,14 +5029,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -5054,14 +5055,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 92,
-                "sd": 44,
-                "sp": 116
+                "atk": 0,
+                "def": 4,
+                "spa": 92,
+                "spd": 44,
+                "spe": 116
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -5081,15 +5082,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5109,11 +5110,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -5133,15 +5134,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 108,
-                "sa": 0,
-                "sd": 156,
-                "sp": 0
+                "atk": 0,
+                "def": 108,
+                "spa": 0,
+                "spd": 156,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Sassy",
             "tera_type": "Dark",
@@ -5161,15 +5162,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5188,15 +5189,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5215,11 +5216,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 244
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 244
             },
             "nature": "Adamant",
             "ability": "Sand Stream",
@@ -5236,11 +5237,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 204,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 52
+                "atk": 204,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 52
             },
             "nature": "Adamant",
             "ability": "Sand Stream",
@@ -5257,11 +5258,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Stream",
@@ -5281,15 +5282,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5308,15 +5309,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5335,14 +5336,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "sp": 0
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5361,15 +5362,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5388,15 +5389,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Oblivious",
@@ -5415,15 +5416,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 108,
-                "sa": 108,
-                "sd": 36,
-                "sp": 0
+                "atk": 0,
+                "def": 108,
+                "spa": 108,
+                "spd": 36,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Regenerator",
@@ -5442,14 +5443,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 116,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Storm Drain",
@@ -5469,15 +5470,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5496,15 +5497,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5523,15 +5524,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5550,15 +5551,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5577,14 +5578,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Dazzling",
@@ -5603,15 +5604,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5630,15 +5631,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5657,14 +5658,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5683,14 +5684,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5709,15 +5710,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5736,11 +5737,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Costar",
@@ -5756,11 +5757,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Costar",
@@ -5780,11 +5781,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 20
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 20
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
@@ -5801,11 +5802,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 4
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Multiscale",
@@ -5825,14 +5826,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5851,14 +5852,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 220,
-                "sd": 0,
-                "sp": 36
+                "atk": 0,
+                "def": 0,
+                "spa": 220,
+                "spd": 0,
+                "spe": 36
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Snow Warning",
@@ -5878,15 +5879,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5905,11 +5906,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5928,15 +5929,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5955,15 +5956,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -5982,14 +5983,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -6009,11 +6010,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 20,
-                "sa": 0,
-                "sd": 84,
-                "sp": 148
+                "atk": 252,
+                "def": 20,
+                "spa": 0,
+                "spd": 84,
+                "spe": 148
             },
             "nature": "Adamant",
             "ability": "Slush Rush",
@@ -6030,11 +6031,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 20,
-                "sa": 0,
-                "sd": 116,
-                "sp": 116
+                "atk": 252,
+                "def": 20,
+                "spa": 0,
+                "spd": 116,
+                "spe": 116
             },
             "nature": "Adamant",
             "ability": "Slush Rush",
@@ -6054,11 +6055,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -6077,11 +6078,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -6100,11 +6101,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -6121,11 +6122,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 60,
-                "sp": 4
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 60,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -6145,14 +6146,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -6169,14 +6170,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 0,
-                "df": 20,
-                "sa": 116,
-                "sd": 12,
-                "sp": 172
+                "atk": 0,
+                "def": 20,
+                "spa": 116,
+                "spd": 12,
+                "spe": 172
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -6196,11 +6197,11 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -6219,11 +6220,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 4,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 4
+                "atk": 4,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 4
             },
             "nature": "Careful",
             "ability": "Unaware",
@@ -6240,11 +6241,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 100,
-                "df": 4,
-                "sa": 0,
-                "sd": 172,
-                "sp": 228
+                "atk": 100,
+                "def": 4,
+                "spa": 0,
+                "spd": 172,
+                "spe": 228
             },
             "nature": "Adamant",
             "ability": "Oblivious",
@@ -6261,11 +6262,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Hasty",
             "ability": "Unaware",
@@ -6281,11 +6282,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 116,
-                "at": 156,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 236
+                "atk": 156,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 236
             },
             "nature": "Adamant",
             "ability": "Unaware",
@@ -6305,14 +6306,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Commander",
@@ -6329,14 +6330,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Commander",
@@ -6356,11 +6357,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "item": "Focus Sash",
@@ -6375,11 +6376,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "item": "Choice Scarf",
@@ -6398,14 +6399,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 164,
-                "sa": 0,
-                "sd": 132,
-                "sp": 0
+                "atk": 0,
+                "def": 164,
+                "spa": 0,
+                "spd": 132,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "item": "Sitrus Berry",
@@ -6421,11 +6422,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 60,
-                "df": 60,
-                "sa": 0,
-                "sd": 36,
-                "sp": 100
+                "atk": 60,
+                "def": 60,
+                "spa": 0,
+                "spd": 36,
+                "spe": 100
             },
             "nature": "Jolly",
             "item": "Booster Energy",
@@ -6444,11 +6445,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 12,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 12,
+                "spe": 0
             },
             "nature": "Impish",
             "item": "Sitrus Berry",
@@ -6464,11 +6465,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 20,
-                "df": 20,
-                "sa": 0,
-                "sd": 220,
-                "sp": 4
+                "atk": 20,
+                "def": 20,
+                "spa": 0,
+                "spd": 220,
+                "spe": 4
             },
             "nature": "Adamant",
             "item": "Loaded Dice",
@@ -6484,11 +6485,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 180,
-                "at": 12,
-                "df": 12,
-                "sa": 0,
-                "sd": 68,
-                "sp": 236
+                "atk": 12,
+                "def": 12,
+                "spa": 0,
+                "spd": 68,
+                "spe": 236
             },
             "nature": "Adamant",
             "item": "Sitrus Berry",
@@ -6507,14 +6508,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 132,
-                "sa": 36,
-                "sd": 4,
-                "sp": 124
+                "atk": 0,
+                "def": 132,
+                "spa": 36,
+                "spd": 4,
+                "spe": 124
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Booster Energy",
@@ -6530,14 +6531,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Focus Sash",
@@ -6553,14 +6554,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "item": "Choice Specs",
@@ -6576,14 +6577,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 68,
-                "at": 0,
-                "df": 116,
-                "sa": 116,
-                "sd": 4,
-                "sp": 204
+                "atk": 0,
+                "def": 116,
+                "spa": 116,
+                "spd": 4,
+                "spe": 204
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "item": "Booster Energy",
@@ -6601,11 +6602,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 20,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 228
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 228
             },
             "nature": "Adamant",
             "item": "Booster Energy",
@@ -6624,14 +6625,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Life Orb",
@@ -6647,14 +6648,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 36,
-                "at": 0,
-                "df": 4,
-                "sa": 204,
-                "sd": 12,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 204,
+                "spd": 12,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Choice Specs",
@@ -6673,11 +6674,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 172,
-                "df": 0,
-                "sa": 0,
-                "sd": 84,
-                "sp": 252
+                "atk": 172,
+                "def": 0,
+                "spa": 0,
+                "spd": 84,
+                "spe": 252
             },
             "nature": "Jolly",
             "item": "Assault Vest",
@@ -6696,14 +6697,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Booster Energy",
@@ -6719,14 +6720,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 44,
-                "at": 0,
-                "df": 4,
-                "sa": 228,
-                "sd": 204,
-                "sp": 28
+                "atk": 0,
+                "def": 4,
+                "spa": 228,
+                "spd": 204,
+                "spe": 28
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Booster Energy",
@@ -6742,14 +6743,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Choice Specs",
@@ -6768,11 +6769,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 236,
-                "sp": 12
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 236,
+                "spe": 12
             },
             "nature": "Adamant",
             "item": "Assault Vest",
@@ -6788,11 +6789,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 124,
-                "df": 36,
-                "sa": 0,
-                "sd": 252,
-                "sp": 12
+                "atk": 124,
+                "def": 36,
+                "spa": 0,
+                "spd": 252,
+                "spe": 12
             },
             "nature": "Adamant",
             "item": "Sitrus Berry",
@@ -6811,14 +6812,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 36,
-                "sd": 44,
-                "sp": 92
+                "atk": 0,
+                "def": 84,
+                "spa": 36,
+                "spd": 44,
+                "spe": 92
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Booster Energy",
@@ -6834,14 +6835,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Life Orb",
@@ -6860,14 +6861,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 116,
-                "sa": 132,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 116,
+                "spa": 132,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Booster Energy",
@@ -6883,14 +6884,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Booster Energy",
@@ -6909,11 +6910,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "item": "Booster Energy",
@@ -6932,11 +6933,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Ice Body",
@@ -6953,11 +6954,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 196,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 60
+                "atk": 196,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 60
             },
             "nature": "Adamant",
             "ability": "Thermal Exchange",
@@ -6974,11 +6975,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 28
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 28
             },
             "nature": "Adamant",
             "ability": "Thermal Exchange",
@@ -6995,11 +6996,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 196,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 52
+                "atk": 196,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 52
             },
             "nature": "Adamant",
             "ability": "Thermal Exchange",
@@ -7019,14 +7020,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 148,
-                "at": 0,
-                "df": 100,
-                "sa": 68,
-                "sd": 4,
-                "sp": 188
+                "atk": 0,
+                "def": 100,
+                "spa": 68,
+                "spd": 4,
+                "spe": 188
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Good as Gold",
@@ -7043,14 +7044,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Good as Gold",
@@ -7067,14 +7068,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Good as Gold",
@@ -7094,14 +7095,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 140,
-                "sa": 0,
-                "sd": 116,
-                "sp": 0
+                "atk": 0,
+                "def": 140,
+                "spa": 0,
+                "spd": 116,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "tera_type": "Poison",
@@ -7120,11 +7121,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "tera_type": "Ghost",
@@ -7143,11 +7144,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 100,
-                "at": 156,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 156,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Adamant",
             "tera_type": "Poison",
@@ -7163,11 +7164,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 12,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 244,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 244,
+                "spe": 0
             },
             "nature": "Adamant",
             "tera_type": "Water",
@@ -7186,14 +7187,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Water",
@@ -7209,14 +7210,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Ghost",
@@ -7235,11 +7236,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 220,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 220,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "tera_type": "Flying",
@@ -7255,11 +7256,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 4
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 4
             },
             "nature": "Adamant",
             "tera_type": "Flying",
@@ -7278,11 +7279,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 100,
-                "df": 0,
-                "sa": 156,
-                "sd": 0,
-                "sp": 252
+                "atk": 100,
+                "def": 0,
+                "spa": 156,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Naive",
             "item": "Focus Sash",
@@ -7300,14 +7301,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Fighting",
@@ -7323,14 +7324,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Fairy",
@@ -7349,14 +7350,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7374,15 +7375,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7401,11 +7402,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Fur Coat",
@@ -7424,14 +7425,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7449,14 +7450,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7474,14 +7475,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7499,11 +7500,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -7520,11 +7521,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -7543,14 +7544,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Soundproof",
@@ -7569,14 +7570,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7594,11 +7595,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "tera_type": "Ghost",
@@ -7616,14 +7617,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7642,14 +7643,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Sheer Force",
@@ -7668,14 +7669,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7694,11 +7695,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Sap Sipper",
@@ -7717,15 +7718,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7744,14 +7745,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7769,14 +7770,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7795,14 +7796,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7821,11 +7822,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sharpness",
@@ -7844,14 +7845,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "tera_type": "Ghost",
@@ -7869,11 +7870,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Adaptability",
@@ -7891,11 +7892,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "tera_type": "Flying",
@@ -7913,14 +7914,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -7939,15 +7940,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0,
+                "atk": 0,
+                "spe": 0,
             },
             "nature": "Relaxed",
             "tera_type": "Grass",
@@ -7965,14 +7966,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Solar Power",
@@ -7990,14 +7991,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Flash Fire",
@@ -8016,15 +8017,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8043,14 +8044,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Bulletproof",
@@ -8069,15 +8070,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8096,14 +8097,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Protean",
@@ -8121,15 +8122,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8148,11 +8149,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 116,
-                "df": 4,
-                "sa": 0,
-                "sd": 124,
-                "sp": 12
+                "atk": 116,
+                "def": 4,
+                "spa": 0,
+                "spd": 124,
+                "spe": 12
             },
             "nature": "Adamant",
             "tera_type": "Grass",
@@ -8170,14 +8171,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Blaze",
@@ -8195,11 +8196,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 60
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 60
             },
             "nature": "Adamant",
             "ability": "Sharpness",
@@ -8217,11 +8218,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "tera_type": "Poison",
@@ -8239,14 +8240,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 68,
-                "sa": 124,
-                "sd": 4,
-                "sp": 100
+                "atk": 0,
+                "def": 68,
+                "spa": 124,
+                "spd": 4,
+                "spe": 100
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Snow Cloak",
@@ -8265,14 +8266,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 140,
-                "sa": 44,
-                "sd": 12,
-                "sp": 60
+                "atk": 0,
+                "def": 140,
+                "spa": 44,
+                "spd": 12,
+                "spe": 60
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Competitive",
@@ -8291,14 +8292,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 236,
-                "sa": 0,
-                "sd": 20,
-                "sp": 0
+                "atk": 0,
+                "def": 236,
+                "spa": 0,
+                "spd": 20,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Static",
@@ -8315,14 +8316,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 60,
-                "at": 0,
-                "df": 0,
-                "sa": 196,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 196,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Static",
@@ -8341,14 +8342,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8366,15 +8367,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8393,14 +8394,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 0,
-                "sa": 156,
-                "sd": 0,
-                "sp": 140
+                "atk": 0,
+                "def": 0,
+                "spa": 156,
+                "spd": 0,
+                "spe": 140
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "tera_type": "Poison",
@@ -8418,14 +8419,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8443,14 +8444,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8468,14 +8469,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8493,14 +8494,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 4
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "tera_type": "Fairy",
@@ -8516,14 +8517,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 20,
-                "sa": 76,
-                "sd": 148,
-                "sp": 20
+                "atk": 0,
+                "def": 20,
+                "spa": 76,
+                "spd": 148,
+                "spe": 20
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "tera_type": "Grass",
@@ -8541,14 +8542,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 180,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 180,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "tera_type": "Fairy",
@@ -8566,14 +8567,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Prankster",
@@ -8590,14 +8591,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 220,
-                "sa": 4,
-                "sd": 4,
-                "sp": 28
+                "atk": 0,
+                "def": 220,
+                "spa": 4,
+                "spd": 4,
+                "spe": 28
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Prankster",
@@ -8614,15 +8615,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 28,
+                "atk": 0,
+                "spe": 28,
             },
             "nature": "Bold",
             "ability": "Prankster",
@@ -8641,15 +8642,15 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "spe": 0
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -8668,14 +8669,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Prankster",
@@ -8694,14 +8695,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Flying",
@@ -8719,14 +8720,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Sheer Force",
@@ -8745,11 +8746,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "tera_type": "Flying",
@@ -8765,11 +8766,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 196,
-                "df": 0,
-                "sa": 0,
-                "sd": 60,
-                "sp": 0
+                "atk": 196,
+                "def": 0,
+                "spa": 0,
+                "spd": 60,
+                "spe": 0
             },
             "nature": "Adamant",
             "tera_type": "Water",
@@ -8787,14 +8788,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Fairy",
@@ -8812,14 +8813,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "item": "Choice Specs",
@@ -8834,14 +8835,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "tera_type": "Flying",
@@ -8859,11 +8860,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "tera_type": "Dark",
@@ -8881,11 +8882,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "tera_type": "Water",
@@ -8901,11 +8902,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "tera_type": "Water",
@@ -8923,14 +8924,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Ice",
@@ -8946,11 +8947,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "tera_type": "Normal",
@@ -8968,14 +8969,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 100,
-                "sa": 252,
-                "sd": 12,
-                "sp": 140
+                "atk": 0,
+                "def": 100,
+                "spa": 252,
+                "spd": 12,
+                "spe": 140
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "tera_type": "Steel",
@@ -8991,14 +8992,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "Choice Scarf",
@@ -9015,14 +9016,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "tera_type": "Poison",
@@ -9040,14 +9041,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9068,14 +9069,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9093,14 +9094,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9118,14 +9119,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9143,14 +9144,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9168,14 +9169,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 188,
-                "sa": 0,
-                "sd": 68,
-                "sp": 0
+                "atk": 0,
+                "def": 188,
+                "spa": 0,
+                "spd": 68,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Prankster",
@@ -9194,14 +9195,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9219,14 +9220,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9244,14 +9245,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9269,14 +9270,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9294,14 +9295,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9319,14 +9320,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9344,14 +9345,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9369,14 +9370,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9394,14 +9395,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9419,14 +9420,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -9445,14 +9446,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9470,14 +9471,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9495,11 +9496,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Oblivious",
@@ -9518,14 +9519,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9543,14 +9544,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9568,14 +9569,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 4,
-                "sd": 156,
-                "sp": 12
+                "atk": 0,
+                "def": 84,
+                "spa": 4,
+                "spd": 156,
+                "spe": 12
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "tera_type": "Water",
@@ -9593,14 +9594,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9618,14 +9619,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9643,14 +9644,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9668,14 +9669,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9693,14 +9694,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9718,14 +9719,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9743,14 +9744,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9768,14 +9769,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9793,14 +9794,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9818,14 +9819,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9843,14 +9844,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 4,
-                "sp": 220
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 4,
+                "spe": 220
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Bulletproof",
@@ -9867,11 +9868,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 156,
-                "sa": 0,
-                "sd": 92,
-                "sp": 4
+                "atk": 4,
+                "def": 156,
+                "spa": 0,
+                "spd": 92,
+                "spe": 4
             },
             "nature": "Impish",
             "ability": "Bulletproof",
@@ -9890,11 +9891,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Neutralizing Gas",
@@ -9913,14 +9914,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9938,15 +9939,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0,
+                "atk": 0,
+                "spe": 0,
             },
             "nature": "Sassy",
             "ability": "Pressure",
@@ -9965,14 +9966,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -9990,14 +9991,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10015,14 +10016,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10040,14 +10041,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10065,14 +10066,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Friend Guard",
@@ -10091,14 +10092,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10116,14 +10117,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Competitive",
@@ -10142,14 +10143,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10167,14 +10168,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10192,11 +10193,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Guard Dog",
@@ -10215,11 +10216,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "item": "Focus Sash",
@@ -10236,14 +10237,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Water",
@@ -10261,11 +10262,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "item": "Focus Sash",
@@ -10282,11 +10283,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 76,
-                "df": 148,
-                "sa": 0,
-                "sd": 28,
-                "sp": 4
+                "atk": 76,
+                "def": 148,
+                "spa": 0,
+                "spd": 28,
+                "spe": 4
             },
             "nature": "Adamant",
             "moves": [
@@ -10302,11 +10303,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "moves": [
@@ -10322,11 +10323,11 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "moves": [
@@ -10342,14 +10343,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 0,
-                "df": 20,
-                "sa": 4,
-                "sd": 60,
-                "sp": 204
+                "atk": 0,
+                "def": 20,
+                "spa": 4,
+                "spd": 60,
+                "spe": 204
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "tera_type": "Water",
@@ -10367,14 +10368,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10392,14 +10393,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10417,14 +10418,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 156,
-                "sa": 0,
-                "sd": 100,
-                "sp": 0
+                "atk": 0,
+                "def": 156,
+                "spa": 0,
+                "spd": 100,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Neutralizing Gas",
@@ -10443,15 +10444,15 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0,
+                "atk": 0,
+                "spe": 0,
             },
             "nature": "Quiet",
             "tera_type": "Normal",
@@ -10469,14 +10470,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10494,14 +10495,14 @@ var SETDEX_VGC2023 = {
     //        "level": 50,
     //        "evs": {
     //            "hp": 0,
-    //            "at": 0,
-    //            "df": 0,
-    //            "sa": 0,
-    //            "sd": 0,
-    //            "sp": 0
+    //            "atk": 0,
+    //            "def": 0,
+    //            "spa": 0,
+    //            "spd": 0,
+    //            "spe": 0
     //        },
     //        "ivs": {
-    //            "at": 0,
+    //            "atk": 0,
     //        },
     //        "nature": "",
     //        "ability": "",
@@ -10519,14 +10520,14 @@ var SETDEX_VGC2023 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "tera_type": "Water",
@@ -10540,4 +10541,906 @@ var SETDEX_VGC2023 = {
             ]
         },
     },
+	"Serperior": {
+		"Boyt's Stellar Contrary": {
+            "item": "@ Wide Lens",
+            "ability": "Contrary",
+            "level": 50,
+            "tera_type": "Stellar",
+            "evs": {
+                "hp": 116,
+                "def": 4,
+                "spa": 132,
+                "spd": 4,
+                "spe": 252,
+            },
+            "nature": "Timid",
+            "moves": [
+                "Leaf Storm",
+                "Tera Blast",
+                "Dragon Pulse",
+                "Breaking Swipe",
+            ]
+        },
+        "Boyt's Assault Vest": {
+            "item": "@ Assault Vest",
+            "ability": "Contrary",
+            "level": 50,
+            "tera_type": "Rock",
+            "evs": {
+                "hp": 116,
+                "def": 4,
+                "spa": 132,
+                "spd": 4,
+                "spe": 252,
+            },
+            "nature": "Timid",
+            "moves": [
+                "Leaf Storm",
+                "Tera Blast",
+                "Grass Pledge",
+                "Breaking Swipe",
+            ]
+        },
+	},
+	"Whimsicott": {
+		"Bulky Support": {
+            "item": "",
+            "ability": "Prankster",
+            "level": 50,
+            "tera_type": "Water",
+            "evs": {
+                "hp": 252,
+                "def": 252,
+                "spd": 4,
+            },
+            "nature": "Bold",
+            "ivs": {
+                "atk": 0,
+            },
+            "moves": [
+                "Moonblast",
+                "Energy Ball",
+                "Hurricane",
+                "Dazzling Gleam",
+            ]
+        },
+        "Urshifu Destroyer": {
+            "item": "@ Rocky Helmet",
+            "ability": "Prankster",
+            "level": 50,
+            "tera_type": "Fairy",
+            "evs": {
+                "hp": 252,
+                "def": 4,
+                "spa": 252,
+            },
+            "nature": "Modest",
+            "ivs": {
+                "atk": 0,
+            },
+            "moves": [
+                "Moonblast",
+                "Energy Ball",
+                "Hurricane",
+                "Dazzling Gleam",
+            ]
+        },
+	},
+	"Archaludon": {
+		"Boyt's Assault Vest Attacker": {
+			"item": "@ Assault Vest",
+			"ability": "Stamina",
+			"level": 50,
+			"tera_type": "Flying",
+			"evs": {
+				"hp": 252,
+				"def": 4,
+				"spa": 116,
+				"spd": 124,
+				"spe": 12,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Electro Shot",
+				"Draco Meteor",
+				"Body Press",
+				"Flash Cannon",
+			]
+		},
+		"Assault Vest Max SpAtk": {
+			"item": "@ Assault Vest",
+			"ability": "Stamina",
+			"level": 50,
+			"tera_type": "Steel",
+			"evs": {
+				"hp": 252,
+				"spa": 252,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Electro Shot",
+				"Draco Meteor",
+				"Body Press",
+				"Flash Cannon",
+			]
+		},
+	},
+	"Latias": {
+		"Bulky Support": {
+			"item": "@ Rocky Helmet",
+			"ability": "Levitate",
+			"level": 50,
+			"tera_type": "Poison",
+			"evs": {
+				"hp": 252,
+				"def": 252,
+				"spa": 4,
+			},
+			"nature": "Bold",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Draco Meteor",
+				"Mist Ball",
+				"Ice Beam",
+				"Aura Sphere",
+			]
+		},
+		"Bulky Max SpAtk": {
+			"item": "",
+			"ability": "Levitate",
+			"level": 50,
+			"tera_type": "Dragon",
+			"evs": {
+				"hp": 252,
+				"def": 4,
+				"spa": 252,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Draco Meteor",
+				"Mist Ball",
+				"Ice Beam",
+				"Aura Sphere",
+			]
+		},
+	},
+	"Latios": {
+		"Modest Max SpAtk": {
+			"item": "",
+			"ability": "Levitate",
+			"level": 50,
+			"tera_type": "Dragon",
+			"evs": {
+				"hp": 92,
+				"def": 4,
+				"spa": 252,
+				"spd": 4,
+				"spe": 156,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Draco Meteor",
+				"Luster Purge",
+				"Ice Beam",
+				"Aura Sphere",
+			]
+		},
+	},
+	"Entei": {
+		"Bulky Assault Vest Attacker": {
+			"item": "@ Assault Vest",
+			"ability": "Inner Focus",
+			"level": 50,
+			"tera_type": "Normal",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+				"spe": 4,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Sacred Fire",
+				"Stomping Tantrum",
+				"Extreme Speed",
+				"Snarl",
+			]
+		},
+		"Jolly Assault Vest Attacker": {
+			"item": "@ Assault Vest",
+			"ability": "Inner Focus",
+			"level": 50,
+			"tera_type": "Normal",
+			"evs": {
+				"hp": 4,
+				"atk": 252,
+				"spe": 252,
+			},
+			"nature": "Jolly",
+			"moves": [
+				"Sacred Fire",
+				"Stomping Tantrum",
+				"Extreme Speed",
+				"Snarl",
+			]
+		},
+		"Adamant Choice Band": {
+			"item": "@ Choice Band",
+			"ability": "Pressure",
+			"level": 50,
+			"tera_type": "Normal",
+			"evs": {
+				"hp": 4,
+				"atk": 252,
+				"spe": 252,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Sacred Fire",
+				"Stomping Tantrum",
+				"Extreme Speed",
+				"Crunch",
+			]
+		},
+	},
+	"Metagross": {
+		"Bulky Assault Vest": {
+			"item": "@ Assault Vest",
+			"ability": "Clear Body",
+			"level": 50,
+			"tera_type": "Fairy",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+				"spe": 4,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Bullet Punch",
+				"Psychic Fangs",
+				"Stomping Tantrum",
+				"Heavy Slam",
+			]
+		},
+	},
+	"Araquanid": {
+		"Trick Room Araquanid": {
+			"item": "@ Safety Goggles",
+			"ability": "Water Bubble",
+			"level": 50,
+			"tera_type": "Water",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+				"def": 4,
+			},
+			"nature": "Brave",
+			"ivs": {
+				"spe": 0,
+			},
+			"moves": [
+				"Liquidation",
+				"Leech Life",
+				"Poison Jab",
+				"Crunch",
+			]
+		},
+	},
+	"Suicune": {
+		"Bulky Bold": {
+			"item": "@ Sitrus Berry",
+			"ability": "Inner Focus",
+			"level": 50,
+			"tera_type": "Grass",
+			"evs": {
+				"hp": 252,
+				"def": 252,
+				"spa": 4,
+			},
+			"nature": "Bold",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Scald",
+				"Ice Beam",
+				"Snarl",
+				"Shadow Ball",
+			]
+		},
+		"Bulky Max SpAtk": {
+			"item": "@ Sitrus Berry",
+			"ability": "Inner Focus",
+			"level": 50,
+			"tera_type": "Grass",
+			"evs": {
+				"hp": 252,
+				"spa": 252,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Scald",
+				"Ice Beam",
+				"Snarl",
+				"Shadow Ball",
+			]
+		},
+	},
+	"Registeel": {
+		"Bold Max SpDef": {
+			"item": "@ Leftovers",
+			"ability": "Clear Body",
+			"level": 50,
+			"tera_type": "Steel",
+			"evs": {
+				"hp": 252,
+				"spd": 252,
+			},
+			"nature": "Impish",
+			"moves": [
+				"Heavy Slam",
+				"Body Press",
+				"Ice Spinner",
+				"Sand Tomb",
+			]
+		},
+	},
+	"Magmar": {
+		"Eviolite Bold": {
+			"ability": "Flame Body",
+			"level": 50,
+			"tera_type": "Grass",
+			"evs": {
+				"hp": 252,
+				"def": 252,
+				"spd": 4,
+			},
+			"nature": "Bold",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Scorching Sands",
+				"Heat Wave",
+				"Psychic",
+				"Overheat",
+			]
+		},
+	},
+	"Rhyperior": {
+		"Bulky Attackeer": {
+			"item": "",
+			"ability": "Solid Rock",
+			"level": 50,
+			"tera_type": "Ground",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"High Horsepower",
+				"Rock Slide",
+				"Ice Punch",
+				"Heavy Slam",
+			]
+		},
+	},
+	"Rhydon": {
+		"Eviolite Attacker": {
+			"item": "@ Eviolite",
+			"ability": "Lightning Rod",
+			"level": 50,
+			"tera_type": "Ground",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+				"spd": 4,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"High Horsepower",
+				"Rock Slide",
+				"Heavy Slam",
+				"Ice Punch",
+			]
+		},
+	},
+	"Electabuzz": {
+		"Eviolite Follow Me": {
+			"item": "",
+			"ability": "Static",
+			"level": 50,
+			"tera_type": "Electric",
+			"evs": {
+				"hp": 252,
+				"def": 252,
+			},
+			"nature": "Bold",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Psychic",
+				"Thunderbolt",
+				"Tera Blast",
+				"Follow Me",
+			]
+		},
+	},
+	"Electivire": {
+		"Adamant Attacker": {
+			"item": "@ Life Orb",
+			"ability": "Motor Drive",
+			"level": 50,
+			"tera_type": "Electric",
+			"evs": {
+				"atk": 252,
+				"spe": 252,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Wild Charge",
+				"Ice Punch",
+				"Rock Slide",
+				"Low Kick",
+			]
+		},
+	},
+	"Iron Leaves": {
+		"Jolly Attacker": {
+			"item": "@ Booster Energy",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Fairy",
+			"evs": {
+				"hp": 4,
+				"atk": 244,
+				"def": 4,
+				"spd": 4,
+				"spe": 252,
+			},
+			"nature": "Jolly",
+			"moves": [
+				"Psyblade",
+				"Close Combat",
+				"Leaf Blade",
+				"Wild Charge",
+			]
+		},
+	},
+	"Walking Wake": {
+		"Life Orb Attacker": {
+			"item": "@ Life Orb",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Fire",
+			"evs": {
+				"spa": 252,
+				"spd": 4,
+				"spe": 252,
+			},
+			"nature": "Timid",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Hydro Steam",
+				"Draco Meteor",
+				"Flamethrower",
+				"Dragon Pulse",
+			]
+		},
+		"Assault Vest": {
+			"item": "@ Assault Vest",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Fire",
+			"evs": {
+				"hp": 252,
+				"def": 124,
+				"spa": 124,
+				"spd": 4,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"moves": [
+				"Hydro Steam",
+				"Draco Meteor",
+				"Flamethrower",
+				"Breaking Swipe",
+			]
+		},
+	},
+	"Iron Boulder": {
+		"Jolly Life Orb": {
+			"item": "@ Life Orb",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Water",
+			"evs": {
+				"hp": 4,
+				"atk": 244,
+				"def": 4,
+				"spd": 4,
+				"spe": 252,
+			},
+			"nature": "Impish",
+			"moves": [
+				"Mighty Cleave",
+				"Zen Headbutt",
+				"Earthquake",
+				"Close Combat",
+			]
+		},
+		"Adamant Booster": {
+			"item": "@ Booster Energy",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Water",
+			"evs": {
+				"hp": 60,
+				"atk": 244,
+				"def": 4,
+				"spd": 4,
+				"spe": 196,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Mighty Cleave",
+				"Earthquake",
+				"Swords Dance",
+				"Protect",
+			]
+		},
+	},
+	"Iron Crown": {
+		"Speed Booster": {
+			"item": "@ Booster Energy",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Psychic",
+			"evs": {
+				"hp": 76,
+				"def": 4,
+				"spa": 172,
+				"spd": 4,
+				"spe": 252,
+			},
+			"nature": "Timid",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Tachyon Cutter",
+				"Expanding Force",
+				"Focus Blast",
+				"Volt Switch",
+			]
+		},
+		"Bulky SpAtk Booster": {
+			"item": "@ Booster Energy",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Psychic",
+			"evs": {
+				"hp": 252,
+				"def": 4,
+				"spa": 244,
+				"spd": 4,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Tachyon Cutter",
+				"Expanding Force",
+				"Focus Blast",
+				"Volt Switch",
+			]
+		},
+		"Fast SpAtk Booster": {
+			"item": "@ Booster Energy",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Steel",
+			"evs": {
+				"hp": 4,
+				"def": 4,
+				"spa": 244,
+				"spd": 4,
+				"spe": 252,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Tachyon Cutter",
+				"Expanding Force",
+				"Focus Blast",
+				"Volt Switch",
+			]
+		},
+		"Bulky Choice Specs": {
+			"item": "@ Choice Specs",
+			"ability": "Quark Drive",
+			"level": 50,
+			"tera_type": "Psychic",
+			"evs": {
+				"hp": 252,
+				"def": 4,
+				"spa": 244,
+				"spd": 4,
+				"spe": 4,
+			},
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Tachyon Cutter",
+				"Expanding Force",
+				"Focus Blast",
+				"Volt Switch",
+			]
+		},
+	},
+	"Raging Bolt": {
+		"Assault Vest Attacker": {
+			"item": "@ Assault Vest",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Electric",
+			"evs": {
+				"hp": 252,
+				"def": 4,
+				"spa": 244,
+				"spd": 4,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Thunderclap",
+				"Thunderbolt",
+				"Dragon Pulse",
+				"Draco Meteor",
+			]
+		},
+		"Booster SpAtk": {
+			"item": "@ Booster Energy",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Electric",
+			"evs": {
+				"hp": 252,
+				"def": 4,
+				"spa": 244,
+				"spd": 4,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Thunderclap",
+				"Thunderbolt",
+				"Dragon Pulse",
+				"Draco Meteor",
+			]
+		},
+		"Boyt's Bulky Leftovers": {
+			"item": "@ Leftovers",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Fairy",
+			"evs": {
+				"hp": 252,
+				"def": 148,
+				"spa": 44,
+				"spd": 4,
+				"spe": 60,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Thunderclap",
+				"Dragon Pulse",
+				"Thunderbolt",
+				"Tera Blast",
+			]
+		},
+	},
+	"Gouging Fire": {
+		"Boyt's Booster Attacker": {
+			"item": "@ Booster Energy",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Fairy",
+			"evs": {
+				"hp": 52,
+				"atk": 196,
+				"def": 4,
+				"spd": 4,
+				"spe": 252,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Flare Blitz",
+				"Dragon Claw",
+				"Stone Edge",
+				"Psychic Fangs",
+			]
+		},
+		"Boyt's Bulked Attacker": {
+			"item": "@ Loaded Dice",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Fire",
+			"evs": {
+				"hp": 52,
+				"atk": 244,
+				"def": 4,
+				"spd": 4,
+				"spe": 204,
+			},
+			"nature": "Jolly",
+			"moves": [
+				"Flare Blitz",
+				"Scale Shot",
+				"Dragon Claw",
+				"Stone Edge",
+			]
+		},
+		"Boyt's Assault Vest Attacker": {
+			"item": "@ Assault Vest",
+			"ability": "Protosynthesis",
+			"level": 50,
+			"tera_type": "Fairy",
+			"evs": {
+				"hp": 236,
+				"atk": 196,
+				"def": 4,
+				"spd": 4,
+				"spe": 68,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Flare Blitz",
+				"Tera Blast",
+				"Stomping Tantrum",
+				"Breaking Swipe",
+			]
+		},
+	},
+	"Primarina": {
+		"Boyt's Bulky Calm Mind": {
+			"item": "@ Leftovers",
+			"ability": "Liquid Voice",
+			"level": 50,
+			"tera_type": "Grass",
+			"evs": {
+				"hp": 252,
+				"def": 220,
+				"spa": 28,
+				"spd": 4,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Hyper Voice",
+				"Moonblast",
+				"Dazzling Gleam",
+				"Water Pledge",
+			]
+		},
+		"Bulky Spec Max SpAtk": {
+			"item": "@ Choice Specs",
+			"ability": "Liquid Voice",
+			"level": 50,
+			"tera_type": "Grass",
+			"evs": {
+				"hp": 252,
+				"spa": 252,
+				"spe": 4,
+			},
+			"nature": "Modest",
+			"ivs": {
+				"atk": 0,
+			},
+			"moves": [
+				"Hyper Voice",
+				"Moonblast",
+				"Dazzling Gleam",
+				"Energy Ball",
+			]
+		},
+	},
+	"Incineroar": {
+		"Bulky Attacker": {
+			"item": "@ Sitrus Berry",
+			"ability": "Intimidate",
+			"level": 50,
+			"tera_type": "Bug",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+				"spe": 4,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Flare Blitz",
+				"Knock Off",
+				"U-turn",
+				"Fake Out",
+			]
+		},
+		"Assault Vest Attacker": {
+			"item": "@ Assault Vest",
+			"ability": "Intimidate",
+			"level": 50,
+			"tera_type": "Bug",
+			"evs": {
+				"hp": 252,
+				"atk": 252,
+				"spd": 4,
+			},
+			"nature": "Adamant",
+			"moves": [
+				"Flare Blitz",
+				"Knock Off",
+				"U-turn",
+				"Fake Out",
+			]
+		},
+		"Bulky Incin": {
+			"item": "@ Sitrus Berry",
+			"ability": "Intimidate",
+			"level": 50,
+			"tera_type": "Bug",
+			"evs": {
+				"hp": 236,
+				"atk": 4,
+				"def": 188,
+				"spd": 76,
+				"spe": 4,
+			},
+			"nature": "Impish",
+			"moves": [
+				"Flare Blitz",
+				"Knock Off",
+				"U-turn",
+				"Fake Out",
+			]
+		},
+	},
 }

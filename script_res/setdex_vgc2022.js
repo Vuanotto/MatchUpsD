@@ -4,14 +4,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "item": "Life Orb",
@@ -28,11 +28,11 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 156,
-                "df": 4,
-                "sa": 0,
-                "sd": 60,
-                "sp": 36
+                "atk": 156,
+                "def": 4,
+                "spa": 0,
+                "spd": 60,
+                "spe": 36
             },
             "nature": "Adamant",
             "ability": "Drought",
@@ -50,15 +50,15 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 5,
+                "atk": 0,
+                "spe": 5,
             },
             "nature": "Modest",
             "item": "Assault Vest",
@@ -75,14 +75,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "item": "Babiri Berry",
@@ -99,14 +99,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "item": "Focus Sash",
@@ -123,14 +123,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Solar Power",
@@ -148,14 +148,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Transistor",
@@ -171,11 +171,11 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Naughty",
             "item": "Life Orb",
@@ -190,11 +190,11 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 20,
-                "at": 252,
-                "df": 44,
-                "sa": 0,
-                "sd": 92,
-                "sp": 100
+                "atk": 252,
+                "def": 44,
+                "spa": 0,
+                "spd": 92,
+                "spe": 100
             },
             "nature": "Jolly",
             "item": "Assault Vest",
@@ -211,14 +211,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 180,
-                "at": 0,
-                "df": 188,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 188,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Storm Drain",
@@ -237,14 +237,14 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 228,
-                "sa": 0,
-                "sd": 36,
-                "sp": 0
+                "atk": 0,
+                "def": 228,
+                "spa": 0,
+                "spd": 36,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Misty Surge",
@@ -263,15 +263,15 @@ var SETDEX_VGC2022 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "df": 0,
-                "sd": 0
+                "def": 0,
+                "spd": 0
             },
             "nature": "Lonely",
             "ability": "Wonder Guard",

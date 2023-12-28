@@ -5,14 +5,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Chlorophyll",
@@ -60,11 +60,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -94,14 +94,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 212,
-                "sa": 4,
-                "sd": 36,
-                "sp": 4
+                "atk": 0,
+                "def": 212,
+                "spa": 4,
+                "spd": 36,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Unaware",
@@ -149,11 +149,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 4,
-                "sa": 0,
-                "sd": 28,
-                "sp": 220
+                "atk": 4,
+                "def": 4,
+                "spa": 0,
+                "spd": 28,
+                "spe": 220
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -169,14 +169,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 4,
-                "sa": 4,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 4,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -239,14 +239,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Cursed Body",
@@ -273,15 +273,15 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 116,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 116,
+                "spd": 140,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Harvest",
@@ -308,14 +308,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 12,
-                "sd": 244,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 12,
+                "spd": 244,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "Neutralizing Gas",
@@ -342,11 +342,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -389,11 +389,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -438,14 +438,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 100,
-                "at": 156,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 156,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Gluttony",
@@ -461,11 +461,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 156,
-                "df": 92,
-                "sa": 0,
-                "sd": 12,
-                "sp": 4
+                "atk": 156,
+                "def": 92,
+                "spa": 0,
+                "spd": 12,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Thick Fat",
@@ -486,14 +486,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 76,
-                "at": 0,
-                "df": 4,
-                "sa": 172,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 172,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Static",
@@ -514,14 +514,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Inner Focus",
@@ -565,11 +565,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -602,11 +602,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 4
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Huge Power",
@@ -627,14 +627,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 0,
-                "sd": 156,
-                "sp": 0
+                "atk": 0,
+                "def": 100,
+                "spa": 0,
+                "spd": 156,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Drizzle",
@@ -664,14 +664,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 180,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 180,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Inner Focus",
@@ -725,11 +725,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -745,11 +745,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -806,14 +806,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -829,14 +829,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Swift Swim",
@@ -863,11 +863,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Moody",
@@ -885,11 +885,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 196,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 60
+                "atk": 196,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 60
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -913,14 +913,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 4,
-                "sa": 4,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 4,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Inner Focus",
@@ -936,14 +936,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Inner Focus",
@@ -961,11 +961,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -983,14 +983,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Inner Focus",
@@ -1008,11 +1008,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 124,
-                "df": 68,
-                "sa": 0,
-                "sd": 108,
-                "sp": 4
+                "atk": 124,
+                "def": 68,
+                "spa": 0,
+                "spd": 108,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Sand Stream",
@@ -1028,11 +1028,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Stream",
@@ -1061,11 +1061,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Speed Boost",
@@ -1099,11 +1099,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -1130,14 +1130,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "",
             "ability": "Drizzle",
@@ -1155,14 +1155,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Telepathy",
@@ -1183,11 +1183,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -1218,14 +1218,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 44,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 212,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 212,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Guts",
@@ -1297,15 +1297,15 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Drought",
@@ -1356,14 +1356,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 52,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 52,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Adaptability",
@@ -1393,14 +1393,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 244,
-                "sa": 4,
-                "sd": 4,
-                "sp": 4
+                "atk": 0,
+                "def": 244,
+                "spa": 4,
+                "spd": 4,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Competitive",
@@ -1460,14 +1460,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -1497,14 +1497,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 4,
-                "sa": 4,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 4,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -1522,14 +1522,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -1545,14 +1545,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -1584,11 +1584,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Naive",
             "ability": "Blaze",
@@ -1609,11 +1609,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 4,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -1658,11 +1658,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Volt Absorb",
@@ -1686,14 +1686,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 172,
-                "at": 0,
-                "df": 212,
-                "sa": 60,
-                "sd": 60,
-                "sp": 4
+                "atk": 0,
+                "def": 212,
+                "spa": 60,
+                "spd": 60,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Storm Drain",
@@ -1732,14 +1732,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Levitate",
@@ -1766,11 +1766,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Rough Skin",
@@ -1791,11 +1791,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -1811,11 +1811,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 4,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -1851,11 +1851,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Snow Warning",
@@ -1873,11 +1873,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Pressure",
@@ -1904,14 +1904,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Regenerator",
@@ -1935,14 +1935,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Super Luck",
@@ -1960,14 +1960,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 12,
-                "at": 0,
-                "df": 0,
-                "sa": 244,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 244,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Speed Boost",
@@ -1994,11 +1994,11 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Oblivious",
@@ -2034,14 +2034,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 116,
-                "sd": 20,
-                "sp": 116
+                "atk": 0,
+                "def": 4,
+                "spa": 116,
+                "spd": 20,
+                "spe": 116
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -2062,14 +2062,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -2090,14 +2090,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 4,
-                "sa": 12,
-                "sd": 12,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 12,
+                "spd": 12,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -2113,14 +2113,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -2153,14 +2153,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Flash Fire",
@@ -2187,14 +2187,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 4,
-                "sa": 220,
-                "sd": 20,
-                "sp": 36
+                "atk": 0,
+                "def": 4,
+                "spa": 220,
+                "spd": 20,
+                "spe": 36
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -2210,14 +2210,14 @@ var SETDEX_VGC_BFD = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Levitate",

@@ -132,19 +132,19 @@ function cookiesToLocalStorage(custom_cookies, generation) {
                 "level": custom_cookies[p][set].level,
                 "evs": {
                     "hp": custom_cookies[p][set].evs.hp,
-                    "at": custom_cookies[p][set].evs.at,
-                    "df": custom_cookies[p][set].evs.df,
-                    "sa": custom_cookies[p][set].evs.sa,
-                    "sd": custom_cookies[p][set].evs.sd,
-                    "sp": custom_cookies[p][set].evs.sp,
+                    "atk": custom_cookies[p][set].evs.atk,
+                    "def": custom_cookies[p][set].evs.def,
+                    "spa": custom_cookies[p][set].evs.spa,
+                    "spd": custom_cookies[p][set].evs.spd,
+                    "spe": custom_cookies[p][set].evs.spe,
                 },
                 "ivs": {
                     "hp": custom_cookies[p][set].ivs.hp,
-                    "at": custom_cookies[p][set].ivs.at,
-                    "df": custom_cookies[p][set].ivs.df,
-                    "sa": custom_cookies[p][set].ivs.sa,
-                    "sd": custom_cookies[p][set].ivs.sd,
-                    "sp": custom_cookies[p][set].ivs.sp,
+                    "atk": custom_cookies[p][set].ivs.atk,
+                    "def": custom_cookies[p][set].ivs.def,
+                    "spa": custom_cookies[p][set].ivs.spa,
+                    "spd": custom_cookies[p][set].ivs.spd,
+                    "spe": custom_cookies[p][set].ivs.spe,
                 },
                 "nature": custom_cookies[p][set].nature,
                 "ability": custom_cookies[p][set].ability,
@@ -433,11 +433,11 @@ var savecustom = function(customSetID, setNameID, textboxDisplayID)
           "level": 50,
           "evs": {
             "hp": 0,
-            "at": 0,
-            "df": 0,
-            "sa": 252,
-            "sd": 4,
-            "sp": 252
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 4,
+            "spe": 252
           },
           "nature": "Modest",
           "ability": "",
@@ -457,19 +457,19 @@ var savecustom = function(customSetID, setNameID, textboxDisplayID)
             "level": level,
             "evs": {
                 "hp": EVs[0],
-                "at": EVs[1],
-                "df": EVs[2],
-                "sa": EVs[3],
-                "sd": EVs[4],
-                "sp": EVs[5],
+                "atk": EVs[1],
+                "def": EVs[2],
+                "spa": EVs[3],
+                "spd": EVs[4],
+                "spe": EVs[5],
             },
             "ivs": {
                 "hp": IVs[0],
-                "at": IVs[1],
-                "df": IVs[2],
-                "sa": IVs[3],
-                "sd": IVs[4],
-                "sp": IVs[5],
+                "atk": IVs[1],
+                "def": IVs[2],
+                "spa": IVs[3],
+                "spd": IVs[4],
+                "spe": IVs[5],
             },
             "nature": nature,
             "ability": ability,
@@ -548,19 +548,19 @@ var savecalc = function (set, spreadName, accessIVs) {
         "level": set.level,
         "evs": {
             "hp": set.HPEVs,
-            "at": set.evs[STATS[0]],
-            "df": set.evs[STATS[1]],
-            "sa": set.evs[STATS[2]],
-            "sd": set.evs[STATS[3]],
-            "sp": set.evs[STATS[4]],
+            "atk": set.evs[STATS[0]],
+            "def": set.evs[STATS[1]],
+            "spa": set.evs[STATS[2]],
+            "spd": set.evs[STATS[3]],
+            "spe": set.evs[STATS[4]],
         },
         "ivs": {
             "hp": parseInt(accessIVs.find(".hp .ivs").val()),
-            "at": parseInt(accessIVs.find(".at .ivs").val()),
-            "df": parseInt(accessIVs.find(".df .ivs").val()),
-            "sa": parseInt(accessIVs.find(".sa .ivs").val()),
-            "sd": parseInt(accessIVs.find(".sd .ivs").val()),
-            "sp": parseInt(accessIVs.find(".sp .ivs").val()),
+            "atk": parseInt(accessIVs.find(".atk .ivs").val()),
+            "def": parseInt(accessIVs.find(".def .ivs").val()),
+            "spa": parseInt(accessIVs.find(".spa .ivs").val()),
+            "spd": parseInt(accessIVs.find(".spd .ivs").val()),
+            "spe": parseInt(accessIVs.find(".spe .ivs").val()),
         },
         "nature": set.nature,
         "ability": set.ability,
@@ -702,11 +702,11 @@ var exportset = function (set, accessIVs, textboxToPopulate) {
     //SAME DEAL WITH EVS, OPTIMIZED IV EXPORT IF READABILITY ISN'T A CONCERN
     //
     //exIVs = "IVs: " + accessIVs.find(".hp .ivs").val().toString() + " HP / " +
-    //    accessIVs.find(".at .ivs").val().toString() + " Atk / " +
-    //    accessIVs.find(".df .ivs").val().toString() + " Def / " +
-    //    accessIVs.find(".sa .ivs").val().toString() + " SpA / " +
-    //    accessIVs.find(".sd .ivs").val().toString() + " SpD / " +
-    //    accessIVs.find(".sp .ivs").val().toString() + " Spe ";
+    //    accessIVs.find(".atk .ivs").val().toString() + " Atk / " +
+    //    accessIVs.find(".def .ivs").val().toString() + " Def / " +
+    //    accessIVs.find(".spa .ivs").val().toString() + " SpA / " +
+    //    accessIVs.find(".spd .ivs").val().toString() + " SpD / " +
+    //    accessIVs.find(".spe .ivs").val().toString() + " Spe ";
 
     exIVs = "";
     hasIVs = false;
@@ -714,34 +714,34 @@ var exportset = function (set, accessIVs, textboxToPopulate) {
         hasIVs = true;
         exIVs = exIVs + accessIVs.find(".hp .ivs").val().toString() + " HP ";
     }
-    if (accessIVs.find(".at .ivs").val() != 31) {
+    if (accessIVs.find(".atk .ivs").val() != 31) {
         if (hasIVs)
             exIVs = exIVs + "/ ";
-        exIVs = exIVs + accessIVs.find(".at .ivs").val().toString() + " Atk ";
+        exIVs = exIVs + accessIVs.find(".atk .ivs").val().toString() + " Atk ";
         hasIVs = true;
     }
-    if (accessIVs.find(".df .ivs").val() != 31) {
+    if (accessIVs.find(".def .ivs").val() != 31) {
         if (hasIVs)
             exIVs = exIVs + "/ ";
-        exIVs = exIVs + accessIVs.find(".df .ivs").val().toString() + " Def ";
+        exIVs = exIVs + accessIVs.find(".def .ivs").val().toString() + " Def ";
         hasIVs = true;
     }
-    if (accessIVs.find(".sa .ivs").val() != 31) {
+    if (accessIVs.find(".spa .ivs").val() != 31) {
         if (hasIVs)
             exIVs = exIVs + "/ ";
-        exIVs = exIVs + accessIVs.find(".sa .ivs").val().toString() + " SpA ";
+        exIVs = exIVs + accessIVs.find(".spa .ivs").val().toString() + " SpA ";
         hasIVs = true;
     }
-    if (accessIVs.find(".sd .ivs").val() != 31) {
+    if (accessIVs.find(".spd .ivs").val() != 31) {
         if (hasIVs)
             exIVs = exIVs + "/ ";
-        exIVs = exIVs + accessIVs.find(".sd .ivs").val().toString() + " SpD ";
+        exIVs = exIVs + accessIVs.find(".spd .ivs").val().toString() + " SpD ";
         hasIVs = true;
     }
-    if (accessIVs.find(".sp .ivs").val() != 31) {
+    if (accessIVs.find(".spe .ivs").val() != 31) {
         if (hasIVs)
             exIVs = exIVs + "/ ";
-        exIVs = exIVs + accessIVs.find(".sp .ivs").val().toString() + " Spe ";
+        exIVs = exIVs + accessIVs.find(".spe .ivs").val().toString() + " Spe ";
         hasIVs = true;
     }
     if (hasIVs) {

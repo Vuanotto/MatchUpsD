@@ -4,11 +4,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Guts",
@@ -26,11 +26,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Brave",
             "ability": "Adaptability",
@@ -48,11 +48,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 4
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -70,11 +70,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Motor Drive",
@@ -92,11 +92,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -114,11 +114,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -136,11 +136,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -153,11 +153,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 0,
-                "df": 172,
-                "sa": 4,
-                "sd": 92,
-                "sp": 20
+                "atk": 0,
+                "def": 172,
+                "spa": 4,
+                "spd": 92,
+                "spe": 20
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -175,11 +175,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -197,11 +197,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -219,11 +219,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Overgrow",
@@ -241,11 +241,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -263,11 +263,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -285,11 +285,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 124,
-                "sa": 156,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 124,
+                "spa": 156,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Water Absorb",
@@ -307,11 +307,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 228
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 228
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -329,11 +329,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -351,11 +351,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 172,
-                "sa": 0,
-                "sd": 84,
-                "sp": 0
+                "atk": 0,
+                "def": 172,
+                "spa": 0,
+                "spd": 84,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -373,11 +373,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Water Absorb",
@@ -395,11 +395,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -417,11 +417,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 252,
-                "sa": 8,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 8,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -439,11 +439,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -461,11 +461,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -483,11 +483,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 148,
-                "sa": 108,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 148,
+                "spa": 108,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Thick Fat",
@@ -505,11 +505,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Dry Skin",
@@ -527,11 +527,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Hustle",
@@ -549,11 +549,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 52,
-                "df": 0,
-                "sa": 0,
-                "sd": 204,
-                "sp": 0
+                "atk": 52,
+                "def": 0,
+                "spa": 0,
+                "spd": 204,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -571,11 +571,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 100,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 156,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 156,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Thick Fat",
@@ -593,11 +593,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Adaptability",
@@ -615,11 +615,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 36,
-                "sp": 220
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 36,
+                "spe": 220
             },
             "nature": "Jolly",
             "ability": "",
@@ -637,11 +637,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -659,11 +659,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 156,
-                "sa": 0,
-                "sd": 96,
-                "sp": 0
+                "atk": 0,
+                "def": 156,
+                "spa": 0,
+                "spd": 96,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Simple",
@@ -681,11 +681,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 12,
-                "sa": 0,
-                "sd": 244,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 0,
+                "spd": 244,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -703,11 +703,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Scrappy",
@@ -725,11 +725,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Hardy",
             "ability": "Water Absorb",
@@ -747,11 +747,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 188,
-                "sa": 0,
-                "sd": 0,
-                "sp": 72
+                "atk": 0,
+                "def": 188,
+                "spa": 0,
+                "spd": 0,
+                "spe": 72
             },
             "nature": "Impish",
             "ability": "Poison Heal",
@@ -769,11 +769,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Volt Absorb",
@@ -791,11 +791,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Storm Drain",
@@ -813,11 +813,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -835,11 +835,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 52,
-                "sa": 68,
-                "sd": 132,
-                "sp": 0
+                "atk": 4,
+                "def": 52,
+                "spa": 68,
+                "spd": 132,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Torrent",
@@ -857,11 +857,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Magic Guard",
@@ -879,11 +879,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Adaptability",
@@ -901,11 +901,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 148,
-                "sa": 0,
-                "sd": 108,
-                "sp": 0
+                "atk": 0,
+                "def": 148,
+                "spa": 0,
+                "spd": 108,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Flower Gift",
@@ -923,11 +923,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -945,11 +945,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sheer Force",
@@ -967,11 +967,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Magic Guard",
@@ -989,11 +989,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Sheer Force",
@@ -1011,11 +1011,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -1033,11 +1033,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 132,
-                "sa": 204,
-                "sd": 4,
-                "sp": 164
+                "atk": 0,
+                "def": 132,
+                "spa": 204,
+                "spd": 4,
+                "spe": 164
             },
             "nature": "Timid",
             "ability": "",
@@ -1055,11 +1055,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -1077,11 +1077,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 76,
-                "sd": 92,
-                "sp": 4
+                "atk": 0,
+                "def": 84,
+                "spa": 76,
+                "spd": 92,
+                "spe": 4
             },
             "nature": "Bold",
             "ability": "Levitate",
@@ -1099,11 +1099,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Charcoal",
@@ -1121,11 +1121,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Rash",
             "ability": "Chlorophyll",
@@ -1143,11 +1143,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Slow Start",
@@ -1165,11 +1165,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -1187,11 +1187,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1209,11 +1209,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 0,
-                "df": 164,
-                "sa": 156,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 164,
+                "spa": 156,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Sap Sipper",
@@ -1230,11 +1230,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 160,
-                "at": 0,
-                "df": 164,
-                "sa": 76,
-                "sd": 0,
-                "sp": 108
+                "atk": 0,
+                "def": 164,
+                "spa": 76,
+                "spd": 0,
+                "spe": 108
             },
             "nature": "Modest",
             "ability": "Sap Sipper",
@@ -1252,11 +1252,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -1274,11 +1274,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -1296,11 +1296,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -1318,11 +1318,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Soundproof",
@@ -1340,11 +1340,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -1362,11 +1362,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Levitate",
@@ -1384,11 +1384,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -1406,14 +1406,14 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 76,
-                "sa": 0,
-                "sd": 172,
-                "sp": 0
+                "atk": 4,
+                "def": 76,
+                "spa": 0,
+                "spd": 172,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -1431,11 +1431,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Sniper",
@@ -1453,11 +1453,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 248,
-                "sa": 4,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 248,
+                "spa": 4,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -1475,11 +1475,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 236,
-                "sd": 28,
-                "sp": 236
+                "atk": 0,
+                "def": 0,
+                "spa": 236,
+                "spd": 28,
+                "spe": 236
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -1497,11 +1497,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -1519,11 +1519,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Mild",
             "ability": "",
@@ -1541,11 +1541,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -1563,11 +1563,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1585,11 +1585,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Magic Guard",
@@ -1607,11 +1607,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 8,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 8,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Magic Guard",
@@ -1629,11 +1629,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -1651,11 +1651,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -1673,11 +1673,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Levitate",
@@ -1695,11 +1695,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1717,11 +1717,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -1739,11 +1739,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -1761,11 +1761,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Drought",
@@ -1783,11 +1783,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 252,
-                "df": 20,
-                "sa": 0,
-                "sd": 12,
-                "sp": 28
+                "atk": 252,
+                "def": 20,
+                "spa": 0,
+                "spd": 12,
+                "spe": 28
             },
             "nature": "Adamant",
             "ability": "Huge Power",
@@ -1805,11 +1805,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -1827,11 +1827,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Solid Rock",
@@ -1849,11 +1849,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -1871,11 +1871,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -1893,11 +1893,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 124,
-                "sa": 0,
-                "sd": 128,
-                "sp": 0
+                "atk": 0,
+                "def": 124,
+                "spa": 0,
+                "spd": 128,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Levitate",
@@ -1915,11 +1915,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -1937,11 +1937,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -1959,11 +1959,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Simple",
@@ -1981,11 +1981,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Infiltrator",
@@ -2003,11 +2003,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -2025,11 +2025,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 68,
-                "at": 252,
-                "df": 188,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 188,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Gluttony",
@@ -2047,11 +2047,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Scrappy",
@@ -2069,11 +2069,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -2091,11 +2091,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 84,
-                "df": 0,
-                "sa": 84,
-                "sd": 84,
-                "sp": 84
+                "atk": 84,
+                "def": 0,
+                "spa": 84,
+                "spd": 84,
+                "spe": 84
             },
             "nature": "Hardy",
             "ability": "",
@@ -2113,11 +2113,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -2135,11 +2135,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "",
@@ -2157,11 +2157,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 4,
-                "df": 252,
-                "sa": 0,
-                "sd": 52,
-                "sp": 12
+                "atk": 4,
+                "def": 252,
+                "spa": 0,
+                "spd": 52,
+                "spe": 12
             },
             "nature": "Impish",
             "ability": "Dry Skin",
@@ -2179,11 +2179,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -2201,11 +2201,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 8,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 8,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Hasty",
             "ability": "",
@@ -2223,11 +2223,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 126,
-                "df": 0,
-                "sa": 126,
-                "sd": 0,
-                "sp": 252
+                "atk": 126,
+                "def": 0,
+                "spa": 126,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Hasty",
             "ability": "",
@@ -2240,11 +2240,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -2262,11 +2262,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -2284,11 +2284,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 68,
-                "sa": 100,
-                "sd": 84,
-                "sp": 0
+                "atk": 0,
+                "def": 68,
+                "spa": 100,
+                "spd": 84,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Levitate",
@@ -2306,11 +2306,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -2328,11 +2328,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Toxic Boost",
@@ -2350,11 +2350,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 164,
-                "sa": 52,
-                "sd": 44,
-                "sp": 4
+                "atk": 0,
+                "def": 164,
+                "spa": 52,
+                "spd": 44,
+                "spe": 4
             },
             "nature": "Calm",
             "ability": "",
@@ -2372,11 +2372,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Sheer Force",
@@ -2394,11 +2394,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 196,
-                "sd": 0,
-                "sp": 60
+                "atk": 0,
+                "def": 0,
+                "spa": 196,
+                "spd": 0,
+                "spe": 60
             },
             "nature": "Modest",
             "ability": "Cloud Nine",
@@ -2416,11 +2416,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 196,
-                "sa": 4,
-                "sd": 12,
-                "sp": 60
+                "atk": 0,
+                "def": 196,
+                "spa": 4,
+                "spd": 12,
+                "spe": 60
             },
             "nature": "Bold",
             "ability": "",
@@ -2438,11 +2438,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 124,
-                "sa": 76,
-                "sd": 52,
-                "sp": 4
+                "atk": 0,
+                "def": 124,
+                "spa": 76,
+                "spd": 52,
+                "spe": 4
             },
             "nature": "Bold",
             "ability": "Chlorophyll",
@@ -2460,11 +2460,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Torrent",
@@ -2482,11 +2482,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Volt Absorb",
@@ -2504,11 +2504,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -2526,11 +2526,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -2548,11 +2548,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Protean",
@@ -2570,11 +2570,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 124,
-                "df": 132,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 124,
+                "def": 132,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -2592,11 +2592,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 188,
-                "sa": 236,
-                "sd": 12,
-                "sp": 68
+                "atk": 0,
+                "def": 188,
+                "spa": 236,
+                "spd": 12,
+                "spe": 68
             },
             "nature": "Modest",
             "ability": "",
@@ -2614,11 +2614,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -2636,11 +2636,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sap Sipper",
@@ -2658,11 +2658,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 180,
-                "df": 0,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 180,
+                "def": 0,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -2680,11 +2680,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -2702,11 +2702,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pixilate",
@@ -2724,11 +2724,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -2746,11 +2746,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -2768,11 +2768,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -2790,11 +2790,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 124,
-                "df": 116,
-                "sa": 0,
-                "sd": 120,
-                "sp": 144
+                "atk": 124,
+                "def": 116,
+                "spa": 0,
+                "spd": 120,
+                "spe": 144
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -2812,11 +2812,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -2834,11 +2834,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -2856,11 +2856,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 8,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 8,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -2878,11 +2878,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Flash Fire",
@@ -2900,11 +2900,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Unaware",
@@ -2922,11 +2922,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -2944,11 +2944,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -2966,11 +2966,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Contrary",
@@ -2988,11 +2988,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Flash Fire",
@@ -3010,11 +3010,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Iron Fist",
@@ -3032,11 +3032,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 252,
-                "df": 108,
-                "sa": 0,
-                "sd": 116,
-                "sp": 0
+                "atk": 252,
+                "def": 108,
+                "spa": 0,
+                "spd": 116,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Guts",
@@ -3054,11 +3054,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 130,
-                "at": 126,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 126,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "",
@@ -3076,11 +3076,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -3098,11 +3098,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -3120,11 +3120,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Ice Body",
@@ -3142,11 +3142,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Fur Coat",
@@ -3164,11 +3164,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -3186,11 +3186,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Tinted Lens",
@@ -3208,11 +3208,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -3230,11 +3230,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -3252,11 +3252,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -3274,11 +3274,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Pure Power",
@@ -3296,11 +3296,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -3318,11 +3318,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 124,
-                "sa": 0,
-                "sd": 132,
-                "sp": 0
+                "atk": 0,
+                "def": 124,
+                "spa": 0,
+                "spd": 132,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "",
@@ -3340,11 +3340,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "item": "",
@@ -3361,11 +3361,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Unnerve",
@@ -3383,11 +3383,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 52,
-                "sa": 44,
-                "sd": 164,
-                "sp": 0
+                "atk": 0,
+                "def": 52,
+                "spa": 44,
+                "spd": 164,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Storm Drain",
@@ -3405,11 +3405,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 76,
-                "sa": 24,
-                "sd": 148,
-                "sp": 4
+                "atk": 0,
+                "def": 76,
+                "spa": 24,
+                "spd": 148,
+                "spe": 4
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -3427,11 +3427,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -3449,11 +3449,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -3471,11 +3471,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 132,
-                "sa": 0,
-                "sd": 124,
-                "sp": 0
+                "atk": 0,
+                "def": 132,
+                "spa": 0,
+                "spd": 124,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -3493,14 +3493,14 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Sand Stream",
@@ -3516,14 +3516,14 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 228,
-                "df": 52,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 228,
+                "def": 52,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Sand Stream",
@@ -3541,11 +3541,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -3563,11 +3563,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 124,
-                "sa": 0,
-                "sd": 92,
-                "sp": 36
+                "atk": 0,
+                "def": 124,
+                "spa": 0,
+                "spd": 92,
+                "spe": 36
             },
             "nature": "Bold",
             "ability": "",
@@ -3585,11 +3585,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 92,
-                "sa": 0,
-                "sd": 164,
-                "sp": 0
+                "atk": 0,
+                "def": 92,
+                "spa": 0,
+                "spd": 164,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Clear Body",
@@ -3607,11 +3607,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -3629,11 +3629,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Levitate",
@@ -3651,11 +3651,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 28,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 28,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -3673,11 +3673,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Lightning Rod",
@@ -3695,11 +3695,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Shell Armor",
@@ -3717,11 +3717,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 188,
-                "sa": 8,
-                "sd": 64,
-                "sp": 0
+                "atk": 0,
+                "def": 188,
+                "spa": 8,
+                "spd": 64,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Mega Launcher",
@@ -3739,11 +3739,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 108,
-                "sd": 4,
-                "sp": 140
+                "atk": 0,
+                "def": 4,
+                "spa": 108,
+                "spd": 4,
+                "spe": 140
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -3761,11 +3761,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 68,
-                "df": 0,
-                "sa": 0,
-                "sd": 120,
-                "sp": 68
+                "atk": 68,
+                "def": 0,
+                "spa": 0,
+                "spd": 120,
+                "spe": 68
             },
             "nature": "Careful",
             "ability": "Contrary",
@@ -3783,11 +3783,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -3805,11 +3805,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -3827,11 +3827,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -3849,11 +3849,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -3871,11 +3871,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -3893,11 +3893,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "",
@@ -3915,11 +3915,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Solar Power",
@@ -3937,11 +3937,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Adaptability",
@@ -3959,11 +3959,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Overcoat",
@@ -3981,11 +3981,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -4003,11 +4003,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 228,
-                "sd": 4,
-                "sp": 20
+                "atk": 0,
+                "def": 4,
+                "spa": 228,
+                "spd": 4,
+                "spe": 20
             },
             "nature": "Modest",
             "ability": "Torrent",
@@ -4025,11 +4025,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -4047,11 +4047,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -4069,11 +4069,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -4091,11 +4091,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Swarm",
@@ -4113,11 +4113,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -4135,11 +4135,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -4157,11 +4157,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -4179,11 +4179,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Water Absorb",
@@ -4201,11 +4201,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -4223,11 +4223,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -4245,11 +4245,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 112,
-                "at": 168,
-                "df": 0,
-                "sa": 228,
-                "sd": 0,
-                "sp": 0
+                "atk": 168,
+                "def": 0,
+                "spa": 228,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Reckless",
@@ -4267,11 +4267,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -4289,11 +4289,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Lightning Rod",
@@ -4311,11 +4311,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Flash Fire",
@@ -4333,11 +4333,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -4355,11 +4355,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 204,
-                "df": 0,
-                "sa": 0,
-                "sd": 52,
-                "sp": 0
+                "atk": 204,
+                "def": 0,
+                "spa": 0,
+                "spd": 52,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -4377,11 +4377,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -4397,11 +4397,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 44,
-                "sa": 20,
-                "sd": 52,
-                "sp": 140
+                "atk": 0,
+                "def": 44,
+                "spa": 20,
+                "spd": 52,
+                "spe": 140
             },
             "nature": "Calm",
             "ability": "",
@@ -4419,11 +4419,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Unnerve",
@@ -4441,11 +4441,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 100,
-                "at": 0,
-                "df": 4,
-                "sa": 100,
-                "sd": 50,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 100,
+                "spd": 50,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -4463,11 +4463,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Refrigerate",
@@ -4485,11 +4485,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Water Absorb",
@@ -4507,11 +4507,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -4529,11 +4529,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Chlorophyll",
@@ -4551,11 +4551,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 76,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 12,
-                "sp": 164
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 12,
+                "spe": 164
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -4571,11 +4571,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 180,
-                "df": 4,
-                "sa": 0,
-                "sd": 44,
-                "sp": 252
+                "atk": 180,
+                "def": 4,
+                "spa": 0,
+                "spd": 44,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -4591,11 +4591,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -4611,11 +4611,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 52,
-                "df": 20,
-                "sa": 0,
-                "sd": 164,
-                "sp": 28
+                "atk": 52,
+                "def": 20,
+                "spa": 0,
+                "spd": 164,
+                "spe": 28
             },
             "nature": "Careful",
             "ability": "Intimidate",
@@ -4631,11 +4631,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Intimidate",
@@ -4653,11 +4653,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Drizzle",
@@ -4674,11 +4674,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 108,
-                "sa": 4,
-                "sd": 76,
-                "sp": 68
+                "atk": 0,
+                "def": 108,
+                "spa": 4,
+                "spd": 76,
+                "spe": 68
             },
             "nature": "Calm",
             "ability": "Drizzle",
@@ -4696,11 +4696,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 8,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 8,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -4718,11 +4718,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 44,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 212
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 212
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -4740,11 +4740,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 156,
-                "sa": 36,
-                "sd": 44,
-                "sp": 60
+                "atk": 0,
+                "def": 156,
+                "spa": 36,
+                "spd": 44,
+                "spe": 60
             },
             "nature": "Bold",
             "ability": "",
@@ -4762,11 +4762,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 68,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 188,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 188,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Solid Rock",
@@ -4784,11 +4784,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -4806,11 +4806,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 20,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 236
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 236
             },
             "nature": "Jolly",
             "ability": "Hyper Cutter",
@@ -4828,11 +4828,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -4850,11 +4850,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -4872,11 +4872,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -4894,11 +4894,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -4916,11 +4916,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 8,
-                "df": 0,
-                "sa": 0,
-                "sd": 248,
-                "sp": 0
+                "atk": 8,
+                "def": 0,
+                "spa": 0,
+                "spd": 248,
+                "spe": 0
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -4938,11 +4938,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 92,
-                "sa": 28,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 92,
+                "spa": 28,
+                "spd": 140,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Download",
@@ -4960,11 +4960,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Thick Fat",
@@ -4982,11 +4982,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -5004,11 +5004,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Blaze",
@@ -5026,11 +5026,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -5048,11 +5048,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -5070,11 +5070,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -5092,11 +5092,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Battle Bond",
@@ -5114,11 +5114,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Chlorophyll",
@@ -5136,11 +5136,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -5158,11 +5158,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Volt Absorb",
@@ -5180,11 +5180,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -5200,11 +5200,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 100,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 28,
-                "sp": 124
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 28,
+                "spe": 124
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -5222,11 +5222,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 44,
-                "sa": 60,
-                "sd": 148,
-                "sp": 4
+                "atk": 0,
+                "def": 44,
+                "spa": 60,
+                "spd": 148,
+                "spe": 4
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -5244,11 +5244,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 224,
-                "at": 60,
-                "df": 44,
-                "sa": 0,
-                "sd": 180,
-                "sp": 0
+                "atk": 60,
+                "def": 44,
+                "spa": 0,
+                "spd": 180,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Bulletproof",
@@ -5266,11 +5266,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -5288,11 +5288,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -5310,11 +5310,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sheer Force",
@@ -5332,11 +5332,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Dry Skin",
@@ -5354,11 +5354,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Multiscale",
@@ -5376,11 +5376,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Storm Drain",
@@ -5398,11 +5398,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 148,
-                "at": 0,
-                "df": 172,
-                "sa": 186,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 172,
+                "spa": 186,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Water Absorb",
@@ -5420,11 +5420,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -5442,11 +5442,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -5464,11 +5464,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 156,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 100
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 100
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -5486,11 +5486,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -5508,11 +5508,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Guts",
@@ -5530,11 +5530,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -5552,11 +5552,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -5574,11 +5574,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -5596,11 +5596,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Infiltrator",
@@ -5618,11 +5618,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 76,
-                "at": 252,
-                "df": 180,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 180,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Sniper",
@@ -5640,11 +5640,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 8,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -5662,11 +5662,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Mold Breaker",
@@ -5684,11 +5684,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 84,
-                "df": 80,
-                "sa": 84,
-                "sd": 84,
-                "sp": 84
+                "atk": 84,
+                "def": 80,
+                "spa": 84,
+                "spd": 84,
+                "spe": 84
             },
             "nature": "Sassy",
             "ability": "Overcoat",
@@ -5703,11 +5703,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -5725,11 +5725,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Shell Armor",
@@ -5747,11 +5747,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -5769,11 +5769,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 84,
-                "df": 0,
-                "sa": 84,
-                "sd": 84,
-                "sp": 84
+                "atk": 84,
+                "def": 0,
+                "spa": 84,
+                "spd": 84,
+                "spe": 84
             },
             "nature": "Hardy",
             "ability": "",
@@ -5790,11 +5790,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -5812,11 +5812,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -5834,11 +5834,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Flash Fire",
@@ -5856,11 +5856,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5878,11 +5878,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -5900,11 +5900,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -5922,11 +5922,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Technician",
@@ -5944,11 +5944,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Sheer Force",
@@ -5966,11 +5966,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 144,
-                "sd": 0,
-                "sp": 112
+                "atk": 0,
+                "def": 0,
+                "spa": 144,
+                "spd": 0,
+                "spe": 112
             },
             "nature": "Modest",
             "ability": "",
@@ -5988,11 +5988,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 220,
-                "sa": 0,
-                "sd": 0,
-                "sp": 36
+                "atk": 0,
+                "def": 220,
+                "spa": 0,
+                "spd": 0,
+                "spe": 36
             },
             "nature": "Impish",
             "ability": "",
@@ -6010,11 +6010,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -6032,11 +6032,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 80,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 176,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 176,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Thick Fat",
@@ -6054,11 +6054,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -6076,11 +6076,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 156,
-                "df": 100,
-                "sa": 0,
-                "sd": 12,
-                "sp": 28
+                "atk": 156,
+                "def": 100,
+                "spa": 0,
+                "spd": 12,
+                "spe": 28
             },
             "nature": "Adamant",
             "ability": "Guts",
@@ -6098,11 +6098,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -6120,11 +6120,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "",
@@ -6142,11 +6142,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -6164,11 +6164,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Blaze",
@@ -6186,11 +6186,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 0,
-                "df": 0,
-                "sa": 132,
-                "sd": 4,
-                "sp": 172
+                "atk": 0,
+                "def": 0,
+                "spa": 132,
+                "spd": 4,
+                "spe": 172
             },
             "nature": "Modest",
             "ability": "",
@@ -6208,11 +6208,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Snow Warning",
@@ -6230,11 +6230,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -6252,11 +6252,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -6274,11 +6274,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6296,11 +6296,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Sap Sipper",
@@ -6318,11 +6318,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -6340,11 +6340,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Overcoat",
@@ -6362,11 +6362,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Reckless",
@@ -6384,11 +6384,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Sand Force",
@@ -6406,11 +6406,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Chlorophyll",
@@ -6428,11 +6428,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -6450,11 +6450,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 108,
-                "sa": 4,
-                "sd": 4,
-                "sp": 140
+                "atk": 0,
+                "def": 108,
+                "spa": 4,
+                "spd": 4,
+                "spe": 140
             },
             "nature": "Modest",
             "ability": "",
@@ -6472,11 +6472,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 8,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 8,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -6494,11 +6494,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 236,
-                "sa": 0,
-                "sd": 0,
-                "sp": 24
+                "atk": 0,
+                "def": 236,
+                "spa": 0,
+                "spd": 0,
+                "spe": 24
             },
             "nature": "Impish",
             "ability": "",
@@ -6516,11 +6516,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -6538,11 +6538,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defeatist",
@@ -6560,11 +6560,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 0,
-                "sa": 76,
-                "sd": 188,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 76,
+                "spd": 188,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Levitate",
@@ -6582,11 +6582,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 156,
-                "at": 212,
-                "df": 0,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 212,
+                "def": 0,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -6604,11 +6604,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Huge Power",
@@ -6626,11 +6626,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6647,11 +6647,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 172,
-                "df": 4,
-                "sa": 0,
-                "sd": 52,
-                "sp": 252
+                "atk": 172,
+                "def": 4,
+                "spa": 0,
+                "spd": 52,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6669,11 +6669,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -6691,11 +6691,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Chlorophyll",
@@ -6713,11 +6713,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -6735,11 +6735,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 4,
-                "sp": 4
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 4,
+                "spe": 4
             },
             "nature": "Bold",
             "ability": "",
@@ -6757,11 +6757,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6779,11 +6779,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Sheer Force",
@@ -6801,11 +6801,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Skill Link",
@@ -6823,11 +6823,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Solar Power",
@@ -6845,11 +6845,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -6867,11 +6867,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Contrary",
@@ -6889,11 +6889,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -6911,11 +6911,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 148,
-                "sd": 4,
-                "sp": 20
+                "atk": 0,
+                "def": 84,
+                "spa": 148,
+                "spd": 4,
+                "spe": 20
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -6933,11 +6933,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Skill Link",
@@ -6955,11 +6955,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 20,
-                "sp": 236
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 20,
+                "spe": 236
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -6975,11 +6975,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -6997,11 +6997,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Mold Breaker",
@@ -7019,11 +7019,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -7041,11 +7041,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Lightning Rod",
@@ -7063,11 +7063,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 248,
-                "sd": 0,
-                "sp": 4
+                "atk": 0,
+                "def": 4,
+                "spa": 248,
+                "spd": 0,
+                "spe": 4
             },
             "nature": "Modest",
             "ability": "Snow Cloak",
@@ -7085,11 +7085,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Sand Stream",
@@ -7107,11 +7107,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Chlorophyll",
@@ -7129,11 +7129,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -7151,11 +7151,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -7171,11 +7171,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 252,
-                "df": 36,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 36,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -7193,11 +7193,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 68,
-                "sa": 0,
-                "sd": 188,
-                "sp": 0
+                "atk": 0,
+                "def": 68,
+                "spa": 0,
+                "spd": 188,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -7215,11 +7215,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Blaze",
@@ -7237,11 +7237,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -7259,11 +7259,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 84,
-                "df": 84,
-                "sa": 84,
-                "sd": 84,
-                "sp": 84
+                "atk": 84,
+                "def": 84,
+                "spa": 84,
+                "spd": 84,
+                "spe": 84
             },
             "nature": "Hardy",
             "ability": "",
@@ -7281,11 +7281,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -7303,11 +7303,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -7325,11 +7325,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Filter",
@@ -7347,11 +7347,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Tough Claws",
@@ -7369,11 +7369,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -7391,11 +7391,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Flash Fire",
@@ -7413,11 +7413,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Guts",
@@ -7435,11 +7435,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -7457,11 +7457,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -7479,11 +7479,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 252,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -7501,11 +7501,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 196,
-                "sa": 0,
-                "sd": 56,
-                "sp": 0
+                "atk": 0,
+                "def": 196,
+                "spa": 0,
+                "spd": 56,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -7523,11 +7523,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Forecast",
@@ -7545,11 +7545,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Storm Drain",
@@ -7567,11 +7567,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -7589,11 +7589,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Hyper Cutter",
@@ -7611,11 +7611,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -7633,11 +7633,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Technician",
@@ -7655,11 +7655,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Flash Fire",
@@ -7677,11 +7677,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 212,
-                "df": 124,
-                "sa": 0,
-                "sd": 4,
-                "sp": 164
+                "atk": 212,
+                "def": 124,
+                "spa": 0,
+                "spd": 4,
+                "spe": 164
             },
             "nature": "Adamant",
             "ability": "Motor Drive",
@@ -7699,11 +7699,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 100,
-                "sd": 52,
-                "sp": 4
+                "atk": 0,
+                "def": 100,
+                "spa": 100,
+                "spd": 52,
+                "spe": 4
             },
             "nature": "Bold",
             "ability": "",
@@ -7721,11 +7721,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 36,
-                "sa": 0,
-                "sd": 220,
-                "sp": 0
+                "atk": 0,
+                "def": 36,
+                "spa": 0,
+                "spd": 220,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -7743,11 +7743,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -7765,11 +7765,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 108,
-                "sa": 68,
-                "sd": 88,
-                "sp": 0
+                "atk": 0,
+                "def": 108,
+                "spa": 68,
+                "spd": 88,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Storm Drain",
@@ -7785,11 +7785,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 220,
-                "sa": 0,
-                "sd": 60,
-                "sp": 0
+                "atk": 0,
+                "def": 220,
+                "spa": 0,
+                "spd": 60,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Storm Drain",
@@ -7807,11 +7807,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Volt Absorb",
@@ -7829,11 +7829,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Stream",
@@ -7851,11 +7851,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 140,
-                "at": 0,
-                "df": 116,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 116,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Thick Fat",
@@ -7873,11 +7873,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -7895,11 +7895,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 76,
-                "sa": 0,
-                "sd": 180,
-                "sp": 0
+                "atk": 0,
+                "def": 76,
+                "spa": 0,
+                "spd": 180,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Thick Fat",
@@ -7917,11 +7917,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 248,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 8,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 8,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -7939,11 +7939,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Chlorophyll",
@@ -7961,11 +7961,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -7983,11 +7983,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Swift Swim",
@@ -8005,11 +8005,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Clear Body",
@@ -8027,11 +8027,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -8049,11 +8049,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -8071,11 +8071,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Wonder Guard",
@@ -8093,11 +8093,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -8115,11 +8115,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -8137,11 +8137,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -8159,11 +8159,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -8182,11 +8182,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Drought",
@@ -8202,11 +8202,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Drought",
@@ -8225,11 +8225,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -8248,11 +8248,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Drought",
@@ -8268,11 +8268,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Drought",
@@ -8291,11 +8291,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Drought",
@@ -8312,11 +8312,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Naive",
             "ability": "Drought",
@@ -8335,11 +8335,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Fairy Aura",
@@ -8358,11 +8358,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Dark Aura",
@@ -8381,11 +8381,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pressure",
@@ -8404,11 +8404,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pressure",
@@ -8427,11 +8427,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Pressure",
@@ -8450,11 +8450,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Levitate",
@@ -8473,11 +8473,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Turboblaze",
@@ -8496,11 +8496,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 124,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 124
+                "atk": 124,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 124
             },
             "nature": "Rash",
             "ability": "Teravolt",
@@ -8519,11 +8519,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Pressure",
@@ -8542,11 +8542,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pressure",
@@ -8565,11 +8565,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Pressure",
@@ -8588,11 +8588,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -8611,11 +8611,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -8631,11 +8631,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 12,
-                "sp": 20
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 12,
+                "spe": 20
             },
             "nature": "Adamant",
             "ability": "",
@@ -8654,11 +8654,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Liquid Voice",
@@ -8677,11 +8677,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Skill Link",
@@ -8700,11 +8700,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -8723,11 +8723,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -8744,11 +8744,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 68,
-                "sa": 28,
-                "sd": 156,
-                "sp": 4
+                "atk": 0,
+                "def": 68,
+                "spa": 28,
+                "spd": 156,
+                "spe": 4
             },
             "nature": "Modest",
             "ability": "",
@@ -8767,11 +8767,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Iron Fist",
@@ -8790,11 +8790,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "",
@@ -8813,11 +8813,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -8836,11 +8836,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -8859,11 +8859,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -8882,11 +8882,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 0,
-                "sa": 212,
-                "sd": 60,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 212,
+                "spd": 60,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -8905,11 +8905,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -8928,11 +8928,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -8951,11 +8951,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Water Bubble",
@@ -8972,11 +8972,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Water Bubble",
@@ -8995,11 +8995,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -9018,11 +9018,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -9041,11 +9041,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -9064,11 +9064,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Fluffy",
@@ -9087,11 +9087,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -9110,11 +9110,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -9133,11 +9133,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 140,
-                "sa": 20,
-                "sd": 92,
-                "sp": 0
+                "atk": 0,
+                "def": 140,
+                "spa": 20,
+                "spd": 92,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -9156,11 +9156,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -9179,11 +9179,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -9202,11 +9202,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -9225,11 +9225,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -9248,11 +9248,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Hasty",
             "ability": "",
@@ -9271,11 +9271,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -9294,11 +9294,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -9317,11 +9317,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -9340,11 +9340,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -9363,11 +9363,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -9386,11 +9386,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 0,
-                "df": 60,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 60,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -9409,11 +9409,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 252,
-                "df": 12,
-                "sa": 0,
-                "sd": 52,
-                "sp": 0
+                "atk": 252,
+                "def": 12,
+                "spa": 0,
+                "spd": 52,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Steelworker",
@@ -9432,11 +9432,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 12
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 12
             },
             "nature": "Modest",
             "ability": "Overcoat",
@@ -9455,11 +9455,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -9475,11 +9475,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -9495,11 +9495,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Hasty",
             "ability": "Electric Surge",
@@ -9515,11 +9515,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 12,
-                "sa": 28,
-                "sd": 132,
-                "sp": 100
+                "atk": 0,
+                "def": 12,
+                "spa": 28,
+                "spd": 132,
+                "spe": 100
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -9539,11 +9539,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -9559,11 +9559,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 164,
-                "at": 0,
-                "df": 92,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 92,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -9580,11 +9580,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 212,
-                "sa": 36,
-                "sd": 4,
-                "sp": 20
+                "atk": 0,
+                "def": 212,
+                "spa": 36,
+                "spd": 4,
+                "spe": 20
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -9603,11 +9603,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Grassy Surge",
@@ -9624,11 +9624,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 36,
-                "df": 60,
-                "sa": 0,
-                "sd": 140,
-                "sp": 20
+                "atk": 36,
+                "def": 60,
+                "spa": 0,
+                "spd": 140,
+                "spe": 20
             },
             "nature": "Adamant",
             "ability": "Grassy Surge",
@@ -9647,11 +9647,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 20,
-                "sa": 164,
-                "sd": 44,
-                "sp": 28
+                "atk": 0,
+                "def": 20,
+                "spa": 164,
+                "spd": 44,
+                "spe": 28
             },
             "nature": "Modest",
             "ability": "Misty Surge",
@@ -9668,11 +9668,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 84,
-                "sd": 44,
-                "sp": 28
+                "atk": 0,
+                "def": 100,
+                "spa": 84,
+                "spd": 44,
+                "spe": 28
             },
             "nature": "Calm",
             "ability": "Misty Surge",
@@ -9691,11 +9691,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -9714,11 +9714,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -9734,11 +9734,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 20,
-                "at": 84,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 148
+                "atk": 84,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 148
             },
             "nature": "Adamant",
             "ability": "",
@@ -9757,11 +9757,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -9777,11 +9777,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "",
@@ -9800,11 +9800,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "",
@@ -9821,11 +9821,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 4,
-                "sa": 4,
-                "sd": 12,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 4,
+                "spd": 12,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -9844,11 +9844,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 180,
-                "at": 180,
-                "df": 0,
-                "sa": 0,
-                "sd": 148,
-                "sp": 0
+                "atk": 180,
+                "def": 0,
+                "spa": 0,
+                "spd": 148,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -9864,11 +9864,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -9887,11 +9887,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -9908,11 +9908,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 4,
-                "df": 4,
-                "sa": 0,
-                "sd": 164,
-                "sp": 252
+                "atk": 4,
+                "def": 4,
+                "spa": 0,
+                "spd": 164,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -9929,11 +9929,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 52,
-                "at": 124,
-                "df": 4,
-                "sa": 0,
-                "sd": 76,
-                "sp": 252
+                "atk": 124,
+                "def": 4,
+                "spa": 0,
+                "spd": 76,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -9950,11 +9950,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 12,
-                "at": 116,
-                "df": 4,
-                "sa": 0,
-                "sd": 124,
-                "sp": 252
+                "atk": 116,
+                "def": 4,
+                "spa": 0,
+                "spd": 124,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -9973,11 +9973,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -9994,11 +9994,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -10017,11 +10017,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Lightning Rod",
@@ -10038,11 +10038,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 76,
-                "df": 84,
-                "sa": 0,
-                "sd": 92,
-                "sp": 0
+                "atk": 76,
+                "def": 84,
+                "spa": 0,
+                "spd": 92,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Lightning Rod",
@@ -10061,11 +10061,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 68,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 68,
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Galvanize",
@@ -10084,11 +10084,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Snow Warning",
@@ -10107,11 +10107,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 68,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 60,
-                "sp": 124
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 60,
+                "spe": 124
             },
             "nature": "Adamant",
             "ability": "Slush Rush",
@@ -10129,11 +10129,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Surge Surfer",
@@ -10152,11 +10152,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 20,
-                "sa": 44,
-                "sd": 204,
-                "sp": 236
+                "atk": 0,
+                "def": 20,
+                "spa": 44,
+                "spd": 204,
+                "spe": 236
             },
             "nature": "Timid",
             "ability": "Fur Coat",
@@ -10173,11 +10173,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 68,
-                "sa": 4,
-                "sd": 204,
-                "sp": 228
+                "atk": 0,
+                "def": 68,
+                "spa": 4,
+                "spd": 204,
+                "spe": 228
             },
             "nature": "Timid",
             "ability": "Fur Coat",
@@ -10196,11 +10196,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Gluttony",
@@ -10217,11 +10217,11 @@ var SETDEX_TT2017 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 244,
-                "df": 44,
-                "sa": 0,
-                "sd": 20,
-                "sp": 12
+                "atk": 244,
+                "def": 44,
+                "spa": 0,
+                "spd": 20,
+                "spe": 12
             },
             "nature": "Adamant",
             "ability": "Gluttony",
@@ -10239,11 +10239,11 @@ var SETDEX_TT2017 = {
           "level": 50,
           "evs": {
               "hp": 252,
-              "at": 252,
-              "df": 0,
-              "sa": 0,
-              "sd": 4,
-              "sp": 0
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
           },
           "nature": "Adamant",
           "ability": "",
@@ -10261,11 +10261,11 @@ var SETDEX_TT2017 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "nature": "Timid",
           "ability": "",
@@ -10283,11 +10283,11 @@ var SETDEX_TT2017 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "nature": "Timid",
           "ability": "",

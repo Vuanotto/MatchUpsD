@@ -4,10 +4,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "52",
-        "at": "172",
-        "df": "4",
-        "sd": "84",
-        "sp": "196"
+        "atk": "172",
+        "def": "4",
+        "spd": "84",
+        "spe": "196"
       },
       "nature": "Jolly",
       "ability": "Intimidate",
@@ -23,8 +23,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -40,8 +40,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "76",
-        "at": "244",
-        "sp": "188"
+        "atk": "244",
+        "spe": "188"
       },
       "nature": "Jolly",
       "ability": "Intimidate",
@@ -57,8 +57,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "Intimidate",
@@ -76,13 +76,13 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "244",
-        "df": "164",
-        "sa": "28",
-        "sd": "68",
-        "sp": "4"
+        "def": "164",
+        "spa": "28",
+        "spd": "68",
+        "spe": "4"
       },
       "ivs": {
-        "at": "1"
+        "atk": "1"
       },
       "nature": "Bold",
       "ability": "Unaware",
@@ -98,10 +98,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "156",
-        "sa": "28",
-        "sd": "68",
-        "sp": "4"
+        "def": "156",
+        "spa": "28",
+        "spd": "68",
+        "spe": "4"
       },
       "nature": "Bold",
       "ability": "Unaware",
@@ -119,8 +119,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Defiant",
@@ -135,9 +135,9 @@ var SETDEX_NUGGETBRIDGE={
     "DylanxArsenal's Winter 2015 Bisharp": {
       "level": 50,
       "evs": {
-        "at": "252",
-        "sd": "4",
-        "sp": "252"
+        "atk": "252",
+        "spd": "4",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Defiant",
@@ -153,8 +153,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Defiant",
@@ -171,9 +171,9 @@ var SETDEX_NUGGETBRIDGE={
     "DaWoblefet's Winter 2015 Virizion": {
       "level": 50,
       "evs": {
-        "at": "252",
-        "df": "4",
-        "sp": "252"
+        "atk": "252",
+        "def": "4",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -189,8 +189,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -208,10 +208,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "132",
-        "df": "20",
-        "sa": "132",
-        "sd": "12",
-        "sp": "212"
+        "def": "20",
+        "spa": "132",
+        "spd": "12",
+        "spe": "212"
       },
       "nature": "Modest",
       "ability": "Flash Fire",
@@ -227,10 +227,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "244",
-        "df": "148",
-        "sa": "44",
-        "sd": "4",
-        "sp": "68"
+        "def": "148",
+        "spa": "44",
+        "spd": "4",
+        "spe": "68"
       },
       "nature": "Modest",
       "ability": "Flash Fire",
@@ -246,9 +246,9 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "232",
-        "df": "104",
-        "sa": "60",
-        "sd": "112"
+        "def": "104",
+        "spa": "60",
+        "spd": "112"
       },
       "nature": "Modest",
       "ability": "Flash Fire",
@@ -264,8 +264,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "4",
-        "sa": "252"
+        "def": "4",
+        "spa": "252"
       },
       "nature": "Modest",
       "ability": "Flash Fire",
@@ -281,8 +281,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "168",
-        "sa": "68"
+        "def": "168",
+        "spa": "68"
       },
       "nature": "Modest",
       "ability": "Flash Fire",
@@ -300,13 +300,13 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "4",
-        "sa": "132",
-        "sd": "60",
-        "sp": "60"
+        "def": "4",
+        "spa": "132",
+        "spd": "60",
+        "spe": "60"
       },
       "ivs": {
-        "at": "0"
+        "atk": "0"
       },
       "nature": "Bold",
       "ability": "",
@@ -322,10 +322,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "4",
-        "sa": "108",
-        "sd": "4",
-        "sp": "140"
+        "def": "4",
+        "spa": "108",
+        "spd": "4",
+        "spe": "140"
       },
       "nature": "Bold",
       "ability": "",
@@ -343,8 +343,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "92",
-        "sa": "252",
-        "sp": "164"
+        "spa": "252",
+        "spe": "164"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -360,10 +360,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "236",
-        "df": "84",
-        "sa": "20",
-        "sd": "4",
-        "sp": "164"
+        "def": "84",
+        "spa": "20",
+        "spd": "4",
+        "spe": "164"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -379,10 +379,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "4",
-        "sa": "108",
-        "sd": "4",
-        "sp": "140"
+        "def": "4",
+        "spa": "108",
+        "spd": "4",
+        "spe": "140"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -400,11 +400,11 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "236",
-        "sd": "20"
+        "atk": "236",
+        "spd": "20"
       },
       "ivs": {
-        "sp": "0"
+        "spe": "0"
       },
       "nature": "Brave",
       "ability": "",
@@ -420,11 +420,11 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "148",
-        "sd": "108"
+        "atk": "148",
+        "spd": "108"
       },
       "ivs": {
-        "sp": "0"
+        "spe": "0"
       },
       "nature": "Relaxed",
       "ability": "",
@@ -442,8 +442,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "204",
-        "sp": "52"
+        "atk": "204",
+        "spe": "52"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -461,10 +461,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "76",
-        "df": "100",
-        "sd": "76",
-        "sp": "4"
+        "atk": "76",
+        "def": "100",
+        "spd": "76",
+        "spe": "4"
       },
       "nature": "Adamant",
       "ability": "",
@@ -482,14 +482,14 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "32",
-        "sa": "20",
-        "sd": "148",
-        "sp": "52"
+        "def": "32",
+        "spa": "20",
+        "spd": "148",
+        "spe": "52"
       },
       "ivs": {
-        "at": "4",
-        "df": "30"
+        "atk": "4",
+        "def": "30"
       },
       "nature": "Modest",
       "ability": "",
@@ -507,10 +507,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "44",
-        "at": "124",
-        "df": "100",
-        "sd": "4",
-        "sp": "236"
+        "atk": "124",
+        "def": "100",
+        "spd": "4",
+        "spe": "236"
       },
       "nature": "Jolly",
       "ability": "",
@@ -526,8 +526,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -543,8 +543,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -560,8 +560,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "116",
-        "at": "140",
-        "sp": "252"
+        "atk": "140",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -579,10 +579,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "44",
-        "at": "164",
-        "df": "44",
-        "sd": "4",
-        "sp": "252"
+        "atk": "164",
+        "def": "44",
+        "spd": "4",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "Clear Body",
@@ -598,10 +598,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "36",
-        "df": "4",
-        "sd": "36",
-        "sp": "180"
+        "atk": "36",
+        "def": "4",
+        "spd": "36",
+        "spe": "180"
       },
       "nature": "Adamant",
       "ability": "Clear Body",
@@ -617,8 +617,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "Clear Body",
@@ -634,8 +634,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "156",
-        "at": "156",
-        "sp": "196"
+        "atk": "156",
+        "spe": "196"
       },
       "nature": "Jolly",
       "ability": "Clear Body",
@@ -653,10 +653,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "60",
-        "df": "180",
-        "sa": "132",
-        "sd": "4",
-        "sp": "132"
+        "def": "180",
+        "spa": "132",
+        "spd": "4",
+        "spe": "132"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -671,9 +671,9 @@ var SETDEX_NUGGETBRIDGE={
     "rapha's Winter 2015 Oppenheimer": {
       "level": 50,
       "evs": {
-        "df": "4",
-        "sa": "252",
-        "sp": "252"
+        "def": "4",
+        "spa": "252",
+        "spe": "252"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -689,8 +689,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "sa": "252",
-        "sp": "252"
+        "spa": "252",
+        "spe": "252"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -706,10 +706,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "28",
-        "df": "36",
-        "sa": "244",
-        "sd": "4",
-        "sp": "196"
+        "def": "36",
+        "spa": "244",
+        "spd": "4",
+        "spe": "196"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -727,10 +727,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "164",
-        "at": "60",
-        "df": "4",
-        "sd": "28",
-        "sp": "252"
+        "atk": "60",
+        "def": "4",
+        "spd": "28",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "Intimidate",
@@ -746,8 +746,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -763,10 +763,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "12",
-        "at": "252",
-        "df": "92",
-        "sd": "4",
-        "sp": "148"
+        "atk": "252",
+        "def": "92",
+        "spd": "4",
+        "spe": "148"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -782,10 +782,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "116",
-        "at": "252",
-        "df": "4",
-        "sd": "4",
-        "sp": "132"
+        "atk": "252",
+        "def": "4",
+        "spd": "4",
+        "spe": "132"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -803,14 +803,14 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "212",
-        "df": "104",
-        "sa": "4",
-        "sd": "76",
-        "sp": "108"
+        "def": "104",
+        "spa": "4",
+        "spd": "76",
+        "spe": "108"
       },
       "ivs": {
-        "at": "0",
-        "df": "30"
+        "atk": "0",
+        "def": "30"
       },
       "nature": "Timid",
       "ability": "",
@@ -826,10 +826,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "244",
-        "df": "108",
-        "sa": "64",
-        "sd": "72",
-        "sp": "20"
+        "def": "108",
+        "spa": "64",
+        "spd": "72",
+        "spe": "20"
       },
       "nature": "Calm",
       "ability": "",
@@ -845,10 +845,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "76",
-        "sa": "4",
-        "sd": "132",
-        "sp": "44"
+        "def": "76",
+        "spa": "4",
+        "spd": "132",
+        "spe": "44"
       },
       "nature": "Calm",
       "ability": "",
@@ -864,9 +864,9 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "236",
-        "df": "116",
-        "sd": "128",
-        "sp": "28"
+        "def": "116",
+        "spd": "128",
+        "spe": "28"
       },
       "nature": "Calm",
       "ability": "",
@@ -881,13 +881,13 @@ var SETDEX_NUGGETBRIDGE={
     "Metatyph6's Winter 2015 Voltergeist": {
       "level": 50,
       "evs": {
-        "sa": "252",
-        "sd": "4",
-        "sp": "252"
+        "spa": "252",
+        "spd": "4",
+        "spe": "252"
       },
       "ivs": {
-        "at": "30",
-        "df": "30"
+        "atk": "30",
+        "def": "30"
       },
       "nature": "Timid",
       "ability": "",
@@ -903,13 +903,13 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "244",
-        "df": "140",
-        "sa": "36",
-        "sd": "68",
-        "sp": "20"
+        "def": "140",
+        "spa": "36",
+        "spd": "68",
+        "spe": "20"
       },
       "ivs": {
-        "sp": "30"
+        "spe": "30"
       },
       "nature": "Bold",
       "ability": "",
@@ -925,13 +925,13 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "236",
-        "df": "104",
-        "sa": "60",
-        "sp": "108"
+        "def": "104",
+        "spa": "60",
+        "spe": "108"
       },
       "ivs": {
-        "at": "0",
-        "df": "30"
+        "atk": "0",
+        "def": "30"
       },
       "nature": "Modest",
       "ability": "",
@@ -949,10 +949,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "156",
-        "df": "52",
-        "sa": "156",
-        "sd": "4",
-        "sp": "140"
+        "def": "52",
+        "spa": "156",
+        "spd": "4",
+        "spe": "140"
       },
       "nature": "Modest",
       "ability": "Swift Swim",
@@ -968,8 +968,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "76",
-        "sa": "236",
-        "sp": "196"
+        "spa": "236",
+        "spe": "196"
       },
       "nature": "Modest",
       "ability": "Swift Swim",
@@ -985,8 +985,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "108",
-        "sa": "252",
-        "sp": "148"
+        "spa": "252",
+        "spe": "148"
       },
       "nature": "Modest",
       "ability": "Swift Swim",
@@ -1004,10 +1004,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "216",
-        "df": "60",
-        "sa": "36",
-        "sd": "184",
-        "sp": "12"
+        "def": "60",
+        "spa": "36",
+        "spd": "184",
+        "spe": "12"
       },
       "nature": "Calm",
       "ability": "Levitate",
@@ -1023,8 +1023,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "sa": "252",
-        "sp": "4"
+        "spa": "252",
+        "spe": "4"
       },
       "nature": "Modest",
       "ability": "Levitate",
@@ -1040,9 +1040,9 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "236",
-        "df": "172",
-        "sa": "4",
-        "sd": "92"
+        "def": "172",
+        "spa": "4",
+        "spd": "92"
       },
       "nature": "Bold",
       "ability": "Levitate",
@@ -1058,10 +1058,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "220",
-        "df": "172",
-        "sa": "4",
-        "sd": "92",
-        "sp": "20"
+        "def": "172",
+        "spa": "4",
+        "spd": "92",
+        "spe": "20"
       },
       "nature": "Calm",
       "ability": "Levitate",
@@ -1077,8 +1077,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "220",
-        "df": "100",
-        "sd": "188"
+        "def": "100",
+        "spd": "188"
       },
       "nature": "Bold",
       "ability": "Levitate",
@@ -1094,10 +1094,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "220",
-        "df": "172",
-        "sa": "4",
-        "sd": "92",
-        "sp": "20"
+        "def": "172",
+        "spa": "4",
+        "spd": "92",
+        "spe": "20"
       },
       "nature": "Calm",
       "ability": "Levitate",
@@ -1115,9 +1115,9 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "244",
-        "df": "108",
-        "sa": "68",
-        "sd": "88"
+        "def": "108",
+        "spa": "68",
+        "spd": "88"
       },
       "nature": "Bold",
       "ability": "Storm Drain",
@@ -1135,8 +1135,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -1154,8 +1154,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "180",
-        "sd": "76"
+        "atk": "180",
+        "spd": "76"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -1173,8 +1173,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "sa": "252",
-        "sp": "252"
+        "spa": "252",
+        "spe": "252"
       },
       "nature": "Timid",
       "ability": "Dry Skin",
@@ -1192,8 +1192,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "sa": "252",
-        "sp": "252"
+        "spa": "252",
+        "spe": "252"
       },
       "nature": "Timid",
       "ability": "Overgrow",
@@ -1210,8 +1210,8 @@ var SETDEX_NUGGETBRIDGE={
     "Keonspy's Winter 2015 Thundurus-Therian": {
       "level": 50,
       "evs": {
-        "sa": "252",
-        "sp": "252"
+        "spa": "252",
+        "spe": "252"
       },
       "nature": "Timid",
       "ability": "Volt Absorb",
@@ -1229,8 +1229,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Intimidate",
@@ -1248,8 +1248,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "92",
-        "sd": "164"
+        "def": "92",
+        "spd": "164"
       },
       "nature": "Bold",
       "ability": "",
@@ -1265,11 +1265,11 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "188",
-        "df": "164",
-        "sd": "156"
+        "def": "164",
+        "spd": "156"
       },
       "ivs": {
-        "sp": "0"
+        "spe": "0"
       },
       "nature": "Sassy",
       "ability": "",
@@ -1286,9 +1286,9 @@ var SETDEX_NUGGETBRIDGE={
     "DylanxArsenal's Winter 2015 Twinkle": {
       "level": 50,
       "evs": {
-        "sa": "252",
-        "sd": "4",
-        "sp": "252"
+        "spa": "252",
+        "spd": "4",
+        "spe": "252"
       },
       "nature": "Modest",
       "ability": "Drizzle",
@@ -1304,10 +1304,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "212",
-        "df": "132",
-        "sa": "4",
-        "sd": "116",
-        "sp": "44"
+        "def": "132",
+        "spa": "4",
+        "spd": "116",
+        "spe": "44"
       },
       "nature": "Calm",
       "ability": "Drizzle",
@@ -1325,8 +1325,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Scrappy",
@@ -1342,8 +1342,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "Scrappy",
@@ -1359,8 +1359,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "Scrappy",
@@ -1376,10 +1376,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "212",
-        "at": "108",
-        "df": "60",
-        "sd": "20",
-        "sp": "108"
+        "atk": "108",
+        "def": "60",
+        "spd": "20",
+        "spe": "108"
       },
       "nature": "Adamant",
       "ability": "Scrappy",
@@ -1397,9 +1397,9 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "224",
-        "at": "60",
-        "df": "44",
-        "sd": "180"
+        "atk": "60",
+        "def": "44",
+        "spd": "180"
       },
       "nature": "Sassy",
       "ability": "Bulletproof",
@@ -1417,10 +1417,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "4",
-        "sa": "228",
-        "sd": "4",
-        "sp": "20"
+        "def": "4",
+        "spa": "228",
+        "spd": "4",
+        "spe": "20"
       },
       "nature": "Modest",
       "ability": "Torrent",
@@ -1438,8 +1438,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "sa": "252",
-        "sp": "252"
+        "spa": "252",
+        "spe": "252"
       },
       "nature": "Timid",
       "ability": "",
@@ -1457,8 +1457,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Jolly",
       "ability": "",
@@ -1476,8 +1476,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "sa": "252",
-        "sp": "4"
+        "spa": "252",
+        "spe": "4"
       },
       "nature": "Modest",
       "ability": "",
@@ -1493,11 +1493,11 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "at": "4",
-        "sa": "252"
+        "atk": "4",
+        "spa": "252"
       },
       "ivs": {
-        "sp": "0"
+        "spe": "0"
       },
       "nature": "Quiet",
       "ability": "",
@@ -1515,9 +1515,9 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "92",
-        "df": "116",
-        "sa": "252",
-        "sp": "48"
+        "def": "116",
+        "spa": "252",
+        "spe": "48"
       },
       "nature": "Modest",
       "ability": "Pixilate",
@@ -1535,10 +1535,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "116",
-        "sa": "4",
-        "sd": "60",
-        "sp": "76"
+        "def": "116",
+        "spa": "4",
+        "spd": "60",
+        "spe": "76"
       },
       "nature": "Bold",
       "ability": "",
@@ -1554,10 +1554,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "236",
-        "df": "196",
-        "sa": "4",
-        "sd": "12",
-        "sp": "60"
+        "def": "196",
+        "spa": "4",
+        "spd": "12",
+        "spe": "60"
       },
       "nature": "Bold",
       "ability": "",
@@ -1575,10 +1575,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "196",
-        "at": "252",
-        "df": "20",
-        "sd": "12",
-        "sp": "28"
+        "atk": "252",
+        "def": "20",
+        "spd": "12",
+        "spe": "28"
       },
       "nature": "Adamant",
       "ability": "Huge Power",
@@ -1596,8 +1596,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "228",
-        "df": "124",
-        "sa": "156"
+        "def": "124",
+        "spa": "156"
       },
       "nature": "Calm",
       "ability": "Water Absorb",
@@ -1615,8 +1615,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "196",
-        "sa": "252",
-        "sp": "60"
+        "spa": "252",
+        "spe": "60"
       },
       "nature": "Modest",
       "ability": "Sand Stream",
@@ -1633,9 +1633,9 @@ var SETDEX_NUGGETBRIDGE={
     "Metatyph6's Winter 2015 Guacamole": {
       "level": 50,
       "evs": {
-        "at": "252",
-        "df": "4",
-        "sp": "252"
+        "atk": "252",
+        "def": "4",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Sand Rush",
@@ -1651,8 +1651,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "4",
-        "at": "252",
-        "sp": "252"
+        "atk": "252",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Mold Breaker",
@@ -1670,8 +1670,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "252",
-        "sd": "4"
+        "def": "252",
+        "spd": "4"
       },
       "nature": "Bold",
       "ability": "Storm Drain",
@@ -1688,9 +1688,9 @@ var SETDEX_NUGGETBRIDGE={
     "Metatyph6's Winter 2015 Bravest Bird": {
       "level": 50,
       "evs": {
-        "at": "252",
-        "sa": "44",
-        "sp": "212"
+        "atk": "252",
+        "spa": "44",
+        "spe": "212"
       },
       "nature": "Adamant",
       "ability": "",
@@ -1708,10 +1708,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "236",
-        "df": "156",
-        "sa": "100",
-        "sd": "12",
-        "sp": "4"
+        "def": "156",
+        "spa": "100",
+        "spd": "12",
+        "spe": "4"
       },
       "nature": "Bold",
       "ability": "",
@@ -1727,10 +1727,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "12",
-        "df": "4",
-        "sa": "252",
-        "sd": "4",
-        "sp": "236"
+        "def": "4",
+        "spa": "252",
+        "spd": "4",
+        "spe": "236"
       },
       "nature": "Timid",
       "ability": "",
@@ -1748,10 +1748,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "180",
-        "df": "76",
-        "sa": "60",
-        "sd": "132",
-        "sp": "60"
+        "def": "76",
+        "spa": "60",
+        "spd": "132",
+        "spe": "60"
       },
       "nature": "Calm",
       "ability": "Chlorophyll",
@@ -1769,13 +1769,13 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "212",
-        "at": "44",
-        "df": "140",
-        "sd": "108",
-        "sp": "4"
+        "atk": "44",
+        "def": "140",
+        "spd": "108",
+        "spe": "4"
       },
       "ivs": {
-        "sp": "13"
+        "spe": "13"
       },
       "nature": "Adamant",
       "ability": "Guts",
@@ -1793,8 +1793,8 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "28",
-        "at": "252",
-        "sp": "228"
+        "atk": "252",
+        "spe": "228"
       },
       "nature": "Adamant",
       "ability": "Technician",
@@ -1812,10 +1812,10 @@ var SETDEX_NUGGETBRIDGE={
       "level": 50,
       "evs": {
         "hp": "252",
-        "df": "4",
-        "sa": "44",
-        "sd": "20",
-        "sp": "188"
+        "def": "4",
+        "spa": "44",
+        "spd": "20",
+        "spe": "188"
       },
       "nature": "Modest",
       "ability": "Solar Power",
@@ -1832,9 +1832,9 @@ var SETDEX_NUGGETBRIDGE={
     "Level 51's Winter 2015 SWINE FLU++": {
       "level": 50,
       "evs": {
-        "at": "252",
-        "sd": "4",
-        "sp": "252"
+        "atk": "252",
+        "spd": "4",
+        "spe": "252"
       },
       "nature": "Adamant",
       "ability": "Thick Fat",

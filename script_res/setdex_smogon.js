@@ -4,11 +4,11 @@ var SETDEX_SMOGON={
       "level": 50,
       "evs": {
         "hp": 252,
-        "at": 0,
-        "df": 76,
-        "sa": 172,
-        "sd": 4,
-        "sp": 4
+        "atk": 0,
+        "def": 76,
+        "spa": 172,
+        "spd": 4,
+        "spe": 4
       },
       "nature": "Calm",
       "ability": "",
@@ -27,11 +27,11 @@ var SETDEX_SMOGON={
       "level": 50,
       "evs": {
         "hp": 228,
-        "at": 44,
-        "df": 116,
-        "sa": 0,
-        "sd": 116,
-        "sp": 4
+        "atk": 44,
+        "def": 116,
+        "spa": 0,
+        "spd": 116,
+        "spe": 4
       },
       "nature": "Adamant",
       "ability": "",
@@ -50,11 +50,11 @@ var SETDEX_SMOGON={
       "level": 50,
       "evs": {
         "hp": 252,
-        "at": 180,
-        "df": 4,
-        "sa": 0,
-        "sd": 68,
-        "sp": 4
+        "atk": 180,
+        "def": 4,
+        "spa": 0,
+        "spd": 68,
+        "spe": 4
       },
       "nature": "Adamant",
       "ability": "Lightning Rod",
@@ -73,11 +73,11 @@ var SETDEX_SMOGON={
       "level": 50,
       "evs": {
         "hp": 252,
-        "at": 252,
-        "df": 4,
-        "sa": 0,
-        "sd": 0,
-        "sp": 0
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
       },
       "nature": "Adamant",
       "ability": "Clear Body",
@@ -94,11 +94,11 @@ var SETDEX_SMOGON={
       "level": 50,
       "evs": {
         "hp": 252,
-        "at": 252,
-        "df": 4,
-        "sa": 0,
-        "sd": 0,
-        "sp": 0
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
       },
       "nature": "Adamant",
       "ability": "Clear Body",
@@ -117,11 +117,11 @@ var SETDEX_SMOGON={
       "level": 50,
       "evs": {
         "hp": 52,
-        "at": 156,
-        "df": 44,
-        "sa": 0,
-        "sd": 4,
-        "sp": 252
+        "atk": 156,
+        "def": 44,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
       },
       "nature": "Jolly",
       "ability": "Intimidate",

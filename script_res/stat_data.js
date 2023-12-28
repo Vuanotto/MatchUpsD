@@ -1,4 +1,4 @@
-var AT = "at", DF = "df", SA = "sa", SD = "sd", SP = "sp", SL = "sl";
+var AT = "atk", DF = "def", SA = "spa", SD = "spd", SP = "spe", SL = "sl";
 var STATS_RBY = [AT, DF, SL, SP];
 var STATS_GSC = [AT, DF, SA, SD, SP];
 

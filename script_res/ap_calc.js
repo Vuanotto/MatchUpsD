@@ -52,20 +52,20 @@ $(".nature").bind("keyup change", function() {
 $(".hp .base, .hp .evs, .hp .ivs").bind("keyup change", function() {
     calcHP($(this).closest(".poke-info"));
 });
-$(".at .base, .at .evs, .at .ivs").bind("keyup change", function() {
-    calcStat($(this).closest(".poke-info"), 'at');
+$(".atk .base, .atk .evs, .atk .ivs").bind("keyup change", function() {
+    calcStat($(this).closest(".poke-info"), 'atk');
 });
-$(".df .base, .df .evs, .df .ivs").bind("keyup change", function() {
-    calcStat($(this).closest(".poke-info"), 'df');
+$(".def .base, .def .evs, .def .ivs").bind("keyup change", function() {
+    calcStat($(this).closest(".poke-info"), 'def');
 });
-$(".sa .base, .sa .evs, .sa .ivs").bind("keyup change", function() {
-    calcStat($(this).closest(".poke-info"), 'sa');
+$(".spa .base, .spa .evs, .spa .ivs").bind("keyup change", function() {
+    calcStat($(this).closest(".poke-info"), 'spa');
 });
-$(".sd .base, .sd .evs, .sd .ivs").bind("keyup change", function() {
-    calcStat($(this).closest(".poke-info"), 'sd');
+$(".spd .base, .spd .evs, .spd .ivs").bind("keyup change", function() {
+    calcStat($(this).closest(".poke-info"), 'spd');
 });
-$(".sp .base, .sp .evs, .sp .ivs").bind("keyup change", function() {
-    calcStat($(this).closest(".poke-info"), 'sp');
+$(".spe .base, .spe .evs, .spe .ivs").bind("keyup change", function() {
+    calcStat($(this).closest(".poke-info"), 'spe');
 });
 $(".evs").bind("keyup change", function() {
     calcEvTotal($(this).closest(".poke-info"));
@@ -73,29 +73,29 @@ $(".evs").bind("keyup change", function() {
 $(".sl .base").keyup(function() {
     calcStat($(this).closest(".poke-info"), 'sl');
 });
-$(".at .dvs").keyup(function() {
+$(".atk .dvs").keyup(function() {
     var poke = $(this).closest(".poke-info");
-    calcStat(poke, 'at');
+    calcStat(poke, 'atk');
     poke.find(".hp .dvs").val(getHPDVs(poke));
     calcHP(poke);
 });
-$(".df .dvs").keyup(function() {
+$(".def .dvs").keyup(function() {
     var poke = $(this).closest(".poke-info");
-    calcStat(poke, 'df');
+    calcStat(poke, 'def');
     poke.find(".hp .dvs").val(getHPDVs(poke));
     calcHP(poke);
 });
-$(".sa .dvs").keyup(function() {
+$(".spa .dvs").keyup(function() {
     var poke = $(this).closest(".poke-info");
-    calcStat(poke, 'sa');
-    poke.find(".sd .dvs").val($(this).val());
-    calcStat(poke, 'sd');
+    calcStat(poke, 'spa');
+    poke.find(".spd .dvs").val($(this).val());
+    calcStat(poke, 'spd');
     poke.find(".hp .dvs").val(getHPDVs(poke));
     calcHP(poke);
 });
-$(".sp .dvs").keyup(function() {
+$(".spe .dvs").keyup(function() {
     var poke = $(this).closest(".poke-info");
-    calcStat(poke, 'sp');
+    calcStat(poke, 'spe');
     poke.find(".hp .dvs").val(getHPDVs(poke));
     calcHP(poke);
 });
@@ -107,10 +107,10 @@ $(".sl .dvs").keyup(function() {
 });
 
 function getHPDVs(poke) {
-    return (~~poke.find(".at .dvs").val() % 2) * 8 +
-            (~~poke.find(".df .dvs").val() % 2) * 4 +
-            (~~poke.find(gen === 1 ? ".sl .dvs" : ".sa .dvs").val() % 2) * 2 +
-            (~~poke.find(".sp .dvs").val() % 2);
+    return (~~poke.find(".atk .dvs").val() % 2) * 8 +
+            (~~poke.find(".def .dvs").val() % 2) * 4 +
+            (~~poke.find(gen === 1 ? ".sl .dvs" : ".spa .dvs").val() % 2) * 2 +
+            (~~poke.find(".spe .dvs").val() % 2);
 }
 
 function calcStats(poke) {
@@ -659,7 +659,7 @@ $(".forme").change(function() {
     $(this).parent().siblings().find(".type2").val(typeof altForme.t2 != "undefined" ? altForme.t2 : "");
     $(this).parent().siblings().find(".weight").val(altForme.w);
     //$(this).parent().siblings().find(".canEvolve").val(altForme.canEvolve);
-    var STATS_WITH_HP = ["hp", "at", "df","sa","sd","sp"];
+    var STATS_WITH_HP = ["hp", "atk", "def","spa","spd","spe"];
     for (var i = 0; i <STATS_WITH_HP.length; i++) {
         var baseStat = container.find("." + STATS_WITH_HP[i]).find(".base");
         baseStat.val(altForme.bs[STATS_WITH_HP[i]]);
@@ -933,11 +933,11 @@ function Pokemon(pokeInfo) {
                     pokeInfo.find(".type1").val(pokedex['Terapagos-Stellar'].t1);
                     pokeInfo.find(".type2").val(pokedex['Terapagos-Stellar'].t2);
                     pokeInfo.find(".hp .base").val(pokedex['Terapagos-Stellar'].bs.hp);
-                    pokeInfo.find(".at .base").val(pokedex['Terapagos-Stellar'].bs.at);
-                    pokeInfo.find(".df .base").val(pokedex['Terapagos-Stellar'].bs.df);
-                    pokeInfo.find(".sa .base").val(pokedex['Terapagos-Stellar'].bs.sa);
-                    pokeInfo.find(".sd .base").val(pokedex['Terapagos-Stellar'].bs.sd);
-                    pokeInfo.find(".sp .base").val(pokedex['Terapagos-Stellar'].bs.sp);
+                    pokeInfo.find(".atk .base").val(pokedex['Terapagos-Stellar'].bs.atk);
+                    pokeInfo.find(".def .base").val(pokedex['Terapagos-Stellar'].bs.def);
+                    pokeInfo.find(".spa .base").val(pokedex['Terapagos-Stellar'].bs.spa);
+                    pokeInfo.find(".spd .base").val(pokedex['Terapagos-Stellar'].bs.spd);
+                    pokeInfo.find(".spe .base").val(pokedex['Terapagos-Stellar'].bs.spe);
                     calcHP(pokeInfo);
                     calcStats(pokeInfo);
                     pokeInfo.find(".weight").val(pokedex['Terapagos-Stellar'].w);
@@ -953,11 +953,11 @@ function Pokemon(pokeInfo) {
                     pokeInfo.find(".type1").val(pokedex['Terapagos-Terastal'].t1);
                     pokeInfo.find(".type2").val(pokedex['Terapagos-Terastal'].t2);
                     pokeInfo.find(".hp .base").val(pokedex['Terapagos-Terastal'].bs.hp);
-                    pokeInfo.find(".at .base").val(pokedex['Terapagos-Terastal'].bs.at);
-                    pokeInfo.find(".df .base").val(pokedex['Terapagos-Terastal'].bs.df);
-                    pokeInfo.find(".sa .base").val(pokedex['Terapagos-Terastal'].bs.sa);
-                    pokeInfo.find(".sd .base").val(pokedex['Terapagos-Terastal'].bs.sd);
-                    pokeInfo.find(".sp .base").val(pokedex['Terapagos-Terastal'].bs.sp);
+                    pokeInfo.find(".atk .base").val(pokedex['Terapagos-Terastal'].bs.atk);
+                    pokeInfo.find(".def .base").val(pokedex['Terapagos-Terastal'].bs.def);
+                    pokeInfo.find(".spa .base").val(pokedex['Terapagos-Terastal'].bs.spa);
+                    pokeInfo.find(".spd .base").val(pokedex['Terapagos-Terastal'].bs.spd);
+                    pokeInfo.find(".spe .base").val(pokedex['Terapagos-Terastal'].bs.spe);
                     calcHP(pokeInfo);
                     calcStats(pokeInfo);
                     pokeInfo.find(".weight").val(pokedex['Terapagos-Terastal'].w);

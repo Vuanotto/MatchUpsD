@@ -4,11 +4,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -26,14 +26,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -51,14 +51,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -74,14 +74,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 164,
-                "at": 0,
-                "df": 84,
-                "sa": 4,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 84,
+                "spa": 4,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -95,14 +95,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -120,14 +120,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 236,
-                "sa": 0,
-                "sd": 20,
-                "sp": 0
+                "atk": 0,
+                "def": 236,
+                "spa": 0,
+                "spd": 20,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Levitate",
@@ -145,11 +145,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -167,14 +167,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Overgrow",
@@ -192,11 +192,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Gluttony",
@@ -214,11 +214,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -234,11 +234,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -253,11 +253,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 124,
-                "df": 12,
-                "sa": 0,
-                "sd": 20,
-                "sp": 124
+                "atk": 124,
+                "def": 12,
+                "spa": 0,
+                "spd": 20,
+                "spe": 124
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -273,11 +273,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -293,11 +293,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 36,
-                "df": 4,
-                "sa": 0,
-                "sd": 84,
-                "sp": 132
+                "atk": 36,
+                "def": 4,
+                "spa": 0,
+                "spd": 84,
+                "spe": 132
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -315,14 +315,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -338,14 +338,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -363,11 +363,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 228
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 228
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -385,11 +385,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 172,
-                "sa": 0,
-                "sd": 84,
-                "sp": 0
+                "atk": 0,
+                "def": 172,
+                "spa": 0,
+                "spd": 84,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -407,11 +407,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -429,15 +429,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -455,14 +455,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -480,14 +480,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 148,
-                "sa": 108,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 148,
+                "spa": 108,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Thick Fat",
@@ -505,14 +505,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Dry Skin",
@@ -530,11 +530,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Hustle",
@@ -552,11 +552,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -574,11 +574,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Adaptability",
@@ -596,11 +596,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -618,14 +618,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -643,11 +643,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 0,
-                "sd": 156,
-                "sp": 0
+                "atk": 0,
+                "def": 100,
+                "spa": 0,
+                "spd": 156,
+                "spe": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -663,11 +663,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 52,
-                "sa": 0,
-                "sd": 0,
-                "sp": 220
+                "atk": 0,
+                "def": 52,
+                "spa": 0,
+                "spd": 0,
+                "spe": 220
             },
             "nature": "Calm",
             "ability": "",
@@ -685,14 +685,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Scrappy",
@@ -710,11 +710,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -732,14 +732,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Volt Absorb",
@@ -757,14 +757,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Magic Guard",
@@ -782,15 +782,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Adaptability",
@@ -808,11 +808,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Flower Gift",
@@ -830,15 +830,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -856,11 +856,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sheer Force",
@@ -878,15 +878,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Magic Guard",
@@ -904,11 +904,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Sheer Force",
@@ -926,11 +926,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 132,
-                "sa": 204,
-                "sd": 4,
-                "sp": 164
+                "atk": 0,
+                "def": 132,
+                "spa": 204,
+                "spd": 4,
+                "spe": 164
             },
             "nature": "Timid",
             "ability": "",
@@ -948,14 +948,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 76,
-                "sd": 92,
-                "sp": 4
+                "atk": 0,
+                "def": 84,
+                "spa": 76,
+                "spd": 92,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "Levitate",
@@ -973,15 +973,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Drought",
@@ -997,15 +997,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Drought",
@@ -1021,15 +1021,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 76,
-                "sa": 100,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 76,
+                "spa": 100,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 8
+                "atk": 0,
+                "spe": 8
             },
             "nature": "Bold",
             "ability": "Drought",
@@ -1045,11 +1045,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Slow Start",
@@ -1067,14 +1067,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Clear Body",
@@ -1092,11 +1092,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1114,14 +1114,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 0,
-                "df": 164,
-                "sa": 156,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 164,
+                "spa": 156,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Sap Sipper",
@@ -1139,14 +1139,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "ability": "",
@@ -1164,11 +1164,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -1186,14 +1186,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "ability": "Levitate",
@@ -1211,14 +1211,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 80,
-                "sa": 0,
-                "sd": 172,
-                "sp": 0
+                "atk": 0,
+                "def": 80,
+                "spa": 0,
+                "spd": 172,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -1236,15 +1236,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Sniper",
@@ -1262,14 +1262,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Lightning Rod",
@@ -1287,11 +1287,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -1309,11 +1309,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Dry Skin",
@@ -1330,11 +1330,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1352,14 +1352,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 228,
-                "sa": 0,
-                "sd": 36,
-                "sp": 0
+                "atk": 0,
+                "def": 228,
+                "spa": 0,
+                "spd": 36,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "Unaware",
@@ -1377,14 +1377,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Magic Guard",
@@ -1402,11 +1402,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -1424,14 +1424,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -1449,15 +1449,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Levitate",
@@ -1475,11 +1475,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1497,14 +1497,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -1522,14 +1522,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Drought",
@@ -1547,14 +1547,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 36,
-                "sa": 0,
-                "sd": 220,
-                "sp": 0
+                "atk": 0,
+                "def": 36,
+                "spa": 0,
+                "spd": 220,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Sassy",
             "ability": "Huge Power",
@@ -1569,14 +1569,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 4,
-                "sa": 244,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 244,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -1594,14 +1594,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "ability": "Solid Rock",
@@ -1619,11 +1619,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -1641,14 +1641,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "item": "",
@@ -1660,14 +1660,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 4,
-                "sd": 156,
-                "sp": 92
+                "atk": 0,
+                "def": 4,
+                "spa": 4,
+                "spd": 156,
+                "spe": 92
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "item": "Shuca Berry",
@@ -1681,11 +1681,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Infiltrator",
@@ -1703,11 +1703,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -1725,14 +1725,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Gluttony",
@@ -1748,11 +1748,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 244,
-                "sa": 0,
-                "sd": 4,
-                "sp": 4
+                "atk": 252,
+                "def": 244,
+                "spa": 0,
+                "spd": 4,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Gluttony",
@@ -1770,11 +1770,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Scrappy",
@@ -1790,11 +1790,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -1812,14 +1812,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Chlorophyll",
@@ -1837,11 +1837,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -1859,14 +1859,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -1879,11 +1879,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -1901,14 +1901,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 4,
-                "sa": 196,
-                "sd": 4,
-                "sp": 60
+                "atk": 0,
+                "def": 4,
+                "spa": 196,
+                "spd": 4,
+                "spe": 60
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -1926,11 +1926,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -1948,14 +1948,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Sheer Force",
@@ -1973,14 +1973,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 220,
-                "sa": 0,
-                "sd": 36,
-                "sp": 0
+                "atk": 0,
+                "def": 220,
+                "spa": 0,
+                "spd": 36,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -1995,14 +1995,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 164,
-                "at": 0,
-                "df": 100,
-                "sa": 132,
-                "sd": 4,
-                "sp": 108
+                "atk": 0,
+                "def": 100,
+                "spa": 132,
+                "spd": 4,
+                "spe": 108
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -2019,14 +2019,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Chlorophyll",
@@ -2042,14 +2042,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 236,
-                "sd": 12,
-                "sp": 4
+                "atk": 0,
+                "def": 4,
+                "spa": 236,
+                "spd": 12,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Chlorophyll",
@@ -2067,14 +2067,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Torrent",
@@ -2092,14 +2092,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "",
@@ -2117,11 +2117,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Swift Swim",
@@ -2139,11 +2139,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Modest",
             "ability": "Pixilate",
@@ -2159,11 +2159,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 0,
-                "sp": 4
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 0,
+                "spe": 4
             },
             "nature": "Bold",
             "ability": "Pixilate",
@@ -2180,14 +2180,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 252,
-                "sa": 0,
-                "sd": 00,
-                "sp": 0
+                "atk": 4,
+                "def": 252,
+                "spa": 0,
+                "spd": 00,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Relaxed",
             "ability": "",
@@ -2205,14 +2205,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -2230,11 +2230,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -2252,14 +2252,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 0,
-                "df": 44,
-                "sa": 212,
-                "sd": 28,
-                "sp": 28
+                "atk": 0,
+                "def": 44,
+                "spa": 212,
+                "spd": 28,
+                "spe": 28
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Flash Fire",
@@ -2277,15 +2277,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -2303,11 +2303,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Ice Body",
@@ -2325,11 +2325,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -2347,11 +2347,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -2369,14 +2369,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -2393,14 +2393,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -2418,14 +2418,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "item": "",
@@ -2442,14 +2442,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "sa": 0,
+                "spa": 0,
             },
             "nature": "Jolly",
             "ability": "",
@@ -2467,14 +2467,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Sand Stream",
@@ -2492,14 +2492,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 236,
-                "sa": 0,
-                "sd": 20,
-                "sp": 0
+                "atk": 0,
+                "def": 236,
+                "spa": 0,
+                "spd": 20,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Clear Body",
@@ -2517,11 +2517,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Levitate",
@@ -2539,14 +2539,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 28,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 28,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Sturdy",
@@ -2561,14 +2561,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Mega Launcher",
@@ -2586,14 +2586,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 116,
-                "sd": 4,
-                "sp": 132
+                "atk": 0,
+                "def": 12,
+                "spa": 116,
+                "spd": 4,
+                "spe": 132
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -2611,11 +2611,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 68,
-                "df": 4,
-                "sa": 0,
-                "sd": 116,
-                "sp": 68
+                "atk": 68,
+                "def": 4,
+                "spa": 0,
+                "spd": 116,
+                "spe": 68
             },
             "nature": "Careful",
             "ability": "Contrary",
@@ -2633,11 +2633,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 92,
-                "at": 252,
-                "df": 44,
-                "sa": 0,
-                "sd": 4,
-                "sp": 116
+                "atk": 252,
+                "def": 44,
+                "spa": 0,
+                "spd": 4,
+                "spe": 116
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
@@ -2653,11 +2653,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 132,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 116
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 116
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
@@ -2674,14 +2674,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 132,
-                "sa": 0,
-                "sd": 124,
-                "sp": 0
+                "atk": 0,
+                "def": 132,
+                "spa": 0,
+                "spd": 124,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -2699,14 +2699,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Adaptability",
@@ -2722,15 +2722,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0,
+                "atk": 0,
+                "spe": 0,
             },
             "nature": "Quiet",
             "ability": "Adaptability",
@@ -2748,11 +2748,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "Overcoat",
@@ -2770,14 +2770,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 0,
-                "df": 116,
-                "sa": 76,
-                "sd": 84,
-                "sp": 4
+                "atk": 0,
+                "def": 116,
+                "spa": 76,
+                "spd": 84,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Coba Berry",
@@ -2795,11 +2795,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Torrent",
@@ -2817,14 +2817,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Levitate",
@@ -2842,11 +2842,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -2862,11 +2862,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 132,
-                "at": 0,
-                "df": 20,
-                "sa": 100,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 20,
+                "spa": 100,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -2884,11 +2884,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -2906,14 +2906,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -2929,14 +2929,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "",
@@ -2952,14 +2952,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -2974,14 +2974,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 36,
-                "at": 0,
-                "df": 196,
-                "sa": 172,
-                "sd": 4,
-                "sp": 100
+                "atk": 0,
+                "def": 196,
+                "spa": 172,
+                "spd": 4,
+                "spe": 100
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Competitive",
@@ -2997,14 +2997,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Competitive",
@@ -3022,11 +3022,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Unnerve",
@@ -3044,14 +3044,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 116,
-                "at": 0,
-                "df": 4,
-                "sa": 76,
-                "sd": 68,
-                "sp": 244
+                "atk": 0,
+                "def": 4,
+                "spa": 76,
+                "spd": 68,
+                "spe": 244
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Intimidate",
@@ -3067,11 +3067,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 228
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 228
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -3089,14 +3089,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 172,
-                "sa": 0,
-                "sd": 84,
-                "sp": 0
+                "atk": 0,
+                "def": 172,
+                "spa": 0,
+                "spd": 84,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Drizzle",
@@ -3112,14 +3112,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 4
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -3137,14 +3137,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 108,
-                "at": 156,
-                "df": 0,
-                "sa": 0,
-                "sd": 244,
-                "sp": 0
+                "atk": 156,
+                "def": 0,
+                "spa": 0,
+                "spd": 244,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Solid Rock",
@@ -3160,11 +3160,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Solid Rock",
@@ -3182,11 +3182,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -3204,14 +3204,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "sa": 0,
+                "spa": 0,
             },
             "nature": "Jolly",
             "ability": "",
@@ -3229,14 +3229,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -3254,14 +3254,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 92,
-                "sa": 36,
-                "sd": 100,
-                "sp": 36
+                "atk": 0,
+                "def": 92,
+                "spa": 36,
+                "spd": 100,
+                "spe": 36
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Download",
@@ -3277,14 +3277,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 108,
-                "sa": 4,
-                "sd": 140,
-                "sp": 12
+                "atk": 0,
+                "def": 108,
+                "spa": 4,
+                "spd": 140,
+                "spe": 12
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "Download",
@@ -3300,14 +3300,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Download",
@@ -3325,11 +3325,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Oblivious",
@@ -3347,15 +3347,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 164,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 92,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 92,
+                "spe": 0
             },
             "evs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -3373,14 +3373,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 116,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 116,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "",
@@ -3396,14 +3396,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -3420,14 +3420,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 12,
-                "sa": 116,
-                "sd": 20,
-                "sp": 108
+                "atk": 0,
+                "def": 12,
+                "spa": 116,
+                "spd": 20,
+                "spe": 108
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -3445,14 +3445,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 156,
-                "sa": 4,
-                "sd": 100,
-                "sp": 4
+                "atk": 0,
+                "def": 156,
+                "spa": 4,
+                "spd": 100,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "item": "Leftovers",
@@ -3467,11 +3467,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
@@ -3489,11 +3489,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -3511,11 +3511,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -3533,11 +3533,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Guts",
@@ -3555,11 +3555,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 76,
-                "at": 252,
-                "df": 180,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 180,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Sniper",
@@ -3577,11 +3577,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -3597,11 +3597,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 52,
-                "at": 4,
-                "df": 196,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 4,
+                "def": 196,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -3619,11 +3619,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -3639,14 +3639,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 180,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 180,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Calm",
             "ability": "",
@@ -3663,11 +3663,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -3685,11 +3685,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -3707,14 +3707,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Sheer Force",
@@ -3732,14 +3732,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -3757,14 +3757,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -3782,14 +3782,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Solar Power",
@@ -3807,14 +3807,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 0,
-                "df": 4,
-                "sa": 132,
-                "sd": 4,
-                "sp": 172
+                "atk": 0,
+                "def": 4,
+                "spa": 132,
+                "spd": 4,
+                "spe": 172
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "",
@@ -3832,11 +3832,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 4,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Snow Warning",
@@ -3854,15 +3854,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0,
+                "atk": 0,
+                "spe": 0,
             },
             "nature": "Quiet",
             "ability": "",
@@ -3880,11 +3880,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -3902,11 +3902,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -3924,14 +3924,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "ability": "Overcoat",
@@ -3949,11 +3949,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Sheer Force",
@@ -3969,14 +3969,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Sand Force",
@@ -3993,14 +3993,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -4018,14 +4018,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Defeatist",
@@ -4043,14 +4043,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Levitate",
@@ -4068,11 +4068,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Huge Power",
@@ -4090,11 +4090,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -4111,11 +4111,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 164,
-                "df": 4,
-                "sa": 0,
-                "sd": 84,
-                "sp": 4
+                "atk": 164,
+                "def": 4,
+                "spa": 0,
+                "spd": 84,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "",
@@ -4133,14 +4133,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Chlorophyll",
@@ -4158,14 +4158,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Levitate",
@@ -4183,14 +4183,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -4208,14 +4208,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Intimidate",
@@ -4231,11 +4231,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 52,
-                "at": 52,
-                "df": 20,
-                "sa": 0,
-                "sd": 132,
-                "sp": 252
+                "atk": 52,
+                "def": 20,
+                "spa": 0,
+                "spd": 132,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Intimidate",
@@ -4253,11 +4253,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Mold Breaker",
@@ -4275,11 +4275,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Sand Stream",
@@ -4297,14 +4297,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -4322,11 +4322,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -4342,11 +4342,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Clear Body",
@@ -4362,11 +4362,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 132,
-                "df": 4,
-                "sa": 0,
-                "sd": 100,
-                "sp": 20
+                "atk": 132,
+                "def": 4,
+                "spa": 0,
+                "spd": 100,
+                "spe": 20
             },
             "nature": "Adamant",
             "ability": "Clear Body",
@@ -4384,14 +4384,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -4409,11 +4409,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Own Tempo",
@@ -4431,11 +4431,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -4453,14 +4453,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Flash Fire",
@@ -4478,11 +4478,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -4500,14 +4500,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -4525,14 +4525,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Relaxed",
             "ability": "",
@@ -4548,14 +4548,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Storm Drain",
@@ -4573,11 +4573,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Hyper Cutter",
@@ -4595,14 +4595,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Levitate",
@@ -4620,14 +4620,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -4645,11 +4645,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Motor Drive",
@@ -4667,11 +4667,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 76,
-                "sa": 4,
-                "sd": 100,
-                "sp": 76
+                "atk": 0,
+                "def": 76,
+                "spa": 4,
+                "spd": 100,
+                "spe": 76
             },
             "nature": "Calm",
             "ability": "Inner Focus",
@@ -4689,11 +4689,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 36,
-                "sa": 0,
-                "sd": 220,
-                "sp": 0
+                "atk": 0,
+                "def": 36,
+                "spa": 0,
+                "spd": 220,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -4711,14 +4711,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 28,
-                "at": 0,
-                "df": 212,
-                "sa": 204,
-                "sd": 60,
-                "sp": 4
+                "atk": 0,
+                "def": 212,
+                "spa": 204,
+                "spd": 60,
+                "spe": 4
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Storm Drain",
@@ -4736,14 +4736,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Volt Absorb",
@@ -4761,11 +4761,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Stream",
@@ -4781,11 +4781,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 204,
-                "df": 12,
-                "sa": 0,
-                "sd": 4,
-                "sp": 84
+                "atk": 204,
+                "def": 12,
+                "spa": 0,
+                "spd": 4,
+                "spe": 84
             },
             "nature": "Adamant",
             "ability": "Sand Stream",
@@ -4803,14 +4803,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -4828,11 +4828,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Swift Swim",
@@ -4850,11 +4850,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Clear Body",
@@ -4872,14 +4872,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "sa": 0,
+                "spa": 0,
             },
             "nature": "Jolly",
             "ability": "",
@@ -4897,11 +4897,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 20,
-                "df": 76,
-                "sa": 0,
-                "sd": 156,
-                "sp": 4
+                "atk": 20,
+                "def": 76,
+                "spa": 0,
+                "spd": 156,
+                "spe": 4
             },
             "nature": "Careful",
             "ability": "Intimidate",
@@ -4919,14 +4919,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -4944,14 +4944,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -4967,14 +4967,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Drizzle",
@@ -4993,11 +4993,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Drought",
@@ -5016,11 +5016,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Air Lock",
@@ -5036,11 +5036,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Naive",
             "ability": "Air Lock",
@@ -5059,14 +5059,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Fairy Aura",
@@ -5082,14 +5082,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 140,
-                "sa": 84,
-                "sd": 4,
-                "sp": 28
+                "atk": 0,
+                "def": 140,
+                "spa": 84,
+                "spd": 4,
+                "spe": 28
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Fairy Aura",
@@ -5108,11 +5108,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Dark Aura",
@@ -5131,14 +5131,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -5157,14 +5157,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -5183,11 +5183,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5206,11 +5206,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Levitate",
@@ -5229,14 +5229,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Turboblaze",
@@ -5255,11 +5255,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Teravolt",
@@ -5278,11 +5278,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Teravolt",
@@ -5301,14 +5301,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Turboblaze",
@@ -5327,11 +5327,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5350,14 +5350,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -5376,14 +5376,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Unnerve",
@@ -5402,11 +5402,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5425,11 +5425,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 4,
-                "df": 68,
-                "sa": 0,
-                "sd": 188,
-                "sp": 4
+                "atk": 4,
+                "def": 68,
+                "spa": 0,
+                "spd": 188,
+                "spe": 4
             },
             "nature": "Careful",
             "ability": "Intimidate",
@@ -5445,11 +5445,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 12,
-                "df": 188,
-                "sa": 4,
-                "sd": 60,
-                "sp": 0
+                "atk": 12,
+                "def": 188,
+                "spa": 4,
+                "spd": 60,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Intimidate",
@@ -5465,11 +5465,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 116,
-                "sa": 0,
-                "sd": 140,
-                "sp": 0
+                "atk": 0,
+                "def": 116,
+                "spa": 0,
+                "spd": 140,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "Intimidate",
@@ -5486,15 +5486,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Liquid Voice",
@@ -5510,14 +5510,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 0,
-                "df": 20,
-                "sa": 196,
-                "sd": 4,
-                "sp": 84
+                "atk": 0,
+                "def": 20,
+                "spa": 196,
+                "spd": 4,
+                "spe": 84
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Torrent",
@@ -5535,14 +5535,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "",
@@ -5560,14 +5560,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "",
@@ -5586,11 +5586,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Rush",
@@ -5609,15 +5609,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -5636,11 +5636,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
@@ -5659,14 +5659,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Water Bubble",
@@ -5683,14 +5683,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Water Bubble",
@@ -5709,11 +5709,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5732,11 +5732,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "",
@@ -5755,11 +5755,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5778,14 +5778,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 244,
-                "sa": 0,
-                "sd": 12,
-                "sp": 0
+                "atk": 0,
+                "def": 244,
+                "spa": 0,
+                "spd": 12,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "",
@@ -5801,14 +5801,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -5827,11 +5827,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -5850,11 +5850,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 0,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5873,11 +5873,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "RKS System",
@@ -5896,14 +5896,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Shell Armor",
@@ -5922,11 +5922,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Lighting Rod",
@@ -5945,11 +5945,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 220,
-                "sa": 0,
-                "sd": 36,
-                "sp": 0
+                "atk": 0,
+                "def": 220,
+                "spa": 0,
+                "spd": 36,
+                "spe": 0
             },
             "nature": "Careful",
             "ability": "",
@@ -5965,11 +5965,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -5988,14 +5988,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 52,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 52,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0,
+                "spe": 0,
             },
             "nature": "Brave",
             "ability": "Steelworker",
@@ -6014,11 +6014,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Soundproof",
@@ -6037,14 +6037,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -6060,14 +6060,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 20,
-                "sa": 60,
-                "sd": 4,
-                "sp": 188
+                "atk": 0,
+                "def": 20,
+                "spa": 60,
+                "spd": 4,
+                "spe": 188
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -6081,14 +6081,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 12,
-                "sa": 28,
-                "sd": 132,
-                "sp": 100
+                "atk": 0,
+                "def": 12,
+                "spa": 28,
+                "spd": 132,
+                "spe": 100
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -6108,14 +6108,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Psychic Surge",
@@ -6131,14 +6131,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 92,
-                "at": 0,
-                "df": 4,
-                "sa": 156,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 156,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -6157,11 +6157,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 156,
-                "df": 0,
-                "sa": 100,
-                "sd": 0,
-                "sp": 252
+                "atk": 156,
+                "def": 0,
+                "spa": 100,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Naughty",
             "ability": "Grassy Surge",
@@ -6180,14 +6180,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 244,
-              "at": 0,
-              "df": 0,
-              "sa": 196,
-              "sd": 0,
-              "sp": 68
+              "atk": 0,
+              "def": 0,
+              "spa": 196,
+              "spd": 0,
+              "spe": 68
           },
           "ivs": {
-              "at": 0,
+              "atk": 0,
           },
           "nature": "Modest",
           "ability": "Misty Surge",
@@ -6203,14 +6203,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 132,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 124
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 124
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Misty Surge",
@@ -6229,14 +6229,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "",
@@ -6255,11 +6255,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6275,11 +6275,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -6298,14 +6298,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "",
@@ -6324,14 +6324,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 52,
-                "at": 0,
-                "df": 4,
-                "sa": 180,
-                "sd": 100,
-                "sp": 172
+                "atk": 0,
+                "def": 4,
+                "spa": 180,
+                "spd": 100,
+                "spe": 172
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -6347,14 +6347,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "",
@@ -6370,14 +6370,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 244,
-                "sa": 0,
-                "sd": 12,
-                "sp": 0
+                "atk": 0,
+                "def": 244,
+                "spa": 0,
+                "spd": 12,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -6394,11 +6394,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 68,
-                "at": 84,
-                "df": 4,
-                "sa": 0,
-                "sd": 100,
-                "sp": 252
+                "atk": 84,
+                "def": 4,
+                "spa": 0,
+                "spd": 100,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6415,11 +6415,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "",
@@ -6439,11 +6439,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 20
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 20
             },
             "nature": "Adamant",
             "ability": "Lightning Rod",
@@ -6461,14 +6461,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Snow Warning",
@@ -6487,14 +6487,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Surge Surfer",
@@ -6513,11 +6513,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 68,
-                "sa": 0,
-                "sd": 0,
-                "sp": 228
+                "atk": 0,
+                "def": 68,
+                "spa": 0,
+                "spd": 0,
+                "spe": 228
             },
             "nature": "Timid",
             "ability": "Fur Coat",
@@ -6536,14 +6536,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 252,
-              "at": 252,
-              "df": 0,
-              "sa": 0,
-              "sd": 4,
-              "sp": 0
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
           },
           "ivs": {
-            "sp": 0
+            "spe": 0
           },
           "nature": "Brave",
           "ability": "",
@@ -6559,15 +6559,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "df": 16,
-                "sp": 0
+                "def": 16,
+                "spe": 0
             },
             "nature": "Lonely",
             "ability": "",
@@ -6585,14 +6585,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "ivs": {
-              "at": 0,
+              "atk": 0,
           },
           "nature": "Timid",
           "ability": "",
@@ -6610,14 +6610,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "ivs": {
-              "at": 0,
+              "atk": 0,
           },
           "nature": "Timid",
           "ability": "",
@@ -6635,14 +6635,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "ivs": {
-            "at": 0
+            "atk": 0
           },
           "nature": "Timid",
           "ability": "Shadow Shield",
@@ -6658,15 +6658,15 @@ var SETDEX_VGC2021 = {
         "level": 50,
         "evs": {
             "hp": 252,
-            "at": 0,
-            "df": 0,
-            "sa": 252,
-            "sd": 4,
-            "sp": 0
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 4,
+            "spe": 0
         },
         "ivs": {
-            "at": 0,
-            "sp": 0
+            "atk": 0,
+            "spe": 0
         },
         "nature": "Quiet",
         "ability": "Shadow Shield",
@@ -6682,14 +6682,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "ivs": {
-            "at": 0
+            "atk": 0
           },
           "nature": "Timid",
           "ability": "Shadow Shield",
@@ -6707,11 +6707,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
           "nature": "Adamant",
           "ability": "Full Metal Body",
@@ -6727,11 +6727,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
           "nature": "Jolly",
           "ability": "Full Metal Body",
@@ -6749,15 +6749,15 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 252,
-              "at": 0,
-              "df": 4,
-              "sa": 252,
-              "sd": 0,
-              "sp": 0
+              "atk": 0,
+              "def": 4,
+              "spa": 252,
+              "spd": 0,
+              "spe": 0
           },
           "ivs": {
-              "at": 0,
-              "sp": 0
+              "atk": 0,
+              "spe": 0
           },
           "nature": "Quiet",
           "ability": "Prism Armor",
@@ -6775,11 +6775,11 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 252,
-              "at": 252,
-              "df": 0,
-              "sa": 0,
-              "sd": 4,
-              "sp": 0
+              "atk": 252,
+              "def": 0,
+              "spa": 0,
+              "spd": 4,
+              "spe": 0
           },
           "nature": "Adamant",
           "ability": "Power Construct",
@@ -6797,14 +6797,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "ivs": {
-              "at": 0,
+              "atk": 0,
           },
           "nature": "Modest",
           "ability": "",
@@ -6820,11 +6820,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "",
@@ -6842,14 +6842,14 @@ var SETDEX_VGC2021 = {
           "level": 50,
           "evs": {
               "hp": 4,
-              "at": 0,
-              "df": 0,
-              "sa": 252,
-              "sd": 0,
-              "sp": 252
+              "atk": 0,
+              "def": 0,
+              "spa": 252,
+              "spd": 0,
+              "spe": 252
           },
           "ivs": {
-              "at": 0,
+              "atk": 0,
           },
           "nature": "Timid",
           "ability": "Torrent",
@@ -6867,11 +6867,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Clear Body",
@@ -6887,14 +6887,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 4,
-                "df": 28,
-                "sa": 0,
-                "sd": 76,
-                "sp": 164
+                "atk": 4,
+                "def": 28,
+                "spa": 0,
+                "spd": 76,
+                "spe": 164
             },
             "ivs": {
-                "sa": 0,
+                "spa": 0,
             },
             "nature": "Jolly",
             "ability": "Clear Body",
@@ -6910,14 +6910,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Assault Vest",
@@ -6935,11 +6935,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Strong Jaw",
@@ -6955,11 +6955,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -6975,11 +6975,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Sand Rush",
@@ -6997,11 +6997,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Sand Rush",
@@ -7017,11 +7017,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Hustle",
@@ -7039,11 +7039,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Swift Swim",
@@ -7061,14 +7061,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "White Smoke",
@@ -7086,11 +7086,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 156,
-                "at": 116,
-                "df": 0,
-                "sa": 0,
-                "sd": 236,
-                "sp": 0
+                "atk": 116,
+                "def": 0,
+                "spa": 0,
+                "spd": 236,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "",
@@ -7108,14 +7108,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -7130,14 +7130,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "ability": "Psychic Surge",
@@ -7154,14 +7154,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -7177,14 +7177,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Psychic Surge",
@@ -7202,11 +7202,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Gorilla Tactics",
@@ -7224,11 +7224,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 4,
-                "df": 84,
-                "sa": 0,
-                "sd": 172,
-                "sp": 36
+                "atk": 4,
+                "def": 84,
+                "spa": 0,
+                "spd": 172,
+                "spe": 36
             },
             "nature": "Careful",
             "ability": "",
@@ -7244,11 +7244,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 4,
-                "df": 116,
-                "sa": 0,
-                "sd": 124,
-                "sp": 20
+                "atk": 4,
+                "def": 116,
+                "spa": 0,
+                "spd": 124,
+                "spe": 20
             },
             "nature": "Careful",
             "ability": "",
@@ -7266,14 +7266,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Punk Rock",
@@ -7291,11 +7291,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 84,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 180
+                "atk": 84,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 180
             },
             "nature": "Adamant",
             "ability": "Mirror Armor",
@@ -7312,11 +7312,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -7334,15 +7334,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 196,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 196,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "",
@@ -7360,15 +7360,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "",
@@ -7386,11 +7386,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 172,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 76
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 76
             },
             "nature": "Adamant",
             "ability": "Grassy Surge",
@@ -7406,11 +7406,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 60
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 60
             },
             "nature": "Adamant",
             "ability": "Grassy Surge",
@@ -7426,11 +7426,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 116,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 132
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 132
             },
             "nature": "Adamant",
             "ability": "Grassy Surge",
@@ -7448,11 +7448,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Libero",
@@ -7468,11 +7468,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 52,
-                "at": 196,
-                "df": 4,
-                "sa": 0,
-                "sd": 76,
-                "sp": 180
+                "atk": 196,
+                "def": 4,
+                "spa": 0,
+                "spd": 76,
+                "spe": 180
             },
             "nature": "Jolly",
             "ability": "Libero",
@@ -7490,11 +7490,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "moves": [
@@ -7507,11 +7507,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "item": "Choice Band",
@@ -7528,11 +7528,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "moves": [
@@ -7545,11 +7545,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Adamant",
             "item": "Choice Band",
@@ -7566,15 +7566,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "item": "Colbur Berry",
@@ -7591,15 +7591,15 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "item": "Shuca Berry",
@@ -7616,14 +7616,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "item": "",
@@ -7637,14 +7637,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 164,
-                "sa": 4,
-                "sd": 4,
-                "sp": 92
+                "atk": 0,
+                "def": 164,
+                "spa": 4,
+                "spd": 4,
+                "spe": 92
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Bold",
             "item": "Babiri Berry",
@@ -7660,14 +7660,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Competitive",
@@ -7685,11 +7685,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -7705,11 +7705,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 148,
-                "at": 252,
-                "df": 52,
-                "sa": 0,
-                "sd": 4,
-                "sp": 52
+                "atk": 252,
+                "def": 52,
+                "spa": 0,
+                "spd": 4,
+                "spe": 52
             },
             "nature": "Adamant",
             "ability": "Defiant",
@@ -7727,11 +7727,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "item": "Life Orb",
@@ -7746,11 +7746,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 0,
-                "df": 60,
-                "sa": 100,
-                "sd": 12,
-                "sp": 132
+                "atk": 0,
+                "def": 60,
+                "spa": 100,
+                "spd": 12,
+                "spe": 132
             },
             "nature": "Modest",
             "item": "",
@@ -7767,14 +7767,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Transistor",
@@ -7790,14 +7790,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 76,
-                "at": 0,
-                "df": 68,
-                "sa": 252,
-                "sd": 76,
-                "sp": 36
+                "atk": 0,
+                "def": 68,
+                "spa": 252,
+                "spd": 76,
+                "spe": 36
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Transistor",
@@ -7813,14 +7813,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Transistor",
@@ -7836,14 +7836,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 0,
-                "df": 188,
-                "sa": 4,
-                "sd": 36,
-                "sp": 92
+                "atk": 0,
+                "def": 188,
+                "spa": 4,
+                "spd": 36,
+                "spe": 92
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Transistor",
@@ -7859,14 +7859,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Dragon\'s Maw",
@@ -7882,14 +7882,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 12,
-                "at": 0,
-                "df": 116,
-                "sa": 244,
-                "sd": 68,
-                "sp": 68
+                "atk": 0,
+                "def": 116,
+                "spa": 244,
+                "spd": 68,
+                "spe": 68
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Dragon\'s Maw",
@@ -7907,14 +7907,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "item": "Assault Vest",
@@ -7931,14 +7931,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "item": "Life Orb",
@@ -7955,11 +7955,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "item": "",
@@ -7976,11 +7976,11 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 44,
-                "at": 220,
-                "df": 36,
-                "sa": 0,
-                "sd": 52,
-                "sp": 156
+                "atk": 220,
+                "def": 36,
+                "spa": 0,
+                "spd": 52,
+                "spe": 156
             },
             "nature": "Impish",
             "item": "",
@@ -7997,14 +7997,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 156,
-                "sa": 12,
-                "sd": 76,
-                "sp": 20
+                "atk": 0,
+                "def": 156,
+                "spa": 12,
+                "spd": 76,
+                "spe": 20
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "item": "Iapapa Berry",
@@ -8021,14 +8021,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "item": "Life Orb",
@@ -8045,14 +8045,14 @@ var SETDEX_VGC2021 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "item": "Life Orb",
@@ -8072,11 +8072,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 4,
-                "df": 4,
-                "sa": 0,
-                "sd": 236,
-                "sp": 28
+                "atk": 4,
+                "def": 4,
+                "spa": 0,
+                "spd": 236,
+                "spe": 28
             },
             "nature": "Careful",
             "ability": "Intimidate",
@@ -8092,11 +8092,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 4,
-                "df": 164,
-                "sa": 0,
-                "sd": 44,
-                "sp": 44
+                "atk": 4,
+                "def": 164,
+                "spa": 0,
+                "spd": 44,
+                "spe": 44
             },
             "nature": "Impish",
             "ability": "Intimidate",
@@ -8114,11 +8114,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 140,
-                "df": 12,
-                "sa": 0,
-                "sd": 108,
-                "sp": 60
+                "atk": 140,
+                "def": 12,
+                "spa": 0,
+                "spd": 108,
+                "spe": 60
             },
             "nature": "Adamant",
             "ability": "Grassy Surge",
@@ -8137,11 +8137,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 140,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 236,
-                "sp": 132
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 236,
+                "spe": 132
             },
             "nature": "Adamant",
             "ability": "Unseen Fist",
@@ -8157,11 +8157,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Unseen Fist",
@@ -8180,11 +8180,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Sheer Force",
@@ -8203,11 +8203,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 156,
-                "at": 156,
-                "df": 4,
-                "sa": 0,
-                "sd": 12,
-                "sp": 180
+                "atk": 156,
+                "def": 4,
+                "spa": 0,
+                "spd": 12,
+                "spe": 180
             },
             "nature": "Adamant",
             "ability": "Intrepid Sword",
@@ -8226,14 +8226,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 196,
-                "at": 0,
-                "df": 236,
-                "sa": 4,
-                "sd": 4,
-                "sp": 68
+                "atk": 0,
+                "def": 236,
+                "spa": 4,
+                "spd": 4,
+                "spe": 68
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Flame Body",
@@ -8249,14 +8249,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 124,
-                "at": 0,
-                "df": 116,
-                "sa": 36,
-                "sd": 4,
-                "sp": 228
+                "atk": 0,
+                "def": 116,
+                "spa": 36,
+                "spd": 4,
+                "spe": 228
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Flame Body",
@@ -8275,14 +8275,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 92,
-                "at": 0,
-                "df": 12,
-                "sa": 132,
-                "sd": 36,
-                "sp": 236
+                "atk": 0,
+                "def": 12,
+                "spa": 132,
+                "spd": 36,
+                "spe": 236
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Fairy Aura",
@@ -8301,15 +8301,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 188,
-                "sa": 0,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 188,
+                "spa": 0,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Regenerator",
@@ -8328,14 +8328,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Drizzle",
@@ -8351,14 +8351,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 188,
-                "sa": 4,
-                "sd": 60,
-                "sp": 5
+                "atk": 0,
+                "def": 188,
+                "spa": 4,
+                "spd": 60,
+                "spe": 5
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Drizzle",
@@ -8377,14 +8377,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "As One",
@@ -8403,11 +8403,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 36,
-                "df": 52,
-                "sa": 0,
-                "sd": 12,
-                "sp": 156
+                "atk": 36,
+                "def": 52,
+                "spa": 0,
+                "spd": 12,
+                "spe": 156
             },
             "nature": "Adamant",
             "ability": "Queenly Majesty",
@@ -8423,11 +8423,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 76,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 196
+                "atk": 76,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 196
             },
             "nature": "Adamant",
             "ability": "Queenly Majesty",
@@ -8446,14 +8446,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 100,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 156,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 156,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Prankster",
@@ -8472,11 +8472,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Adamant",
             "ability": "Unseen Fist",
@@ -8492,11 +8492,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Unseen Fist",
@@ -8515,14 +8515,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Psychic Surge",
@@ -8538,15 +8538,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0,
+                "atk": 0,
+                "spe": 0,
             },
             "nature": "Quiet",
             "ability": "Psychic Surge",
@@ -8565,11 +8565,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 212,
-                "at": 0,
-                "df": 244,
-                "sa": 20,
-                "sd": 4,
-                "sp": 28
+                "atk": 0,
+                "def": 244,
+                "spa": 20,
+                "spd": 4,
+                "spe": 28
             },
             "nature": "Bold",
             "ability": "Intimidate",
@@ -8585,11 +8585,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Modest",
             "ability": "Intimidate",
@@ -8608,14 +8608,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 124,
-                "sa": 12,
-                "sd": 76,
-                "sp": 52
+                "atk": 0,
+                "def": 124,
+                "spa": 12,
+                "spd": 76,
+                "spe": 52
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Misty Surge",
@@ -8634,11 +8634,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Inner Focus",
@@ -8654,11 +8654,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 12,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 236
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 236
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
@@ -8674,11 +8674,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 76,
-                "df": 0,
-                "sa": 196,
-                "sd": 0,
-                "sp": 236
+                "atk": 76,
+                "def": 0,
+                "spa": 196,
+                "spd": 0,
+                "spe": 236
             },
             "nature": "Mild",
             "ability": "Inner Focus",
@@ -8697,14 +8697,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 76,
-                "sa": 172,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 76,
+                "spa": 172,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Beast Boost",
@@ -8723,14 +8723,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 172,
-                "at": 0,
-                "df": 4,
-                "sa": 76,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 4,
+                "spa": 76,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Psychic Surge",
@@ -8746,14 +8746,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 60,
-                "at": 0,
-                "df": 4,
-                "sa": 252,
-                "sd": 4,
-                "sp": 188
+                "atk": 0,
+                "def": 4,
+                "spa": 252,
+                "spd": 4,
+                "spe": 188
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Psychic Surge",
@@ -8772,15 +8772,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Imposter",
@@ -8799,14 +8799,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 172,
-                "at": 0,
-                "df": 28,
-                "sa": 116,
-                "sd": 28,
-                "sp": 164
+                "atk": 0,
+                "def": 28,
+                "spa": 116,
+                "spd": 28,
+                "spe": 164
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Pressure",
@@ -8822,14 +8822,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 0,
-                "df": 0,
-                "sa": 140,
-                "sd": 0,
-                "sp": 148
+                "atk": 0,
+                "def": 0,
+                "spa": 140,
+                "spd": 0,
+                "spe": 148
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Pressure",
@@ -8845,14 +8845,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Pressure",
@@ -8871,11 +8871,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 4,
-                "sa": 68,
-                "sd": 12,
-                "sp": 188
+                "atk": 0,
+                "def": 4,
+                "spa": 68,
+                "spd": 12,
+                "spe": 188
             },
             "nature": "Modest",
             "ability": "Dark Aura",
@@ -8894,14 +8894,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 92,
-                "sa": 0,
-                "sd": 172,
-                "sp": 0
+                "atk": 0,
+                "def": 92,
+                "spa": 0,
+                "spd": 172,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Sassy",
             "ability": "Beast Boost",
@@ -8920,11 +8920,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 252,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 12
+                "atk": 252,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 12
             },
             "nature": "Adamant",
             "ability": "Drought",
@@ -8940,11 +8940,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 228,
-                "at": 76,
-                "df": 4,
-                "sa": 0,
-                "sd": 172,
-                "sp": 28
+                "atk": 76,
+                "def": 4,
+                "spa": 0,
+                "spd": 172,
+                "spe": 28
             },
             "nature": "Adamant",
             "ability": "Drought",
@@ -8963,14 +8963,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Prankster",
@@ -8989,15 +8989,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "df": 0,
-                "sd": 0
+                "def": 0,
+                "spd": 0
             },
             "nature": "Lonely",
             "ability": "Wonder Guard",
@@ -9016,14 +9016,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 100,
-                "sa": 156,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 100,
+                "spa": 156,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Berserk",
@@ -9042,11 +9042,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Defiant",
@@ -9065,11 +9065,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Shadow Tag",
@@ -9088,14 +9088,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 188,
-                "at": 0,
-                "df": 132,
-                "sa": 4,
-                "sd": 180,
-                "sp": 4
+                "atk": 0,
+                "def": 132,
+                "spa": 4,
+                "spd": 180,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Storm Drain",
@@ -9114,15 +9114,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 12,
-                "sa": 116,
-                "sd": 124,
-                "sp": 0
+                "atk": 0,
+                "def": 12,
+                "spa": 116,
+                "spd": 124,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Download",
@@ -9141,11 +9141,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 108,
-                "df": 36,
-                "sa": 0,
-                "sd": 44,
-                "sp": 68
+                "atk": 108,
+                "def": 36,
+                "spa": 0,
+                "spd": 44,
+                "spe": 68
             },
             "nature": "Adamant",
             "ability": "Regenerator",
@@ -9164,14 +9164,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Chlorophyll",
@@ -9190,14 +9190,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 84,
-                "df": 108,
-                "sa": 4,
-                "sd": 60,
-                "sp": 0
+                "atk": 84,
+                "def": 108,
+                "spa": 4,
+                "spd": 60,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Stance Change",
@@ -9213,14 +9213,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Stance Change",
@@ -9239,15 +9239,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 0,
-                "sa": 164,
-                "sd": 100,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 164,
+                "spd": 100,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Quiet",
             "ability": "Shadow Shield",
@@ -9266,11 +9266,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sa": 4,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 4,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Timid",
             "ability": "Lightning Rod",
@@ -9289,11 +9289,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 20,
-                "at": 236,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 236,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Beast Boost",
@@ -9312,14 +9312,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 12,
-                "sa": 4,
-                "sd": 100,
-                "sp": 148
+                "atk": 0,
+                "def": 12,
+                "spa": 4,
+                "spd": 100,
+                "spe": 148
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Electric Surge",
@@ -9338,14 +9338,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 20,
-                "sa": 236,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 20,
+                "spa": 236,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Pressure",
@@ -9364,11 +9364,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -9387,15 +9387,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 4,
-                "sa": 0,
-                "sd": 252,
-                "sp": 0
+                "atk": 0,
+                "def": 4,
+                "spa": 0,
+                "spd": 252,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Sassy",
             "ability": "Inner Focus",
@@ -9414,14 +9414,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 164,
-                "sa": 4,
-                "sd": 84,
-                "sp": 4
+                "atk": 0,
+                "def": 164,
+                "spa": 4,
+                "spd": 84,
+                "spe": 4
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Static",
@@ -9440,14 +9440,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 0,
-                "df": 0,
-                "sa": 196,
-                "sd": 76,
-                "sp": 0
+                "atk": 0,
+                "def": 0,
+                "spa": 196,
+                "spd": 76,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Modest",
             "ability": "Super Luck",
@@ -9466,14 +9466,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 172,
-                "at": 0,
-                "df": 108,
-                "sa": 0,
-                "sd": 228,
-                "sp": 0
+                "atk": 0,
+                "def": 108,
+                "spa": 0,
+                "spd": 228,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Overcoat",
@@ -9489,14 +9489,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 84,
-                "sa": 4,
-                "sd": 148,
-                "sp": 20
+                "atk": 0,
+                "def": 84,
+                "spa": 4,
+                "spd": 148,
+                "spe": 20
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Overcoat",
@@ -9512,14 +9512,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 92,
-                "sa": 4,
-                "sd": 76,
-                "sp": 92
+                "atk": 0,
+                "def": 92,
+                "spa": 4,
+                "spd": 76,
+                "spe": 92
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Overcoat",
@@ -9538,11 +9538,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 84,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 172
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 172
             },
             "nature": "Modest",
             "ability": "Swift Swim",
@@ -9561,14 +9561,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 148,
-                "sa": 100,
-                "sd": 4,
-                "sp": 252
+                "atk": 0,
+                "def": 148,
+                "spa": 100,
+                "spd": 4,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Unburden",
@@ -9587,14 +9587,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 244,
-                "at": 0,
-                "df": 108,
-                "sa": 0,
-                "sd": 156,
-                "sp": 0
+                "atk": 0,
+                "def": 108,
+                "spa": 0,
+                "spd": 156,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Drizzle",
@@ -9613,15 +9613,15 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 212,
-                "sa": 0,
-                "sd": 44,
-                "sp": 0
+                "atk": 0,
+                "def": 212,
+                "spa": 0,
+                "spd": 44,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
-                "sp": 0
+                "atk": 0,
+                "spe": 0
             },
             "nature": "Relaxed",
             "ability": "Frisk",
@@ -9640,11 +9640,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 236,
-                "at": 108,
-                "df": 76,
-                "sa": 0,
-                "sd": 84,
-                "sp": 4
+                "atk": 108,
+                "def": 76,
+                "spa": 0,
+                "spd": 84,
+                "spe": 4
             },
             "nature": "Adamant",
             "ability": "Prism Armor",
@@ -9663,14 +9663,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Relaxed",
             "item": "Leftovers",
@@ -9687,14 +9687,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 108,
-                "sa": 4,
-                "sd": 92,
-                "sp": 52
+                "atk": 0,
+                "def": 108,
+                "spa": 4,
+                "spd": 92,
+                "spe": 52
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Calm",
             "ability": "Inner Focus",
@@ -9712,11 +9712,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Clear Body",
@@ -9732,14 +9732,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Infiltrator",
@@ -9757,14 +9757,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 0
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 0
             },
             "ivs": {
-                "sp": 0
+                "spe": 0
             },
             "nature": "Brave",
             "ability": "Iron Barbs",
@@ -9782,11 +9782,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 0,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Flower Gift",
@@ -9802,14 +9802,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Flower Gift",
@@ -9827,14 +9827,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sa": 4,
-                "sd": 0,
-                "sp": 0
+                "atk": 0,
+                "def": 252,
+                "spa": 4,
+                "spd": 0,
+                "spe": 0
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Bold",
             "ability": "Competitive",
@@ -9852,11 +9852,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 0,
-                "df": 204,
-                "sa": 0,
-                "sd": 100,
-                "sp": 0
+                "atk": 0,
+                "def": 204,
+                "spa": 0,
+                "spd": 100,
+                "spe": 0
             },
             "nature": "Impish",
             "ability": "Overcoat",
@@ -9874,14 +9874,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Volt Absorb",
@@ -9899,14 +9899,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 220,
-                "at": 0,
-                "df": 0,
-                "sa": 36,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 36,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Drizzle",
@@ -9924,11 +9924,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sa": 0,
-                "sd": 4,
-                "sp": 252
+                "atk": 252,
+                "def": 0,
+                "spa": 0,
+                "spd": 4,
+                "spe": 252
             },
             "nature": "Jolly",
             "ability": "Pressure",
@@ -9946,11 +9946,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 204,
-                "at": 236,
-                "df": 4,
-                "sa": 0,
-                "sd": 4,
-                "sp": 60
+                "atk": 236,
+                "def": 4,
+                "spa": 0,
+                "spd": 4,
+                "spe": 60
             },
             "nature": "Adamant",
             "ability": "Technician",
@@ -9968,14 +9968,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 68,
-                "at": 0,
-                "df": 4,
-                "sa": 236,
-                "sd": 4,
-                "sp": 196
+                "atk": 0,
+                "def": 4,
+                "spa": 236,
+                "spd": 4,
+                "spe": 196
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Modest",
             "ability": "Turboblaze",
@@ -9993,14 +9993,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 4,
-                "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "atk": 0,
+                "def": 0,
+                "spa": 252,
+                "spd": 0,
+                "spe": 252
             },
             "ivs": {
-                "at": 0
+                "atk": 0
             },
             "nature": "Timid",
             "ability": "Psychic Surge",
@@ -10018,11 +10018,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 204,
-                "df": 0,
-                "sa": 0,
-                "sd": 52,
-                "sp": 0
+                "atk": 204,
+                "def": 0,
+                "spa": 0,
+                "spd": 52,
+                "spe": 0
             },
             "nature": "Adamant",
             "ability": "Contrary",
@@ -10040,14 +10040,14 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 132,
-                "at": 0,
-                "df": 20,
-                "sa": 172,
-                "sd": 4,
-                "sp": 180
+                "atk": 0,
+                "def": 20,
+                "spa": 172,
+                "spd": 4,
+                "spe": 180
             },
             "ivs": {
-                "at": 0,
+                "atk": 0,
             },
             "nature": "Timid",
             "ability": "Inner Focus",
@@ -10065,11 +10065,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 252,
-                "at": 20,
-                "df": 20,
-                "sa": 0,
-                "sd": 116,
-                "sp": 100
+                "atk": 20,
+                "def": 20,
+                "spa": 0,
+                "spd": 116,
+                "spe": 100
             },
             "nature": "Adamant",
             "ability": "Intimidate",
@@ -10087,11 +10087,11 @@ var SETDEX_VGC2021_S10 = {
             "level": 50,
             "evs": {
                 "hp": 180,
-                "at": 252,
-                "df": 20,
-                "sa": 0,
-                "sd": 4,
-                "sp": 52
+                "atk": 252,
+                "def": 20,
+                "spa": 0,
+                "spd": 4,
+                "spe": 52
             },
             "nature": "Adamant",
             "ability": "Inner Focus",
