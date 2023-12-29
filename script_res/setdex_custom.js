@@ -593,13 +593,13 @@ var savecalc = function (set, spreadName, accessIVs) {
 
 var savecalc1 = function () {
     var p1 = new Pokemon($("#p1"));
-    var spreadName = document.getElementById('setName1').value;
+    var spreadName = document.getElementById('set-name1').value;
     accessIVs = $('#p1 input.ivs.calc-trigger').closest(".poke-info"); 
     savecalc(p1, spreadName, accessIVs);
 }
 var savecalc2 = function () {
     var p2 = new Pokemon($("#p2"));
-    var spreadName = document.getElementById('setName2').value;
+    var spreadName = document.getElementById('set-name2').value;
     accessIVs = $('#p2 input.ivs.calc-trigger').closest(".poke-info");
     savecalc(p2, spreadName, accessIVs);
 }
