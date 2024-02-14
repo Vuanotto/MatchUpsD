@@ -10907,6 +10907,7 @@ var SETDEX_VGC2023 =
 	"Magmar": {
 		"Eviolite Bold": {
 			"ability": "Flame Body",
+			"item": "Eviolite",
 			"level": 50,
 			"tera_type": "Grass",
 			"evs": {
@@ -10927,7 +10928,7 @@ var SETDEX_VGC2023 =
 		},
 	},
 	"Rhyperior": {
-		"Bulky Attackeer": {
+		"Bulky Attacker": {
 			"item": "",
 			"ability": "Solid Rock",
 			"level": 50,
@@ -10967,7 +10968,7 @@ var SETDEX_VGC2023 =
 	},
 	"Electabuzz": {
 		"Eviolite Follow Me": {
-			"item": "",
+			"item": "Eviolite",
 			"ability": "Static",
 			"level": 50,
 			"tera_type": "Electric",
